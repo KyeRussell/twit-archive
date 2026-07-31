@@ -26,8 +26,8 @@ TWiT exactly like the official player would.
      `cdn.twit.tv` URL).
 3. Caches everything to `data/episodes.json` so re-runs only fetch new episodes
    (plus a re-check of the most recent few, since show notes get edited).
-4. Writes `public/feed.xml` (RSS 2.0 + iTunes tags) and a small
-   `public/index.html` landing page.
+4. Writes `docs/feed.xml` (RSS 2.0 + iTunes tags) and a small
+   `docs/index.html` landing page.
 
 ## Run it locally
 
@@ -38,7 +38,7 @@ python build_feed.py --full     # re-crawl everything
 python build_feed.py --limit 20 # quick smoke test
 ```
 
-Then either point your podcast app at the local `public/feed.xml`, or host it
+Then either point your podcast app at the local `docs/feed.xml`, or host it
 (see below).
 
 Useful flags: `--no-sizes` (skip enclosure byte-size lookups, faster),
@@ -64,15 +64,15 @@ https://kyerussell.github.io/twit-archive/
 
 ### One-time Pages setup
 
-The workflow tries to enable Pages automatically. If a run fails at the
-**Configure GitHub Pages** step (the Actions token can't always create the
-Pages site), enable it once by hand:
+Pages is served straight from the `docs/` folder on `main`. Enable it once:
 
 1. Repo **Settings → Pages**.
-2. **Build and deployment → Source = GitHub Actions**.
-3. Re-run the **Build TWiT archive feed** workflow (Actions tab).
+2. **Build and deployment → Source = "Deploy from a branch"**.
+3. **Branch = `main`, folder = `/docs`** → **Save**.
 
-After that every run deploys automatically.
+GitHub then publishes `docs/` at the URL above (first build takes ~1 minute).
+After that, every weekly workflow commit re-publishes automatically — no deploy
+job or extra permissions required.
 
 ### Fallbacks
 

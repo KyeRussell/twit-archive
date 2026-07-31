@@ -16,10 +16,11 @@ on:
       - build_feed.py
       - .github/workflows/build-feed.yml
 
+# Only needs to commit the refreshed feed back to the repo. GitHub Pages is
+# configured to "Deploy from a branch" (main → /docs), so GitHub builds and
+# publishes the site itself whenever this commit lands — no deploy job needed.
 permissions:
-  contents: write   # commit refreshed feed/cache back to the repo
-  pages: write      # deploy to GitHub Pages
-  id-token: write   # required by deploy-pages
+  contents: write
 
 concurrency:
   group: twit-archive-feed
@@ -43,36 +44,17 @@ jobs:
 
       - name: Build feed
         run: |
-          python build_feed.py --workers 12 --out public \
+          python build_feed.py --workers 12 --out docs \
             ${{ (github.event_name == 'workflow_dispatch' && inputs.full) && '--full' || '' }}
 
       - name: Commit refreshed cache + feed
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/episodes.json public/feed.xml public/index.html
+          git add data/episodes.json docs/feed.xml docs/index.html docs/.nojekyll
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else
             git commit -m "Update TWiT archive feed ($(date -u +%Y-%m-%d))"
             git push
           fi
-
-      - name: Configure GitHub Pages
-        uses: actions/configure-pages@v5
-        with:
-          enablement: true
-
-      - uses: actions/upload-pages-artifact@v3
-        with:
-          path: public
-
-  deploy:
-    needs: build
-    runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deploy.outputs.page_url }}
-    steps:
-      - id: deploy
-        uses: actions/deploy-pages@v4
