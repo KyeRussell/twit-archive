@@ -47,42 +47,41 @@ Useful flags: `--no-sizes` (skip enclosure byte-size lookups, faster),
 
 ## Hosting — the subscribe URL
 
-The feed (`public/feed.xml`) is committed to the repo, and served publicly by
-**jsDelivr's CDN** straight from the repository — no GitHub Pages, no build
-server, no settings toggle. The only requirement is that **the repository is
-public** (jsDelivr only serves public repos).
+The feed is deployed to **GitHub Pages** by the included workflow
+(`.github/workflows/build-feed.yml`), which rebuilds weekly and on demand.
 
 Subscribe URL:
 
 ```
-https://cdn.jsdelivr.net/gh/kyerussell/twit-archive@main/public/feed.xml
+https://kyerussell.github.io/twit-archive/feed.xml
 ```
 
 Human landing page (archive list + one-tap subscribe):
 
 ```
-https://cdn.jsdelivr.net/gh/kyerussell/twit-archive@main/public/index.html
+https://kyerussell.github.io/twit-archive/
 ```
 
-The included workflow (`.github/workflows/build-feed.yml`) rebuilds the feed
-weekly, commits the updated `public/feed.xml` + `data/episodes.json`, and pings
-jsDelivr's purge endpoint so subscribers pick up new episodes within minutes.
+### One-time Pages setup
 
-### Raw fallback
+The workflow tries to enable Pages automatically. If a run fails at the
+**Configure GitHub Pages** step (the Actions token can't always create the
+Pages site), enable it once by hand:
 
-If you ever prefer not to depend on jsDelivr, the same file is reachable
-directly (text/plain content-type; most apps still accept it):
+1. Repo **Settings → Pages**.
+2. **Build and deployment → Source = GitHub Actions**.
+3. Re-run the **Build TWiT archive feed** workflow (Actions tab).
+
+After that every run deploys automatically.
+
+### Fallbacks
+
+The feed is also committed to the repo, so it's reachable directly:
 
 ```
 https://raw.githubusercontent.com/kyerussell/twit-archive/main/public/feed.xml
+https://cdn.jsdelivr.net/gh/kyerussell/twit-archive@main/public/feed.xml
 ```
-
-### Prefer GitHub Pages instead?
-
-Pages also works (immediate updates, proper content-type). One-time setup:
-**Settings → Pages → Source = GitHub Actions**, then add a deploy job that
-uploads `public/` via `actions/upload-pages-artifact` + `actions/deploy-pages`.
-jsDelivr is the default here because it needs zero configuration.
 
 ### Notes & caveats
 

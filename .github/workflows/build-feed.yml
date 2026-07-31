@@ -16,17 +16,17 @@ on:
       - build_feed.py
       - .github/workflows/build-feed.yml
 
-# Needed to commit the refreshed feed/cache back to the repo.
 permissions:
-  contents: write
+  contents: write   # commit refreshed feed/cache back to the repo
+  pages: write      # deploy to GitHub Pages
+  id-token: write   # required by deploy-pages
 
 concurrency:
   group: twit-archive-feed
   cancel-in-progress: false
 
 env:
-  # Public subscribe URL (served straight from the repo by jsDelivr's CDN).
-  FEED_SELF_URL: https://cdn.jsdelivr.net/gh/${{ github.repository }}@main/public/feed.xml
+  FEED_SELF_URL: https://kyerussell.github.io/twit-archive/feed.xml
 
 jobs:
   build:
@@ -47,23 +47,32 @@ jobs:
             ${{ (github.event_name == 'workflow_dispatch' && inputs.full) && '--full' || '' }}
 
       - name: Commit refreshed cache + feed
-        id: commit
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/episodes.json public/feed.xml public/index.html
           if git diff --cached --quiet; then
-            echo "changed=false" >> "$GITHUB_OUTPUT"
             echo "No changes to commit."
           else
             git commit -m "Update TWiT archive feed ($(date -u +%Y-%m-%d))"
             git push
-            echo "changed=true" >> "$GITHUB_OUTPUT"
           fi
 
-      - name: Refresh jsDelivr CDN cache
-        if: steps.commit.outputs.changed == 'true'
-        run: |
-          # Best-effort purge so subscribers see new episodes within minutes.
-          curl -sS "https://purge.jsdelivr.net/gh/${{ github.repository }}@main/public/feed.xml" || true
-          curl -sS "https://purge.jsdelivr.net/gh/${{ github.repository }}@main/public/index.html" || true
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v5
+        with:
+          enablement: true
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: public
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - id: deploy
+        uses: actions/deploy-pages@v4
