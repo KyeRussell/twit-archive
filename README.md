@@ -45,29 +45,44 @@ Useful flags: `--no-sizes` (skip enclosure byte-size lookups, faster),
 `--workers N`, `--refresh N` (how many recent episodes to always re-fetch),
 `--latest N` (override auto-discovery).
 
-## Hosting (GitHub Pages) — the subscribe URL
+## Hosting — the subscribe URL
+
+The feed (`public/feed.xml`) is committed to the repo, and served publicly by
+**jsDelivr's CDN** straight from the repository — no GitHub Pages, no build
+server, no settings toggle. The only requirement is that **the repository is
+public** (jsDelivr only serves public repos).
+
+Subscribe URL:
+
+```
+https://cdn.jsdelivr.net/gh/kyerussell/twit-archive@main/public/feed.xml
+```
+
+Human landing page (archive list + one-tap subscribe):
+
+```
+https://cdn.jsdelivr.net/gh/kyerussell/twit-archive@main/public/index.html
+```
 
 The included workflow (`.github/workflows/build-feed.yml`) rebuilds the feed
-weekly and deploys it to GitHub Pages. **One-time setup:**
+weekly, commits the updated `public/feed.xml` + `data/episodes.json`, and pings
+jsDelivr's purge endpoint so subscribers pick up new episodes within minutes.
 
-1. Push this repo to GitHub (branch merged into `main`).
-2. In the repo, go to **Settings → Pages** and set **Source = GitHub Actions**.
-3. Run the **Build TWiT archive feed** workflow once (Actions tab →
-   *Run workflow*), or wait for the weekly schedule.
+### Raw fallback
 
-Your feed will then live at:
+If you ever prefer not to depend on jsDelivr, the same file is reachable
+directly (text/plain content-type; most apps still accept it):
 
 ```
-https://<your-username>.github.io/twit-archive/feed.xml
+https://raw.githubusercontent.com/kyerussell/twit-archive/main/public/feed.xml
 ```
 
-Subscribe to that URL in your podcast player. The landing page at
-`https://<your-username>.github.io/twit-archive/` shows the archive and a
-one-tap subscribe link.
+### Prefer GitHub Pages instead?
 
-The workflow also commits the refreshed `data/episodes.json` and
-`public/feed.xml` back to the repo, so the feed is always available as a
-fallback directly from the repository too.
+Pages also works (immediate updates, proper content-type). One-time setup:
+**Settings → Pages → Source = GitHub Actions**, then add a deploy job that
+uploads `public/` via `actions/upload-pages-artifact` + `actions/deploy-pages`.
+jsDelivr is the default here because it needs zero configuration.
 
 ### Notes & caveats
 

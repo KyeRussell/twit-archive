@@ -19,9 +19,9 @@
   <itunes:owner>
     <itunes:name>This Week in Tech Archive</itunes:name>
   </itunes:owner>
-  <lastBuildDate>Fri, 31 Jul 2026 15:15:03 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 31 Jul 2026 15:19:03 +0000</lastBuildDate>
   <generator>twit-archive</generator>
-  <atom:link href="https://KyeRussell.github.io/twit-archive/feed.xml" rel="self" type="application/rss+xml"/>
+  <atom:link href="https://cdn.jsdelivr.net/gh/kyerussell/twit-archive@main/public/feed.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>1094: Rest in Peace, Buzzkill</title>
     <itunes:title>Rest in Peace, Buzzkill</itunes:title>
@@ -30,7 +30,7 @@
     <guid isPermaLink="false">twit-archive-ep-1094</guid>
     <link>https://twit.tv/shows/this-week-in-tech/episodes/1094</link>
     <pubDate>Mon, 27 Jul 2026 01:40:46 +0000</pubDate>
-    <enclosure url="https://cdn.twit.tv/megaphone/twit_1094/ARML1737476611.mp3" length="169968205" type="audio/mpeg"/>
+    <enclosure url="https://cdn.twit.tv/megaphone/twit_1094/ARML1737476611.mp3" length="169485046" type="audio/mpeg"/>
     <itunes:duration>2:56:30</itunes:duration>
     <itunes:image href="https://elroy.twit.tv/sites/default/files/images/episodes/2026/07/862333/hero/TWIT1094_thumbnail.jpg"/>
     <itunes:author>Leo Laporte</itunes:author>
@@ -88,7 +88,7 @@
     <guid isPermaLink="false">twit-archive-ep-1093</guid>
     <link>https://twit.tv/shows/this-week-in-tech/episodes/1093</link>
     <pubDate>Mon, 20 Jul 2026 00:43:25 +0000</pubDate>
-    <enclosure url="https://cdn.twit.tv/megaphone/twit_1093/ARML9058924173.mp3" length="171107036" type="audio/mpeg"/>
+    <enclosure url="https://cdn.twit.tv/megaphone/twit_1093/ARML9058924173.mp3" length="170623041" type="audio/mpeg"/>
     <itunes:duration>2:57:41</itunes:duration>
     <itunes:image href="https://elroy.twit.tv/sites/default/files/images/episodes/2026/07/862245/hero/TWIT1093_thumbnail%21.jpg"/>
     <itunes:author>Leo Laporte</itunes:author>
@@ -264,7 +264,7 @@
     <guid isPermaLink="false">twit-archive-ep-1090</guid>
     <link>https://twit.tv/shows/this-week-in-tech/episodes/1090</link>
     <pubDate>Mon, 29 Jun 2026 00:07:14 +0000</pubDate>
-    <enclosure url="https://cdn.twit.tv/megaphone/twit_1090/ARML1740393282.mp3" length="155392361" type="audio/mpeg"/>
+    <enclosure url="https://cdn.twit.tv/megaphone/twit_1090/ARML1740393282.mp3" length="154908366" type="audio/mpeg"/>
     <itunes:duration>2:41:19</itunes:duration>
     <itunes:image href="https://elroy.twit.tv/sites/default/files/images/episodes/2026/06/861972/hero/TWIT1090_thumbnail%21.jpg"/>
     <itunes:author>Leo Laporte</itunes:author>
