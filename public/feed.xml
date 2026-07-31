@@ -19,9 +19,9 @@
   <itunes:owner>
     <itunes:name>This Week in Tech Archive</itunes:name>
   </itunes:owner>
-  <lastBuildDate>Fri, 31 Jul 2026 15:19:03 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 31 Jul 2026 15:19:20 +0000</lastBuildDate>
   <generator>twit-archive</generator>
-  <atom:link href="https://cdn.jsdelivr.net/gh/kyerussell/twit-archive@main/public/feed.xml" rel="self" type="application/rss+xml"/>
+  <atom:link href="https://cdn.jsdelivr.net/gh/KyeRussell/twit-archive@main/public/feed.xml" rel="self" type="application/rss+xml"/>
   <item>
     <title>1094: Rest in Peace, Buzzkill</title>
     <itunes:title>Rest in Peace, Buzzkill</itunes:title>
