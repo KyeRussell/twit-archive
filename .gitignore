@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.tmp
+data/episodes.json.tmp
+.DS_Store
