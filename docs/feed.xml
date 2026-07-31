@@ -19,7 +19,7 @@
   <itunes:owner>
     <itunes:name>This Week in Tech Archive</itunes:name>
   </itunes:owner>
-  <lastBuildDate>Fri, 31 Jul 2026 15:30:31 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 31 Jul 2026 15:30:55 +0000</lastBuildDate>
   <generator>twit-archive</generator>
   <atom:link href="https://kyerussell.github.io/twit-archive/feed.xml" rel="self" type="application/rss+xml"/>
   <item>
@@ -264,7 +264,7 @@
     <guid isPermaLink="false">twit-archive-ep-1090</guid>
     <link>https://twit.tv/shows/this-week-in-tech/episodes/1090</link>
     <pubDate>Mon, 29 Jun 2026 00:07:14 +0000</pubDate>
-    <enclosure url="https://cdn.twit.tv/megaphone/twit_1090/ARML1740393282.mp3" length="155390272" type="audio/mpeg"/>
+    <enclosure url="https://cdn.twit.tv/megaphone/twit_1090/ARML1740393282.mp3" length="154908366" type="audio/mpeg"/>
     <itunes:duration>2:41:19</itunes:duration>
     <itunes:image href="https://elroy.twit.tv/sites/default/files/images/episodes/2026/06/861972/hero/TWIT1090_thumbnail%21.jpg"/>
     <itunes:author>Leo Laporte</itunes:author>
