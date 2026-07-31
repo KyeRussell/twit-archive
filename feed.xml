@@ -19,7 +19,7 @@
   <itunes:owner>
     <itunes:name>This Week in Tech Archive</itunes:name>
   </itunes:owner>
-  <lastBuildDate>Fri, 31 Jul 2026 15:30:55 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 31 Jul 2026 15:35:20 +0000</lastBuildDate>
   <generator>twit-archive</generator>
   <atom:link href="https://kyerussell.github.io/twit-archive/feed.xml" rel="self" type="application/rss+xml"/>
   <item>
@@ -88,7 +88,7 @@
     <guid isPermaLink="false">twit-archive-ep-1093</guid>
     <link>https://twit.tv/shows/this-week-in-tech/episodes/1093</link>
     <pubDate>Mon, 20 Jul 2026 00:43:25 +0000</pubDate>
-    <enclosure url="https://cdn.twit.tv/megaphone/twit_1093/ARML9058924173.mp3" length="170623041" type="audio/mpeg"/>
+    <enclosure url="https://cdn.twit.tv/megaphone/twit_1093/ARML9058924173.mp3" length="171104947" type="audio/mpeg"/>
     <itunes:duration>2:57:41</itunes:duration>
     <itunes:image href="https://elroy.twit.tv/sites/default/files/images/episodes/2026/07/862245/hero/TWIT1093_thumbnail%21.jpg"/>
     <itunes:author>Leo Laporte</itunes:author>
@@ -196,7 +196,7 @@
     <guid isPermaLink="false">twit-archive-ep-1091</guid>
     <link>https://twit.tv/shows/this-week-in-tech/episodes/1091</link>
     <pubDate>Mon, 06 Jul 2026 03:09:19 +0000</pubDate>
-    <enclosure url="https://cdn.twit.tv/megaphone/twit_1091/ARML7198740611.mp3" length="173367149" type="audio/mpeg"/>
+    <enclosure url="https://cdn.twit.tv/megaphone/twit_1091/ARML7198740611.mp3" length="173607892" type="audio/mpeg"/>
     <itunes:duration>3:00:32</itunes:duration>
     <itunes:image href="https://elroy.twit.tv/sites/default/files/images/episodes/2026/07/862049/hero/TWIT1091_thumbnail.jpg"/>
     <itunes:author>Leo Laporte</itunes:author>
