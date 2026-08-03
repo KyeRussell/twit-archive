@@ -19,9 +19,67 @@
   <itunes:owner>
     <itunes:name>This Week in Tech Archive</itunes:name>
   </itunes:owner>
-  <lastBuildDate>Fri, 31 Jul 2026 15:35:39 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 03 Aug 2026 17:20:36 +0000</lastBuildDate>
   <generator>twit-archive</generator>
   <atom:link href="https://kyerussell.github.io/twit-archive/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>1095: Horses and Sailboats</title>
+    <itunes:title>Horses and Sailboats</itunes:title>
+    <itunes:episode>1095</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <guid isPermaLink="false">twit-archive-ep-1095</guid>
+    <link>https://twit.tv/shows/this-week-in-tech/episodes/1095</link>
+    <pubDate>Mon, 03 Aug 2026 03:20:36 +0000</pubDate>
+    <enclosure url="https://cdn.twit.tv/megaphone/twit_1095/ARML6036047934.mp3" length="171619406" type="audio/mpeg"/>
+    <itunes:duration>2:58:43</itunes:duration>
+    <itunes:image href="https://elroy.twit.tv/sites/default/files/images/episodes/2026/08/862424/hero/TWIT1095_thumbnail.jpg"/>
+    <itunes:author>Leo Laporte</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:subtitle>Folding Phones Get Cute and Expensive in a Race With Apple</itunes:subtitle>
+    <itunes:summary><![CDATA[Folding Phones Get Cute and Expensive in a Race With Apple]]></itunes:summary>
+    <description><![CDATA[<p><strong>Guests:</strong> Abrar Al-Heeti, Mike Elgan</p>
+<p>From foldable phones that out-price laptops to AI models that escape their digital cages, this episode dives into the wild next phase of tech innovation and its unexpected risks. See how the giants are scrambling to keep up as hardware, software, and even outer space are up for grabs.</p><ul><li>Tim Cook passes the baton in Apple's Q3 2026 earnings call</li><li>Apple’s Profit Is Up 27%, but Expectations for Current Quarter Disappoint</li><li>Apple Introduces Leasing Program for iPhones and Other Devices</li><li>Apple struggles to keep pace with AI ‘bug’ hunters</li><li>“Google and Reddit do not own the Internet," web scraper says after court win</li><li>As Reddit stock falls, CEO questions value of Google's AI Overviews</li><li>Microsoft’s $450 Billion Jump Is Biggest in Stock Market History</li><li>Amazon’s trying to launch a global satellite cellphone network in 2028</li><li>Iran struck Amazon data centers again amid widening war, satellites show</li><li>For the First Time, Zoox Can Charge People for Rides in Its Steering-Wheel-Free Robotaxis</li><li>Claude published malicious code to the Internet and attacked 3 real companies</li><li>OpenAI and Anthropic Are Quietly Teaming Up in Washington</li><li>AI leaders sign a statement asking the government to do something about automated AI</li><li>Ten advances in mathematics and theoretical computer science</li><li>How bitcoin cold wallets lost $70 million in an attack that never touched the devices</li><li>NBCUniversal and YouTube ink deal to embed Peacock in the video platform for premium subscribers</li><li>Inside the Luxury Robotaxi Uber, Lucid and Nuro Are Testing</li></ul>
+<h3>Links</h3>
+<ul>
+<li><a href="https://arstechnica.com/gadgets/2026/07/tim-cooks-last-earnings-call-strong-iphone-sales-but-memory-costs-loom-large" rel="nofollow" target="_blank">Tim Cook passes the baton in Apple's Q3 2026 earnings call</a></li>
+<li><a href="https://www.nytimes.com/2026/07/30/technology/apple-earnings.html" rel="nofollow" target="_blank">Apple’s Profit Is Up 27%, but Expectations for Current Quarter Disappoint</a></li>
+<li><a href="https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html" rel="nofollow" target="_blank">Apple Introduces Leasing Program for iPhones and Other Devices</a></li>
+<li><a href="https://www.ft.com/content/4532122d-90f2-4433-9df6-ca99d8a141d2?syn-25a6b1a6=1" rel="nofollow" target="_blank">Apple struggles to keep pace with AI ‘bug’ hunters</a></li>
+<li><a href="https://arstechnica.com/tech-policy/2026/07/google-wont-give-up-odd-war-against-ai-web-scraping-despite-court-loss" rel="nofollow" target="_blank">“Google and Reddit do not own the Internet," web scraper says after court win</a></li>
+<li><a href="https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win" rel="nofollow" target="_blank">As Reddit stock falls, CEO questions value of Google's AI Overviews</a></li>
+<li><a href="https://www.theverge.com/tech/971437/amazon-leo-direct-to-device-satellite-network" rel="nofollow" target="_blank">Amazon’s trying to launch a global satellite cellphone network in 2028</a></li>
+<li><a href="https://arstechnica.com/gadgets/2026/07/satellites-spot-new-war-damage-to-amazon-data-centers-and-saudi-oil-site" rel="nofollow" target="_blank">Iran struck Amazon data centers again amid widening war, satellites show</a></li>
+<li><a href="https://www.wired.com/story/zoox-becomes-the-first-steering-wheel-free-robotaxi-to-charge-for-rides-in-the-us" rel="nofollow" target="_blank">For the First Time, Zoox Can Charge People for Rides in Its Steering-Wheel-Free Robotaxis</a></li>
+<li><a href="https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account" rel="nofollow" target="_blank">Claude published malicious code to the Internet and attacked 3 real companies</a></li>
+<li><a href="https://www.theinformation.com/newsletters/ai-agenda/openai-anthropic-quietly-teaming-washington?rc=lykptg" rel="nofollow" target="_blank">OpenAI and Anthropic Are Quietly Teaming Up in Washington</a></li>
+<li><a href="https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta" rel="nofollow" target="_blank">AI leaders sign a statement asking the government to do something about automated AI</a></li>
+<li><a href="https://openai.com/index/ten-advances-in-mathematics/" rel="nofollow" target="_blank">Ten advances in mathematics and theoretical computer science</a></li>
+<li><a href="https://www.coindesk.com/tech/2026/08/01/how-bitcoin-cold-wallets-lost-usd70-million-in-an-attack-that-never-touched-the-devices" rel="nofollow" target="_blank">How bitcoin cold wallets lost $70 million in an attack that never touched the devices</a></li>
+<li><a href="https://www.cnbc.com/2026/07/27/nbcuniversal-youtube-peacock-premium-subscribers.html" rel="nofollow" target="_blank">NBCUniversal and YouTube ink deal to embed Peacock in the video platform for premium subscribers</a></li>
+<li><a href="https://www.cnet.com/roadshow/automobiles/inside-luxury-robotaxi-uber-lucid-nuro-are-testing/" rel="nofollow" target="_blank">Inside the Luxury Robotaxi Uber, Lucid and Nuro Are Testing</a></li>
+</ul>]]></description>
+    <content:encoded><![CDATA[<p><strong>Guests:</strong> Abrar Al-Heeti, Mike Elgan</p>
+<p>From foldable phones that out-price laptops to AI models that escape their digital cages, this episode dives into the wild next phase of tech innovation and its unexpected risks. See how the giants are scrambling to keep up as hardware, software, and even outer space are up for grabs.</p><ul><li>Tim Cook passes the baton in Apple's Q3 2026 earnings call</li><li>Apple’s Profit Is Up 27%, but Expectations for Current Quarter Disappoint</li><li>Apple Introduces Leasing Program for iPhones and Other Devices</li><li>Apple struggles to keep pace with AI ‘bug’ hunters</li><li>“Google and Reddit do not own the Internet," web scraper says after court win</li><li>As Reddit stock falls, CEO questions value of Google's AI Overviews</li><li>Microsoft’s $450 Billion Jump Is Biggest in Stock Market History</li><li>Amazon’s trying to launch a global satellite cellphone network in 2028</li><li>Iran struck Amazon data centers again amid widening war, satellites show</li><li>For the First Time, Zoox Can Charge People for Rides in Its Steering-Wheel-Free Robotaxis</li><li>Claude published malicious code to the Internet and attacked 3 real companies</li><li>OpenAI and Anthropic Are Quietly Teaming Up in Washington</li><li>AI leaders sign a statement asking the government to do something about automated AI</li><li>Ten advances in mathematics and theoretical computer science</li><li>How bitcoin cold wallets lost $70 million in an attack that never touched the devices</li><li>NBCUniversal and YouTube ink deal to embed Peacock in the video platform for premium subscribers</li><li>Inside the Luxury Robotaxi Uber, Lucid and Nuro Are Testing</li></ul>
+<h3>Links</h3>
+<ul>
+<li><a href="https://arstechnica.com/gadgets/2026/07/tim-cooks-last-earnings-call-strong-iphone-sales-but-memory-costs-loom-large" rel="nofollow" target="_blank">Tim Cook passes the baton in Apple's Q3 2026 earnings call</a></li>
+<li><a href="https://www.nytimes.com/2026/07/30/technology/apple-earnings.html" rel="nofollow" target="_blank">Apple’s Profit Is Up 27%, but Expectations for Current Quarter Disappoint</a></li>
+<li><a href="https://www.nytimes.com/2026/07/28/technology/apple-leasing-program.html" rel="nofollow" target="_blank">Apple Introduces Leasing Program for iPhones and Other Devices</a></li>
+<li><a href="https://www.ft.com/content/4532122d-90f2-4433-9df6-ca99d8a141d2?syn-25a6b1a6=1" rel="nofollow" target="_blank">Apple struggles to keep pace with AI ‘bug’ hunters</a></li>
+<li><a href="https://arstechnica.com/tech-policy/2026/07/google-wont-give-up-odd-war-against-ai-web-scraping-despite-court-loss" rel="nofollow" target="_blank">“Google and Reddit do not own the Internet," web scraper says after court win</a></li>
+<li><a href="https://arstechnica.com/ai/2026/08/reddit-ceo-on-ai-overviews-were-still-looking-for-that-win-win" rel="nofollow" target="_blank">As Reddit stock falls, CEO questions value of Google's AI Overviews</a></li>
+<li><a href="https://www.theverge.com/tech/971437/amazon-leo-direct-to-device-satellite-network" rel="nofollow" target="_blank">Amazon’s trying to launch a global satellite cellphone network in 2028</a></li>
+<li><a href="https://arstechnica.com/gadgets/2026/07/satellites-spot-new-war-damage-to-amazon-data-centers-and-saudi-oil-site" rel="nofollow" target="_blank">Iran struck Amazon data centers again amid widening war, satellites show</a></li>
+<li><a href="https://www.wired.com/story/zoox-becomes-the-first-steering-wheel-free-robotaxi-to-charge-for-rides-in-the-us" rel="nofollow" target="_blank">For the First Time, Zoox Can Charge People for Rides in Its Steering-Wheel-Free Robotaxis</a></li>
+<li><a href="https://arstechnica.com/security/2026/07/likely-illegally-claude-gained-access-to-3-networks-will-anthropic-be-held-to-account" rel="nofollow" target="_blank">Claude published malicious code to the Internet and attacked 3 real companies</a></li>
+<li><a href="https://www.theinformation.com/newsletters/ai-agenda/openai-anthropic-quietly-teaming-washington?rc=lykptg" rel="nofollow" target="_blank">OpenAI and Anthropic Are Quietly Teaming Up in Washington</a></li>
+<li><a href="https://www.theverge.com/ai-artificial-intelligence/972161/ai-leaders-us-government-openai-anthropic-google-meta" rel="nofollow" target="_blank">AI leaders sign a statement asking the government to do something about automated AI</a></li>
+<li><a href="https://openai.com/index/ten-advances-in-mathematics/" rel="nofollow" target="_blank">Ten advances in mathematics and theoretical computer science</a></li>
+<li><a href="https://www.coindesk.com/tech/2026/08/01/how-bitcoin-cold-wallets-lost-usd70-million-in-an-attack-that-never-touched-the-devices" rel="nofollow" target="_blank">How bitcoin cold wallets lost $70 million in an attack that never touched the devices</a></li>
+<li><a href="https://www.cnbc.com/2026/07/27/nbcuniversal-youtube-peacock-premium-subscribers.html" rel="nofollow" target="_blank">NBCUniversal and YouTube ink deal to embed Peacock in the video platform for premium subscribers</a></li>
+<li><a href="https://www.cnet.com/roadshow/automobiles/inside-luxury-robotaxi-uber-lucid-nuro-are-testing/" rel="nofollow" target="_blank">Inside the Luxury Robotaxi Uber, Lucid and Nuro Are Testing</a></li>
+</ul>]]></content:encoded>
+  </item>
   <item>
     <title>1094: Rest in Peace, Buzzkill</title>
     <itunes:title>Rest in Peace, Buzzkill</itunes:title>
@@ -30,7 +88,7 @@
     <guid isPermaLink="false">twit-archive-ep-1094</guid>
     <link>https://twit.tv/shows/this-week-in-tech/episodes/1094</link>
     <pubDate>Mon, 27 Jul 2026 01:40:46 +0000</pubDate>
-    <enclosure url="https://cdn.twit.tv/megaphone/twit_1094/ARML1737476611.mp3" length="169966952" type="audio/mpeg"/>
+    <enclosure url="https://cdn.twit.tv/megaphone/twit_1094/ARML1737476611.mp3" length="169485046" type="audio/mpeg"/>
     <itunes:duration>2:56:30</itunes:duration>
     <itunes:image href="https://elroy.twit.tv/sites/default/files/images/episodes/2026/07/862333/hero/TWIT1094_thumbnail.jpg"/>
     <itunes:author>Leo Laporte</itunes:author>
@@ -88,7 +146,7 @@
     <guid isPermaLink="false">twit-archive-ep-1093</guid>
     <link>https://twit.tv/shows/this-week-in-tech/episodes/1093</link>
     <pubDate>Mon, 20 Jul 2026 00:43:25 +0000</pubDate>
-    <enclosure url="https://cdn.twit.tv/megaphone/twit_1093/ARML9058924173.mp3" length="171104947" type="audio/mpeg"/>
+    <enclosure url="https://cdn.twit.tv/megaphone/twit_1093/ARML9058924173.mp3" length="170623041" type="audio/mpeg"/>
     <itunes:duration>2:57:41</itunes:duration>
     <itunes:image href="https://elroy.twit.tv/sites/default/files/images/episodes/2026/07/862245/hero/TWIT1093_thumbnail%21.jpg"/>
     <itunes:author>Leo Laporte</itunes:author>
