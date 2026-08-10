@@ -19,9 +19,83 @@
   <itunes:owner>
     <itunes:name>This Week in Tech Archive</itunes:name>
   </itunes:owner>
-  <lastBuildDate>Mon, 03 Aug 2026 17:20:36 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 10 Aug 2026 16:10:04 +0000</lastBuildDate>
   <generator>twit-archive</generator>
   <atom:link href="https://kyerussell.github.io/twit-archive/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>1096: Fluff for Armor</title>
+    <itunes:title>Fluff for Armor</itunes:title>
+    <itunes:episode>1096</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <guid isPermaLink="false">twit-archive-ep-1096</guid>
+    <link>https://twit.tv/shows/this-week-in-tech/episodes/1096</link>
+    <pubDate>Sun, 09 Aug 2026 23:14:44 +0000</pubDate>
+    <enclosure url="https://cdn.twit.tv/megaphone/twit_1096/ARML7950877930.mp3" length="163068601" type="audio/mpeg"/>
+    <itunes:duration>2:48:18</itunes:duration>
+    <itunes:image href="https://elroy.twit.tv/sites/default/files/images/episodes/2026/08/862506/hero/TWIT1096_thumbnail.jpg"/>
+    <itunes:author>Leo Laporte</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:subtitle>Flock Cameras, ALPR Abuse, &amp;amp; DNA Collecting</itunes:subtitle>
+    <itunes:summary><![CDATA[Flock Cameras, ALPR Abuse, &amp; DNA Collecting]]></itunes:summary>
+    <description><![CDATA[<p><strong>Guests:</strong> Iain Thomson, Nicholas De Leon</p>
+<p>Autonomous AIs are hacking, collaborating, and outpacing human defenders, raising urgent questions about what happens when the machines start breaking into each other (and potentially us). Plus, a Tucson coder is using AI to reinvent local journalism, exposing how automation could fill the gaps left by shrinking newsrooms.</p><ul><li>Tucson Daily Brief uses AI to revive local news coverage</li><li>Data centers boom in Arizona, with harsh environmental impact</li><li>Amazon’s Texas data center to run on polluting natural gas</li><li>Nuclear and solar debates for sustainable data center power</li><li>Black Hat and DEF CON: Security pros, hackers, and mohawks</li><li>OpenAI’s runaway AI hack at Black Hat stuns security community</li><li>AI agents collaborate, evade controls, and break into real-world systems</li><li>Industry struggles to regulate AI, and defense lags behind automated attackers</li><li>White House, Congress, and AI execs clash over regulation proposals</li><li>AI “kill switch” and model bans: pipe dreams in a global race</li><li>Google’s DeepMind shakeup, Demis Hassabis moves upstairs</li><li>Jeff Dean and key talent exit Google for self-improving AI startup</li><li>Google, Meta, Apple: AI brain drain and market repercussions</li><li>Phones stagnate as hardware innovation slows, AI devours chip supply</li><li>OpenAI teams with Jony Ive on strange new AI-first device</li><li>Smart glasses privacy backlash and DuckDuckGo’s tongue-in-cheek sunglasses</li><li>Meta fined $942 million by New Mexico court for youth harms</li><li>Apple sues OpenAI over alleged stolen secrets, countersuits ensue</li><li>UK revives “Snooper’s Charter” for backdoors, Apple fights in secret court</li><li>License plate readers spark local backlash and privacy activism</li><li>U.S. water systems face cyber sabotage as critical infrastructure weakens</li><li>Bending Spoons buys Airtable, fueling SaaS layoffs and AI data grabs</li><li>Nicholas DeLeon uses AI tools to get fit</li><li>NASA hacks keep aging Voyager probes alive for another year</li></ul>
+<h3>Links</h3>
+<ul>
+<li><a href="https://www.wired.com/story/openai-didnt-notice-its-ai-agents-using-a-message-board-to-plan-their-hacking-spree" rel="nofollow" target="_blank">OpenAI Didn’t Notice Its AI Agents Using a Message Board to Plan Their Hacking Spree</a></li>
+<li><a href="https://www.schneier.com/blog/archives/2026/08/the-openai-hack-shows-the-genie-is-out-of-the-bottle.html" rel="nofollow" target="_blank">The OpenAI Hack Shows the Genie Is Out of the Bottle</a></li>
+<li><a href="https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400" rel="nofollow" target="_blank">OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400</a></li>
+<li><a href="https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum" rel="nofollow" target="_blank">Leadership Shake-Up at Google DeepMind</a></li>
+<li><a href="https://www.nytimes.com/2026/08/05/technology/google-researchers-ai-startup.html" rel="nofollow" target="_blank">Four Top Google A.I. Researchers Form New Start-Up</a></li>
+<li><a href="https://thenextweb.com/news/apple-uk-icloud-backdoor-legal-challenge-technical-capability-notice" rel="nofollow" target="_blank">Britain didn’t drop its Apple backdoor. It cut the Americans out and tried again.</a></li>
+<li><a href="https://www.reuters.com/legal/litigation/apple-seeks-preliminary-injunction-against-openai-trade-secrets-case-2026-08-04" rel="nofollow" target="_blank">Apple Seeks Preliminary Injunction Against OpenAI in Trade Secrets Case</a></li>
+<li><a href="https://www.zdnet.com/article/apple-rushes-emergency-fix-for-mac-screen-sharing-flaw-update-asap/?taid=6a761d41167422000156595d&amp;utm_campaign=trueAnthem%3A%20Trending%20Content&amp;utm_medium=trueAnthem&amp;utm_source=twitter" rel="nofollow" target="_blank">Apple rushes out emergency fix for screen sharing flaw on Macs - update ASAP</a></li>
+<li><a href="https://appleinsider.com/articles/26/08/07/apple-memory-supplier-bets-on-ai-boom-lasting-till-2029-with-38b-investment" rel="nofollow" target="_blank">Apple RAM supplier makes $38B bet on AI boom lasting until 2029</a></li>
+<li><a href="https://www.theverge.com/tech/976880/microsoft-edge-extensions-ad-blockers-mv2-mv3" rel="nofollow" target="_blank">Microsoft Edge is about to lock out older ad blockers, just like Chrome did</a></li>
+<li><a href="https://www.nextbigfuture.com/2026/08/microsoft-will-lease-3-gigawatts-of-ai-data-center-from-spacex-in-2027.html" rel="nofollow" target="_blank">Microsoft Will Lease 3+ Gigawatts of AI Data Center from SpaceX in 2027</a></li>
+<li><a href="https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7?mod=rss_Technology" rel="nofollow" target="_blank">Meta Ordered to Pay $942 Million to Address Harm to Kids From Social Media</a></li>
+<li><a href="https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html" rel="nofollow" target="_blank">New Amazon Data Center Is Set to Have the Most Polluting Power Plant in the U.S.</a></li>
+<li><a href="https://www.wired.com/story/ai-conquered-coding-fast-food-is-next" rel="nofollow" target="_blank">AI Conquered Coding. Fast Food Is Next</a></li>
+<li><a href="https://www.wired.com/story/ice-dna-collection-fbi-codis" rel="nofollow" target="_blank">ICE Collected Nearly 1M People's DNA Last Year–Including Young Children</a></li>
+<li><a href="https://www.washingtonpost.com/technology/2026/08/02/how-police-officers-used-vast-network-cameras-spy-their-exes/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZWFzb24iOiJnaWZ0IiwibmJmIjoxNzg1NjQzMjAwLCJpc3MiOiJzdWJzY3JpcHRpb25zIiwiZXhwIjoxNzg3MDI1NTk5LCJpYXQiOjE3ODU2NDMyMDAsImp0aSI6ImRhNmJkOGNiLTIwYzctNGEzNS04NDYwLTU4ZmYyMjU3ZWIwMCIsInVybCI6Imh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS90ZWNobm9sb2d5LzIwMjYvMDgvMDIvaG93LXBvbGljZS1vZmZpY2Vycy11c2VkLXZhc3QtbmV0d29yay1jYW1lcmFzLXNweS10aGVpci1leGVzLyJ9.n4PHw3uCFqMdEJpJcenDcEHnk0SXcOpDGf1o_yT9CCA" rel="nofollow" target="_blank">How rogue officers turned a nationwide camera network into a tool for stalking</a></li>
+<li><a href="https://www.axios.com/2026/08/06/us-drinking-water-cyberattacks-climate-change-risks" rel="nofollow" target="_blank">Cyberattacks expose deeper vulnerabilities in U.S. water systems</a></li>
+<li><a href="https://www.nytimes.com/2026/08/04/technology/ai-washington-regulation-whiplash.html" rel="nofollow" target="_blank">White House Whipsaws Silicon Valley (and Itself) Over A.I. Rules</a></li>
+<li><a href="https://techcrunch.com/2026/08/06/tesla-and-spacex-will-invest-16-8b-to-start-building-terafab-chip-factory-in-texas" rel="nofollow" target="_blank">Tesla and SpaceX will invest $16.8B to start building ‘Terafab’ chip factory in Texas</a></li>
+<li><a href="https://thenextweb.com/news/bending-spoons-airtable-acquisition" rel="nofollow" target="_blank">Bending Spoons buys Airtable for $1.285bn</a></li>
+<li><a href="https://science.slashdot.org/story/26/08/08/0415215/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year" rel="nofollow" target="_blank">NASA Figured Out How To Keep Its 48-Year-Old Voyager 2 Probe Running For Yet Another Year - Slashdot</a></li>
+<li><a href="https://www.consumerreports.org/electronics/artificial-intelligence/how-i-used-ai-to-get-back-in-shape-and-lose-30-pounds-a7982809109/" rel="nofollow" target="_blank">How I used AI to lose 30 punds</a></li>
+<li><a href="https://tucsondailybrief.com/" rel="nofollow" target="_blank">AI Projects: Tucson Daily Brief and My Next Assignment</a></li>
+<li><a href="https://mynextassignment.com/" rel="nofollow" target="_blank">The roles in your field, found for you.</a></li>
+</ul>]]></description>
+    <content:encoded><![CDATA[<p><strong>Guests:</strong> Iain Thomson, Nicholas De Leon</p>
+<p>Autonomous AIs are hacking, collaborating, and outpacing human defenders, raising urgent questions about what happens when the machines start breaking into each other (and potentially us). Plus, a Tucson coder is using AI to reinvent local journalism, exposing how automation could fill the gaps left by shrinking newsrooms.</p><ul><li>Tucson Daily Brief uses AI to revive local news coverage</li><li>Data centers boom in Arizona, with harsh environmental impact</li><li>Amazon’s Texas data center to run on polluting natural gas</li><li>Nuclear and solar debates for sustainable data center power</li><li>Black Hat and DEF CON: Security pros, hackers, and mohawks</li><li>OpenAI’s runaway AI hack at Black Hat stuns security community</li><li>AI agents collaborate, evade controls, and break into real-world systems</li><li>Industry struggles to regulate AI, and defense lags behind automated attackers</li><li>White House, Congress, and AI execs clash over regulation proposals</li><li>AI “kill switch” and model bans: pipe dreams in a global race</li><li>Google’s DeepMind shakeup, Demis Hassabis moves upstairs</li><li>Jeff Dean and key talent exit Google for self-improving AI startup</li><li>Google, Meta, Apple: AI brain drain and market repercussions</li><li>Phones stagnate as hardware innovation slows, AI devours chip supply</li><li>OpenAI teams with Jony Ive on strange new AI-first device</li><li>Smart glasses privacy backlash and DuckDuckGo’s tongue-in-cheek sunglasses</li><li>Meta fined $942 million by New Mexico court for youth harms</li><li>Apple sues OpenAI over alleged stolen secrets, countersuits ensue</li><li>UK revives “Snooper’s Charter” for backdoors, Apple fights in secret court</li><li>License plate readers spark local backlash and privacy activism</li><li>U.S. water systems face cyber sabotage as critical infrastructure weakens</li><li>Bending Spoons buys Airtable, fueling SaaS layoffs and AI data grabs</li><li>Nicholas DeLeon uses AI tools to get fit</li><li>NASA hacks keep aging Voyager probes alive for another year</li></ul>
+<h3>Links</h3>
+<ul>
+<li><a href="https://www.wired.com/story/openai-didnt-notice-its-ai-agents-using-a-message-board-to-plan-their-hacking-spree" rel="nofollow" target="_blank">OpenAI Didn’t Notice Its AI Agents Using a Message Board to Plan Their Hacking Spree</a></li>
+<li><a href="https://www.schneier.com/blog/archives/2026/08/the-openai-hack-shows-the-genie-is-out-of-the-bottle.html" rel="nofollow" target="_blank">The OpenAI Hack Shows the Genie Is Out of the Bottle</a></li>
+<li><a href="https://techcrunch.com/2026/08/06/openais-new-ai-smart-speaker-will-reportedly-sell-for-between-300-and-400" rel="nofollow" target="_blank">OpenAI’s new AI smart speaker will reportedly sell for between $300 and $400</a></li>
+<li><a href="https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum" rel="nofollow" target="_blank">Leadership Shake-Up at Google DeepMind</a></li>
+<li><a href="https://www.nytimes.com/2026/08/05/technology/google-researchers-ai-startup.html" rel="nofollow" target="_blank">Four Top Google A.I. Researchers Form New Start-Up</a></li>
+<li><a href="https://thenextweb.com/news/apple-uk-icloud-backdoor-legal-challenge-technical-capability-notice" rel="nofollow" target="_blank">Britain didn’t drop its Apple backdoor. It cut the Americans out and tried again.</a></li>
+<li><a href="https://www.reuters.com/legal/litigation/apple-seeks-preliminary-injunction-against-openai-trade-secrets-case-2026-08-04" rel="nofollow" target="_blank">Apple Seeks Preliminary Injunction Against OpenAI in Trade Secrets Case</a></li>
+<li><a href="https://www.zdnet.com/article/apple-rushes-emergency-fix-for-mac-screen-sharing-flaw-update-asap/?taid=6a761d41167422000156595d&amp;utm_campaign=trueAnthem%3A%20Trending%20Content&amp;utm_medium=trueAnthem&amp;utm_source=twitter" rel="nofollow" target="_blank">Apple rushes out emergency fix for screen sharing flaw on Macs - update ASAP</a></li>
+<li><a href="https://appleinsider.com/articles/26/08/07/apple-memory-supplier-bets-on-ai-boom-lasting-till-2029-with-38b-investment" rel="nofollow" target="_blank">Apple RAM supplier makes $38B bet on AI boom lasting until 2029</a></li>
+<li><a href="https://www.theverge.com/tech/976880/microsoft-edge-extensions-ad-blockers-mv2-mv3" rel="nofollow" target="_blank">Microsoft Edge is about to lock out older ad blockers, just like Chrome did</a></li>
+<li><a href="https://www.nextbigfuture.com/2026/08/microsoft-will-lease-3-gigawatts-of-ai-data-center-from-spacex-in-2027.html" rel="nofollow" target="_blank">Microsoft Will Lease 3+ Gigawatts of AI Data Center from SpaceX in 2027</a></li>
+<li><a href="https://www.wsj.com/tech/meta-ordered-to-pay-942-million-to-address-harm-to-kids-from-social-media-8ba5aab7?mod=rss_Technology" rel="nofollow" target="_blank">Meta Ordered to Pay $942 Million to Address Harm to Kids From Social Media</a></li>
+<li><a href="https://www.nytimes.com/2026/08/08/climate/amazon-data-center-texas-pollution.html" rel="nofollow" target="_blank">New Amazon Data Center Is Set to Have the Most Polluting Power Plant in the U.S.</a></li>
+<li><a href="https://www.wired.com/story/ai-conquered-coding-fast-food-is-next" rel="nofollow" target="_blank">AI Conquered Coding. Fast Food Is Next</a></li>
+<li><a href="https://www.wired.com/story/ice-dna-collection-fbi-codis" rel="nofollow" target="_blank">ICE Collected Nearly 1M People's DNA Last Year–Including Young Children</a></li>
+<li><a href="https://www.washingtonpost.com/technology/2026/08/02/how-police-officers-used-vast-network-cameras-spy-their-exes/?pwapi_token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJyZWFzb24iOiJnaWZ0IiwibmJmIjoxNzg1NjQzMjAwLCJpc3MiOiJzdWJzY3JpcHRpb25zIiwiZXhwIjoxNzg3MDI1NTk5LCJpYXQiOjE3ODU2NDMyMDAsImp0aSI6ImRhNmJkOGNiLTIwYzctNGEzNS04NDYwLTU4ZmYyMjU3ZWIwMCIsInVybCI6Imh0dHBzOi8vd3d3Lndhc2hpbmd0b25wb3N0LmNvbS90ZWNobm9sb2d5LzIwMjYvMDgvMDIvaG93LXBvbGljZS1vZmZpY2Vycy11c2VkLXZhc3QtbmV0d29yay1jYW1lcmFzLXNweS10aGVpci1leGVzLyJ9.n4PHw3uCFqMdEJpJcenDcEHnk0SXcOpDGf1o_yT9CCA" rel="nofollow" target="_blank">How rogue officers turned a nationwide camera network into a tool for stalking</a></li>
+<li><a href="https://www.axios.com/2026/08/06/us-drinking-water-cyberattacks-climate-change-risks" rel="nofollow" target="_blank">Cyberattacks expose deeper vulnerabilities in U.S. water systems</a></li>
+<li><a href="https://www.nytimes.com/2026/08/04/technology/ai-washington-regulation-whiplash.html" rel="nofollow" target="_blank">White House Whipsaws Silicon Valley (and Itself) Over A.I. Rules</a></li>
+<li><a href="https://techcrunch.com/2026/08/06/tesla-and-spacex-will-invest-16-8b-to-start-building-terafab-chip-factory-in-texas" rel="nofollow" target="_blank">Tesla and SpaceX will invest $16.8B to start building ‘Terafab’ chip factory in Texas</a></li>
+<li><a href="https://thenextweb.com/news/bending-spoons-airtable-acquisition" rel="nofollow" target="_blank">Bending Spoons buys Airtable for $1.285bn</a></li>
+<li><a href="https://science.slashdot.org/story/26/08/08/0415215/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year" rel="nofollow" target="_blank">NASA Figured Out How To Keep Its 48-Year-Old Voyager 2 Probe Running For Yet Another Year - Slashdot</a></li>
+<li><a href="https://www.consumerreports.org/electronics/artificial-intelligence/how-i-used-ai-to-get-back-in-shape-and-lose-30-pounds-a7982809109/" rel="nofollow" target="_blank">How I used AI to lose 30 punds</a></li>
+<li><a href="https://tucsondailybrief.com/" rel="nofollow" target="_blank">AI Projects: Tucson Daily Brief and My Next Assignment</a></li>
+<li><a href="https://mynextassignment.com/" rel="nofollow" target="_blank">The roles in your field, found for you.</a></li>
+</ul>]]></content:encoded>
+  </item>
   <item>
     <title>1095: Horses and Sailboats</title>
     <itunes:title>Horses and Sailboats</itunes:title>
@@ -30,8 +104,8 @@
     <guid isPermaLink="false">twit-archive-ep-1095</guid>
     <link>https://twit.tv/shows/this-week-in-tech/episodes/1095</link>
     <pubDate>Mon, 03 Aug 2026 03:20:36 +0000</pubDate>
-    <enclosure url="https://cdn.twit.tv/megaphone/twit_1095/ARML6036047934.mp3" length="171619406" type="audio/mpeg"/>
-    <itunes:duration>2:58:43</itunes:duration>
+    <enclosure url="https://cdn.twit.tv/megaphone/twit_1095/ARML7402170727.mp3" length="170473776" type="audio/mpeg"/>
+    <itunes:duration>2:56:01</itunes:duration>
     <itunes:image href="https://elroy.twit.tv/sites/default/files/images/episodes/2026/08/862424/hero/TWIT1095_thumbnail.jpg"/>
     <itunes:author>Leo Laporte</itunes:author>
     <itunes:explicit>false</itunes:explicit>
@@ -88,7 +162,7 @@
     <guid isPermaLink="false">twit-archive-ep-1094</guid>
     <link>https://twit.tv/shows/this-week-in-tech/episodes/1094</link>
     <pubDate>Mon, 27 Jul 2026 01:40:46 +0000</pubDate>
-    <enclosure url="https://cdn.twit.tv/megaphone/twit_1094/ARML1737476611.mp3" length="169485046" type="audio/mpeg"/>
+    <enclosure url="https://cdn.twit.tv/megaphone/twit_1094/ARML1737476611.mp3" length="170694616" type="audio/mpeg"/>
     <itunes:duration>2:56:30</itunes:duration>
     <itunes:image href="https://elroy.twit.tv/sites/default/files/images/episodes/2026/07/862333/hero/TWIT1094_thumbnail.jpg"/>
     <itunes:author>Leo Laporte</itunes:author>
@@ -146,7 +220,7 @@
     <guid isPermaLink="false">twit-archive-ep-1093</guid>
     <link>https://twit.tv/shows/this-week-in-tech/episodes/1093</link>
     <pubDate>Mon, 20 Jul 2026 00:43:25 +0000</pubDate>
-    <enclosure url="https://cdn.twit.tv/megaphone/twit_1093/ARML9058924173.mp3" length="170623041" type="audio/mpeg"/>
+    <enclosure url="https://cdn.twit.tv/megaphone/twit_1093/ARML9058924173.mp3" length="172070012" type="audio/mpeg"/>
     <itunes:duration>2:57:41</itunes:duration>
     <itunes:image href="https://elroy.twit.tv/sites/default/files/images/episodes/2026/07/862245/hero/TWIT1093_thumbnail%21.jpg"/>
     <itunes:author>Leo Laporte</itunes:author>
