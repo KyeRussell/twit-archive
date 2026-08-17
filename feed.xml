@@ -19,9 +19,65 @@
   <itunes:owner>
     <itunes:name>This Week in Tech Archive</itunes:name>
   </itunes:owner>
-  <lastBuildDate>Mon, 10 Aug 2026 16:10:04 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 17 Aug 2026 15:42:14 +0000</lastBuildDate>
   <generator>twit-archive</generator>
   <atom:link href="https://kyerussell.github.io/twit-archive/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>1097: Gina and the Glueballs</title>
+    <itunes:title>Gina and the Glueballs</itunes:title>
+    <itunes:episode>1097</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <guid isPermaLink="false">twit-archive-ep-1097</guid>
+    <link>https://twit.tv/shows/this-week-in-tech/episodes/1097</link>
+    <pubDate>Mon, 17 Aug 2026 05:00:00 +0000</pubDate>
+    <enclosure url="https://cdn.twit.tv/megaphone/twit_1097/ARML7315165751.mp3" length="169280524" type="audio/mpeg"/>
+    <itunes:duration>2:55:48</itunes:duration>
+    <itunes:image href="https://elroy.twit.tv/sites/default/files/images/episodes/2026/08/862590/hero/TWIT1097_thumbnail.jpg"/>
+    <itunes:author>Leo Laporte</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:subtitle>Is AI Moving Too Fast?</itunes:subtitle>
+    <itunes:summary><![CDATA[Is AI Moving Too Fast?]]></itunes:summary>
+    <description><![CDATA[<p><strong>Guests:</strong> Denise Howell, Joey de Villa, Gina Smith</p>
+<p>Can you trust Mark Zuckerberg’s open AI manifesto, or is it just another play to keep control out of your hands? The panel debates the future of personal superintelligent agents, who really stands to benefit, and whether anyone should slow things down before it’s too late.</p><ul><li>Mark Zuckerberg Posts 6,500-Word AI Essay</li><li>Zuckerberg Is Right About Open, Decentralized AI. He’s Also The Last Person You Should Trust To Deliver It</li><li>Anthropic pledges to embed watermarks to help discern AI slop in sop to EU</li><li>You can now turn off Google Gemini’s visible watermarks</li><li>Everything Google announced: Pixel 11, Pixel Tag, Pixel Watch 11, more</li><li>Google is making the Pixel cameras better by making them worse</li><li>Following Epic loss, Google has started hosting rival app stores in the Play Store</li><li>Judge gives Google one week to fix "anticompetitive" app store download in Google Play</li><li>Apple proposes commissions of up to 15% for off-App Store purchases in the US [U]</li><li>Twitch content has trained Amazon AI for years, but users can opt out now</li><li>DEF CON crowd suspected in fake-hotspot attack on Delta flight</li><li>Happy 45th Birthday to the IBM PC and Model F/XT</li><li>Cats and dogs are missing meals after a popular smart feeder went down</li><li>Transportation Sec. Decides to Turn Air Traffic Control Into a Game</li><li>Have physicists finally discovered glueballs? New evidence points to yes.</li></ul>
+<h3>Links</h3>
+<ul>
+<li><a href="https://www.meta.com/thefutureisforeveryone" rel="nofollow" target="_blank">Mark Zuckerberg Posts 6,500-Word AI Essay</a></li>
+<li><a href="https://www.techdirt.com/2026/08/12/zuckerberg-is-right-about-open-decentralized-ai-hes-also-the-last-person-you-should-trust-to-deliver-it/" rel="nofollow" target="_blank">Zuckerberg Is Right About Open, Decentralized AI. He’s Also The Last Person You Should Trust To Deliver It</a></li>
+<li><a href="https://www.theregister.com/ai-and-ml/2026/08/11/anthropic-pledges-to-embed-watermarks-to-help-discern-ai-slop-in-sop-to-eu/5285792" rel="nofollow" target="_blank">Anthropic pledges to embed watermarks to help discern AI slop in sop to EU</a></li>
+<li><a href="https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal" rel="nofollow" target="_blank">You can now turn off Google Gemini’s visible watermarks</a></li>
+<li><a href="https://appleinsider.com/articles/26/08/12/everything-google-announced-pixel-11-pixel-tag-pixel-watch-11-more" rel="nofollow" target="_blank">Everything Google announced: Pixel 11, Pixel Tag, Pixel Watch 11, more</a></li>
+<li><a href="https://www.theverge.com/tech/978084/google-camera-looks-interview-computational-photography?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6InhLdTE5RUlMNloiLCJwIjoiL3RlY2gvOTc4MDg0L2dvb2dsZS1jYW1lcmEtbG9va3MtaW50ZXJ2aWV3LWNvbXB1dGF0aW9uYWwtcGhvdG9ncmFwaHkiLCJleHAiOjE3ODY5NzUyNjYsImlhdCI6MTc4NjU0MzI2Nn0.f2GwLho-NffVdwa3VbXdqw02nirJgFYXu6LFTiRujGQ" rel="nofollow" target="_blank">Google is making the Pixel cameras better by making them worse</a></li>
+<li><a href="https://arstechnica.com/gadgets/2026/08/third-party-app-stores-are-rolling-out-in-google-play-but-theres-only-one-right-now/" rel="nofollow" target="_blank">Following Epic loss, Google has started hosting rival app stores in the Play Store</a></li>
+<li><a href="https://arstechnica.com/gadgets/2026/08/google-ordered-to-make-it-easier-to-download-alternative-android-app-stores" rel="nofollow" target="_blank">Judge gives Google one week to fix "anticompetitive" app store download in Google Play</a></li>
+<li><a href="https://9to5mac.com/2026/08/13/apple-proposes-commissions-of-up-to-15-for-off-app-store-purchases-in-the-us" rel="nofollow" target="_blank">Apple proposes commissions of up to 15% for off-App Store purchases in the US [U]</a></li>
+<li><a href="https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now" rel="nofollow" target="_blank">Twitch content has trained Amazon AI for years, but users can opt out now</a></li>
+<li><a href="https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight" rel="nofollow" target="_blank">DEF CON crowd suspected in fake-hotspot attack on Delta flight</a></li>
+<li><a href="https://sharktastica.co.uk/articles/pc-fxt-45" rel="nofollow" target="_blank">Happy 45th Birthday to the IBM PC and Model F/XT</a></li>
+<li><a href="https://www.theverge.com/tech/979295/petlibro-outage-smart-pet-feeders" rel="nofollow" target="_blank">Cats and dogs are missing meals after a popular smart feeder went down</a></li>
+<li><a href="https://newrepublic.com/post/214135/donald-trump-transportation-secretary-video-games-air-traffic-controllers" rel="nofollow" target="_blank">Transportation Sec. Decides to Turn Air Traffic Control Into a Game</a></li>
+<li><a href="https://arstechnica.com/science/2026/08/have-physicists-finally-discovered-glueballs-new-evidence-points-to-yes/" rel="nofollow" target="_blank">Have physicists finally discovered glueballs? New evidence points to yes.</a></li>
+</ul>]]></description>
+    <content:encoded><![CDATA[<p><strong>Guests:</strong> Denise Howell, Joey de Villa, Gina Smith</p>
+<p>Can you trust Mark Zuckerberg’s open AI manifesto, or is it just another play to keep control out of your hands? The panel debates the future of personal superintelligent agents, who really stands to benefit, and whether anyone should slow things down before it’s too late.</p><ul><li>Mark Zuckerberg Posts 6,500-Word AI Essay</li><li>Zuckerberg Is Right About Open, Decentralized AI. He’s Also The Last Person You Should Trust To Deliver It</li><li>Anthropic pledges to embed watermarks to help discern AI slop in sop to EU</li><li>You can now turn off Google Gemini’s visible watermarks</li><li>Everything Google announced: Pixel 11, Pixel Tag, Pixel Watch 11, more</li><li>Google is making the Pixel cameras better by making them worse</li><li>Following Epic loss, Google has started hosting rival app stores in the Play Store</li><li>Judge gives Google one week to fix "anticompetitive" app store download in Google Play</li><li>Apple proposes commissions of up to 15% for off-App Store purchases in the US [U]</li><li>Twitch content has trained Amazon AI for years, but users can opt out now</li><li>DEF CON crowd suspected in fake-hotspot attack on Delta flight</li><li>Happy 45th Birthday to the IBM PC and Model F/XT</li><li>Cats and dogs are missing meals after a popular smart feeder went down</li><li>Transportation Sec. Decides to Turn Air Traffic Control Into a Game</li><li>Have physicists finally discovered glueballs? New evidence points to yes.</li></ul>
+<h3>Links</h3>
+<ul>
+<li><a href="https://www.meta.com/thefutureisforeveryone" rel="nofollow" target="_blank">Mark Zuckerberg Posts 6,500-Word AI Essay</a></li>
+<li><a href="https://www.techdirt.com/2026/08/12/zuckerberg-is-right-about-open-decentralized-ai-hes-also-the-last-person-you-should-trust-to-deliver-it/" rel="nofollow" target="_blank">Zuckerberg Is Right About Open, Decentralized AI. He’s Also The Last Person You Should Trust To Deliver It</a></li>
+<li><a href="https://www.theregister.com/ai-and-ml/2026/08/11/anthropic-pledges-to-embed-watermarks-to-help-discern-ai-slop-in-sop-to-eu/5285792" rel="nofollow" target="_blank">Anthropic pledges to embed watermarks to help discern AI slop in sop to EU</a></li>
+<li><a href="https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal" rel="nofollow" target="_blank">You can now turn off Google Gemini’s visible watermarks</a></li>
+<li><a href="https://appleinsider.com/articles/26/08/12/everything-google-announced-pixel-11-pixel-tag-pixel-watch-11-more" rel="nofollow" target="_blank">Everything Google announced: Pixel 11, Pixel Tag, Pixel Watch 11, more</a></li>
+<li><a href="https://www.theverge.com/tech/978084/google-camera-looks-interview-computational-photography?view_token=eyJhbGciOiJIUzI1NiJ9.eyJpZCI6InhLdTE5RUlMNloiLCJwIjoiL3RlY2gvOTc4MDg0L2dvb2dsZS1jYW1lcmEtbG9va3MtaW50ZXJ2aWV3LWNvbXB1dGF0aW9uYWwtcGhvdG9ncmFwaHkiLCJleHAiOjE3ODY5NzUyNjYsImlhdCI6MTc4NjU0MzI2Nn0.f2GwLho-NffVdwa3VbXdqw02nirJgFYXu6LFTiRujGQ" rel="nofollow" target="_blank">Google is making the Pixel cameras better by making them worse</a></li>
+<li><a href="https://arstechnica.com/gadgets/2026/08/third-party-app-stores-are-rolling-out-in-google-play-but-theres-only-one-right-now/" rel="nofollow" target="_blank">Following Epic loss, Google has started hosting rival app stores in the Play Store</a></li>
+<li><a href="https://arstechnica.com/gadgets/2026/08/google-ordered-to-make-it-easier-to-download-alternative-android-app-stores" rel="nofollow" target="_blank">Judge gives Google one week to fix "anticompetitive" app store download in Google Play</a></li>
+<li><a href="https://9to5mac.com/2026/08/13/apple-proposes-commissions-of-up-to-15-for-off-app-store-purchases-in-the-us" rel="nofollow" target="_blank">Apple proposes commissions of up to 15% for off-App Store purchases in the US [U]</a></li>
+<li><a href="https://arstechnica.com/ai/2026/08/twitch-content-has-trained-amazon-ai-for-years-but-users-can-opt-out-now" rel="nofollow" target="_blank">Twitch content has trained Amazon AI for years, but users can opt out now</a></li>
+<li><a href="https://arstechnica.com/information-technology/2026/08/def-con-crowd-suspected-in-fake-hotspot-attack-on-delta-flight" rel="nofollow" target="_blank">DEF CON crowd suspected in fake-hotspot attack on Delta flight</a></li>
+<li><a href="https://sharktastica.co.uk/articles/pc-fxt-45" rel="nofollow" target="_blank">Happy 45th Birthday to the IBM PC and Model F/XT</a></li>
+<li><a href="https://www.theverge.com/tech/979295/petlibro-outage-smart-pet-feeders" rel="nofollow" target="_blank">Cats and dogs are missing meals after a popular smart feeder went down</a></li>
+<li><a href="https://newrepublic.com/post/214135/donald-trump-transportation-secretary-video-games-air-traffic-controllers" rel="nofollow" target="_blank">Transportation Sec. Decides to Turn Air Traffic Control Into a Game</a></li>
+<li><a href="https://arstechnica.com/science/2026/08/have-physicists-finally-discovered-glueballs-new-evidence-points-to-yes/" rel="nofollow" target="_blank">Have physicists finally discovered glueballs? New evidence points to yes.</a></li>
+</ul>]]></content:encoded>
+  </item>
   <item>
     <title>1096: Fluff for Armor</title>
     <itunes:title>Fluff for Armor</itunes:title>
@@ -30,7 +86,7 @@
     <guid isPermaLink="false">twit-archive-ep-1096</guid>
     <link>https://twit.tv/shows/this-week-in-tech/episodes/1096</link>
     <pubDate>Sun, 09 Aug 2026 23:14:44 +0000</pubDate>
-    <enclosure url="https://cdn.twit.tv/megaphone/twit_1096/ARML7950877930.mp3" length="163068601" type="audio/mpeg"/>
+    <enclosure url="https://cdn.twit.tv/megaphone/twit_1096/ARML7950877930.mp3" length="161622466" type="audio/mpeg"/>
     <itunes:duration>2:48:18</itunes:duration>
     <itunes:image href="https://elroy.twit.tv/sites/default/files/images/episodes/2026/08/862506/hero/TWIT1096_thumbnail.jpg"/>
     <itunes:author>Leo Laporte</itunes:author>
@@ -104,7 +160,7 @@
     <guid isPermaLink="false">twit-archive-ep-1095</guid>
     <link>https://twit.tv/shows/this-week-in-tech/episodes/1095</link>
     <pubDate>Mon, 03 Aug 2026 03:20:36 +0000</pubDate>
-    <enclosure url="https://cdn.twit.tv/megaphone/twit_1095/ARML7402170727.mp3" length="170473776" type="audio/mpeg"/>
+    <enclosure url="https://cdn.twit.tv/megaphone/twit_1095/ARML7402170727.mp3" length="169492828" type="audio/mpeg"/>
     <itunes:duration>2:56:01</itunes:duration>
     <itunes:image href="https://elroy.twit.tv/sites/default/files/images/episodes/2026/08/862424/hero/TWIT1095_thumbnail.jpg"/>
     <itunes:author>Leo Laporte</itunes:author>
@@ -162,7 +218,7 @@
     <guid isPermaLink="false">twit-archive-ep-1094</guid>
     <link>https://twit.tv/shows/this-week-in-tech/episodes/1094</link>
     <pubDate>Mon, 27 Jul 2026 01:40:46 +0000</pubDate>
-    <enclosure url="https://cdn.twit.tv/megaphone/twit_1094/ARML1737476611.mp3" length="170694616" type="audio/mpeg"/>
+    <enclosure url="https://cdn.twit.tv/megaphone/twit_1094/ARML1737476611.mp3" length="169485046" type="audio/mpeg"/>
     <itunes:duration>2:56:30</itunes:duration>
     <itunes:image href="https://elroy.twit.tv/sites/default/files/images/episodes/2026/07/862333/hero/TWIT1094_thumbnail.jpg"/>
     <itunes:author>Leo Laporte</itunes:author>
@@ -220,7 +276,7 @@
     <guid isPermaLink="false">twit-archive-ep-1093</guid>
     <link>https://twit.tv/shows/this-week-in-tech/episodes/1093</link>
     <pubDate>Mon, 20 Jul 2026 00:43:25 +0000</pubDate>
-    <enclosure url="https://cdn.twit.tv/megaphone/twit_1093/ARML9058924173.mp3" length="172070012" type="audio/mpeg"/>
+    <enclosure url="https://cdn.twit.tv/megaphone/twit_1093/ARML9058924173.mp3" length="171569298" type="audio/mpeg"/>
     <itunes:duration>2:57:41</itunes:duration>
     <itunes:image href="https://elroy.twit.tv/sites/default/files/images/episodes/2026/07/862245/hero/TWIT1093_thumbnail%21.jpg"/>
     <itunes:author>Leo Laporte</itunes:author>
