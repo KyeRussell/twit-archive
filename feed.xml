@@ -19,9 +19,73 @@
   <itunes:owner>
     <itunes:name>This Week in Tech Archive</itunes:name>
   </itunes:owner>
-  <lastBuildDate>Mon, 17 Aug 2026 15:42:14 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 24 Aug 2026 15:57:14 +0000</lastBuildDate>
   <generator>twit-archive</generator>
   <atom:link href="https://kyerussell.github.io/twit-archive/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>1098: Usain Volt</title>
+    <itunes:title>Usain Volt</itunes:title>
+    <itunes:episode>1098</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <guid isPermaLink="false">twit-archive-ep-1098</guid>
+    <link>https://twit.tv/shows/this-week-in-tech/episodes/1098</link>
+    <pubDate>Mon, 24 Aug 2026 04:29:45 +0000</pubDate>
+    <enclosure url="https://cdn.twit.tv/megaphone/twit_1098/ARML4546969415.mp3" length="167746174" type="audio/mpeg"/>
+    <itunes:duration>2:53:12</itunes:duration>
+    <itunes:image href="https://elroy.twit.tv/sites/default/files/images/episodes/2026/08/862700/hero/TWIT1098_thumbnail.jpg"/>
+    <itunes:author>Leo Laporte</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:subtitle>Meta, Addiction, &amp;amp; the Future of Online Engagement</itunes:subtitle>
+    <itunes:summary><![CDATA[Meta, Addiction, &amp; the Future of Online Engagement]]></itunes:summary>
+    <description><![CDATA[<p><strong>Guests:</strong> Sam Abuelsamid, Fr. Robert Ballecer, SJ</p>
+<p>Meta faces a $1.4 trillion lawsuit, flock cameras are sparking a privacy revolt, and data centers may be fueling the next bubble. This episode pulls back the curtain on who’s watching, who’s profiting, and who could pay the price.</p><ul><li>Meta’s Big Reckoning Is Here</li><li>Meta heads to court in a landmark trial about kids and social media addiction</li><li>Ninth Circuit Ruling Will Force Online Platforms That Host User Speech to Fight Lengthy and Costly Lawsuits Before They Are Dismissed Under Section 230</li><li>The $1.4 Trillion State Tort Raid on Meta</li><li>Google’s Pixel 11 Comes With Plenty of A.I. Does Anyone Want That?</li><li>Waymo’s cheaper, next-gen robotaxi is now open to all riders in these three cities</li><li> Apple and European Commission Reach Agreement on App Payment Terms Under DMA, With Apple Conceding Very Little</li><li>Apple is laying off staffers working on the Vision Pro and Siri</li><li>Hidden Airtag reveals Amazon is trashing rare books to train AI</li><li>Amazon aims for delivery drones to reach 500 US neighborhoods by the end of 2026</li><li>NVIDIA to Back Ohio Data Center With as Much as $105 Billion</li><li>Why Big Tech’s AI Spending Is $3 Trillion Higher Than It Seems</li><li>New Chinese model adds to AI competition</li><li>Police Are Hiding Their Use of Flock Surveillance Cameras</li><li>Flock mistakenly flags 2 different auto writers for "stolen" license plates</li><li>Go Flock Yourself</li><li>Flock socks for UV protection </li><li>Ban on Chinese robots leaves U.S. startups stranded</li><li>China Is Strapping ‘Digital Bombs’ to Civilian Infrastructure—Is the US Ready?</li></ul>
+<h3>Links</h3>
+<ul>
+<li><a href="https://www.npr.org/2026/08/17/nx-s1-5930701/meta-trial-kids-social-media-addiction" rel="nofollow" target="_blank">Meta heads to court in a landmark trial about kids and social media addiction</a></li>
+<li><a href="https://www.eff.org/deeplinks/2026/08/ninth-circuit-ruling-will-force-online-platforms-host-user-speech-fight-lengthy" rel="nofollow" target="_blank">Ninth Circuit Ruling Will Force Online Platforms That Host User Speech to Fight Lengthy and Costly Lawsuits Before They Are Dismissed Under Section 230</a></li>
+<li><a href="https://www.wsj.com/opinion/the-1-4-trillion-state-tort-raid-on-meta-b2839896?mod=rss_Technology" rel="nofollow" target="_blank">Opinion | The $1.4 Trillion State Tort Raid on Meta</a></li>
+<li><a href="https://www.nytimes.com/2026/08/19/technology/personaltech/google-pixel-11-review.html" rel="nofollow" target="_blank">Google’s Pixel 11 Comes With Plenty of A.I. Does Anyone Want That?</a></li>
+<li><a href="https://techcrunch.com/2026/08/19/waymos-cheaper-next-gen-robotaxi-is-now-open-to-all-riders-in-these-three-cities" rel="nofollow" target="_blank">Waymo’s cheaper, next-gen robotaxi is now open to all riders in these three cities</a></li>
+<li><a href="https://daringfireball.net/2026/08/apple_eu_business_terms_conceding_little" rel="nofollow" target="_blank">★ Apple and European Commission Reach Agreement on App Payment Terms Under DMA, With Apple Conceding Very Little</a></li>
+<li><a href="https://www.theverge.com/tech/983451/apple-layoffs-vision-pro-siri" rel="nofollow" target="_blank">Apple is laying off staffers working on the Vision Pro and Siri</a></li>
+<li><a href="https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai" rel="nofollow" target="_blank">Hidden Airtag reveals Amazon is trashing rare books to train AI</a></li>
+<li><a href="https://arstechnica.com/gadgets/2026/08/amazon-aims-for-delivery-drones-to-reach-500-us-neighborhoods-by-end-of-2026" rel="nofollow" target="_blank">Amazon aims for delivery drones to reach 500 US neighborhoods by end of 2026</a></li>
+<li><a href="https://www.nytimes.com/2026/08/17/technology/nvidia-ohio-data-center-openai.html" rel="nofollow" target="_blank">Nvidia to Back Ohio Data Center With as Much as $105 Billion</a></li>
+<li><a href="https://www.wsj.com/tech/ai/why-big-techs-ai-spending-is-3-trillion-higher-than-it-seems-e1067bb2?mod=rss_Technology" rel="nofollow" target="_blank">Why Big Tech’s AI Spending Is $3 Trillion Higher Than It Seems</a></li>
+<li><a href="https://www.semafor.com/article/08/16/2026/new-chinese-model-adds-to-ai-competition" rel="nofollow" target="_blank">New Chinese model adds to AI competition</a></li>
+<li><a href="https://www.schneier.com/blog/archives/2026/08/police-are-hiding-their-use-of-flock-surveillance-cameras.html" rel="nofollow" target="_blank">Police Are Hiding Their Use of Flock Surveillance Cameras</a></li>
+<li><a href="https://www.thedrive.com/news/how-flock-cameras-wrongly-tracked-me-for-days-over-stolen-plates-and-sent-police-after-me" rel="nofollow" target="_blank">Flock mistakenly flags 2 different auto writers for "stolen" license plates</a></li>
+<li><a href="https://futurism.com/future-society/grand-jury-ohio-flock-alpr-surveillance-felony-legal" rel="nofollow" target="_blank">Go Flock Yourself</a></li>
+<li><a href="https://www.jalopnik.com/2239058/3d-printed-flock-sock-covers-flock-cameras-just-protects-from-uv-radiation/" rel="nofollow" target="_blank">flock socks for UV protection </a></li>
+<li><a href="https://x.com/Breaking911/status/2090416828673651091" rel="nofollow" target="_blank">A humanoid robot training for the “Robot Olympics” in Beijing runs too fast, fails to stop, slams into a safety cushion, and breaks at the waist</a></li>
+<li><a href="https://restofworld.org/2026/china-robot-ban-silicon-valley" rel="nofollow" target="_blank">Ban on Chinese robots leaves U.S. startups stranded</a></li>
+<li><a href="https://www.wired.com/story/china-is-strapping-digital-bombs-to-civilian-infrastructure-is-the-us-ready" rel="nofollow" target="_blank">China Is Strapping ‘Digital Bombs’ to Civilian Infrastructure—Is the US Ready?</a></li>
+</ul>]]></description>
+    <content:encoded><![CDATA[<p><strong>Guests:</strong> Sam Abuelsamid, Fr. Robert Ballecer, SJ</p>
+<p>Meta faces a $1.4 trillion lawsuit, flock cameras are sparking a privacy revolt, and data centers may be fueling the next bubble. This episode pulls back the curtain on who’s watching, who’s profiting, and who could pay the price.</p><ul><li>Meta’s Big Reckoning Is Here</li><li>Meta heads to court in a landmark trial about kids and social media addiction</li><li>Ninth Circuit Ruling Will Force Online Platforms That Host User Speech to Fight Lengthy and Costly Lawsuits Before They Are Dismissed Under Section 230</li><li>The $1.4 Trillion State Tort Raid on Meta</li><li>Google’s Pixel 11 Comes With Plenty of A.I. Does Anyone Want That?</li><li>Waymo’s cheaper, next-gen robotaxi is now open to all riders in these three cities</li><li> Apple and European Commission Reach Agreement on App Payment Terms Under DMA, With Apple Conceding Very Little</li><li>Apple is laying off staffers working on the Vision Pro and Siri</li><li>Hidden Airtag reveals Amazon is trashing rare books to train AI</li><li>Amazon aims for delivery drones to reach 500 US neighborhoods by the end of 2026</li><li>NVIDIA to Back Ohio Data Center With as Much as $105 Billion</li><li>Why Big Tech’s AI Spending Is $3 Trillion Higher Than It Seems</li><li>New Chinese model adds to AI competition</li><li>Police Are Hiding Their Use of Flock Surveillance Cameras</li><li>Flock mistakenly flags 2 different auto writers for "stolen" license plates</li><li>Go Flock Yourself</li><li>Flock socks for UV protection </li><li>Ban on Chinese robots leaves U.S. startups stranded</li><li>China Is Strapping ‘Digital Bombs’ to Civilian Infrastructure—Is the US Ready?</li></ul>
+<h3>Links</h3>
+<ul>
+<li><a href="https://www.npr.org/2026/08/17/nx-s1-5930701/meta-trial-kids-social-media-addiction" rel="nofollow" target="_blank">Meta heads to court in a landmark trial about kids and social media addiction</a></li>
+<li><a href="https://www.eff.org/deeplinks/2026/08/ninth-circuit-ruling-will-force-online-platforms-host-user-speech-fight-lengthy" rel="nofollow" target="_blank">Ninth Circuit Ruling Will Force Online Platforms That Host User Speech to Fight Lengthy and Costly Lawsuits Before They Are Dismissed Under Section 230</a></li>
+<li><a href="https://www.wsj.com/opinion/the-1-4-trillion-state-tort-raid-on-meta-b2839896?mod=rss_Technology" rel="nofollow" target="_blank">Opinion | The $1.4 Trillion State Tort Raid on Meta</a></li>
+<li><a href="https://www.nytimes.com/2026/08/19/technology/personaltech/google-pixel-11-review.html" rel="nofollow" target="_blank">Google’s Pixel 11 Comes With Plenty of A.I. Does Anyone Want That?</a></li>
+<li><a href="https://techcrunch.com/2026/08/19/waymos-cheaper-next-gen-robotaxi-is-now-open-to-all-riders-in-these-three-cities" rel="nofollow" target="_blank">Waymo’s cheaper, next-gen robotaxi is now open to all riders in these three cities</a></li>
+<li><a href="https://daringfireball.net/2026/08/apple_eu_business_terms_conceding_little" rel="nofollow" target="_blank">★ Apple and European Commission Reach Agreement on App Payment Terms Under DMA, With Apple Conceding Very Little</a></li>
+<li><a href="https://www.theverge.com/tech/983451/apple-layoffs-vision-pro-siri" rel="nofollow" target="_blank">Apple is laying off staffers working on the Vision Pro and Siri</a></li>
+<li><a href="https://arstechnica.com/tech-policy/2026/08/hidden-airtag-reveals-amazon-is-trashing-rare-books-to-train-ai" rel="nofollow" target="_blank">Hidden Airtag reveals Amazon is trashing rare books to train AI</a></li>
+<li><a href="https://arstechnica.com/gadgets/2026/08/amazon-aims-for-delivery-drones-to-reach-500-us-neighborhoods-by-end-of-2026" rel="nofollow" target="_blank">Amazon aims for delivery drones to reach 500 US neighborhoods by end of 2026</a></li>
+<li><a href="https://www.nytimes.com/2026/08/17/technology/nvidia-ohio-data-center-openai.html" rel="nofollow" target="_blank">Nvidia to Back Ohio Data Center With as Much as $105 Billion</a></li>
+<li><a href="https://www.wsj.com/tech/ai/why-big-techs-ai-spending-is-3-trillion-higher-than-it-seems-e1067bb2?mod=rss_Technology" rel="nofollow" target="_blank">Why Big Tech’s AI Spending Is $3 Trillion Higher Than It Seems</a></li>
+<li><a href="https://www.semafor.com/article/08/16/2026/new-chinese-model-adds-to-ai-competition" rel="nofollow" target="_blank">New Chinese model adds to AI competition</a></li>
+<li><a href="https://www.schneier.com/blog/archives/2026/08/police-are-hiding-their-use-of-flock-surveillance-cameras.html" rel="nofollow" target="_blank">Police Are Hiding Their Use of Flock Surveillance Cameras</a></li>
+<li><a href="https://www.thedrive.com/news/how-flock-cameras-wrongly-tracked-me-for-days-over-stolen-plates-and-sent-police-after-me" rel="nofollow" target="_blank">Flock mistakenly flags 2 different auto writers for "stolen" license plates</a></li>
+<li><a href="https://futurism.com/future-society/grand-jury-ohio-flock-alpr-surveillance-felony-legal" rel="nofollow" target="_blank">Go Flock Yourself</a></li>
+<li><a href="https://www.jalopnik.com/2239058/3d-printed-flock-sock-covers-flock-cameras-just-protects-from-uv-radiation/" rel="nofollow" target="_blank">flock socks for UV protection </a></li>
+<li><a href="https://x.com/Breaking911/status/2090416828673651091" rel="nofollow" target="_blank">A humanoid robot training for the “Robot Olympics” in Beijing runs too fast, fails to stop, slams into a safety cushion, and breaks at the waist</a></li>
+<li><a href="https://restofworld.org/2026/china-robot-ban-silicon-valley" rel="nofollow" target="_blank">Ban on Chinese robots leaves U.S. startups stranded</a></li>
+<li><a href="https://www.wired.com/story/china-is-strapping-digital-bombs-to-civilian-infrastructure-is-the-us-ready" rel="nofollow" target="_blank">China Is Strapping ‘Digital Bombs’ to Civilian Infrastructure—Is the US Ready?</a></li>
+</ul>]]></content:encoded>
+  </item>
   <item>
     <title>1097: Gina and the Glueballs</title>
     <itunes:title>Gina and the Glueballs</itunes:title>
@@ -30,7 +94,7 @@
     <guid isPermaLink="false">twit-archive-ep-1097</guid>
     <link>https://twit.tv/shows/this-week-in-tech/episodes/1097</link>
     <pubDate>Mon, 17 Aug 2026 05:00:00 +0000</pubDate>
-    <enclosure url="https://cdn.twit.tv/megaphone/twit_1097/ARML7315165751.mp3" length="169280524" type="audio/mpeg"/>
+    <enclosure url="https://cdn.twit.tv/megaphone/twit_1097/ARML7315165751.mp3" length="169296407" type="audio/mpeg"/>
     <itunes:duration>2:55:48</itunes:duration>
     <itunes:image href="https://elroy.twit.tv/sites/default/files/images/episodes/2026/08/862590/hero/TWIT1097_thumbnail.jpg"/>
     <itunes:author>Leo Laporte</itunes:author>
@@ -160,7 +224,7 @@
     <guid isPermaLink="false">twit-archive-ep-1095</guid>
     <link>https://twit.tv/shows/this-week-in-tech/episodes/1095</link>
     <pubDate>Mon, 03 Aug 2026 03:20:36 +0000</pubDate>
-    <enclosure url="https://cdn.twit.tv/megaphone/twit_1095/ARML7402170727.mp3" length="169492828" type="audio/mpeg"/>
+    <enclosure url="https://cdn.twit.tv/megaphone/twit_1095/ARML7402170727.mp3" length="169027641" type="audio/mpeg"/>
     <itunes:duration>2:56:01</itunes:duration>
     <itunes:image href="https://elroy.twit.tv/sites/default/files/images/episodes/2026/08/862424/hero/TWIT1095_thumbnail.jpg"/>
     <itunes:author>Leo Laporte</itunes:author>
@@ -218,7 +282,7 @@
     <guid isPermaLink="false">twit-archive-ep-1094</guid>
     <link>https://twit.tv/shows/this-week-in-tech/episodes/1094</link>
     <pubDate>Mon, 27 Jul 2026 01:40:46 +0000</pubDate>
-    <enclosure url="https://cdn.twit.tv/megaphone/twit_1094/ARML1737476611.mp3" length="169485046" type="audio/mpeg"/>
+    <enclosure url="https://cdn.twit.tv/megaphone/twit_1094/ARML1737476611.mp3" length="169966534" type="audio/mpeg"/>
     <itunes:duration>2:56:30</itunes:duration>
     <itunes:image href="https://elroy.twit.tv/sites/default/files/images/episodes/2026/07/862333/hero/TWIT1094_thumbnail.jpg"/>
     <itunes:author>Leo Laporte</itunes:author>
