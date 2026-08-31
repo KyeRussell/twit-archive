@@ -19,9 +19,61 @@
   <itunes:owner>
     <itunes:name>This Week in Tech Archive</itunes:name>
   </itunes:owner>
-  <lastBuildDate>Mon, 24 Aug 2026 15:57:14 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 31 Aug 2026 20:50:56 +0000</lastBuildDate>
   <generator>twit-archive</generator>
   <atom:link href="https://kyerussell.github.io/twit-archive/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>1099: Pantsless Whims</title>
+    <itunes:title>Pantsless Whims</itunes:title>
+    <itunes:episode>1099</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <guid isPermaLink="false">twit-archive-ep-1099</guid>
+    <link>https://twit.tv/shows/this-week-in-tech/episodes/1099</link>
+    <pubDate>Mon, 31 Aug 2026 01:17:24 +0000</pubDate>
+    <enclosure url="https://cdn.twit.tv/megaphone/twit_1099/ARML5227837525.mp3" length="184844400" type="audio/mpeg"/>
+    <itunes:duration>3:12:30</itunes:duration>
+    <itunes:image href="https://elroy.twit.tv/sites/default/files/images/episodes/2026/08/862795/hero/TWIT1099_thumbnail.jpg"/>
+    <itunes:author>Leo Laporte</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:subtitle>The Fallout From Meta’s $18 Billion Settlement</itunes:subtitle>
+    <itunes:summary><![CDATA[The Fallout From Meta’s $18 Billion Settlement]]></itunes:summary>
+    <description><![CDATA[<p><strong>Guests:</strong> Jacob Ward, Harry McCracken, Molly White</p>
+<p>As AI-generated video blurs reality and new Macs hit five-figure price tags, the conversation digs into who's left behind in the race to automate and whether "democratizing" tech actually delivers on its promise. Find out how NVIDIA, Meta, and even Apple are reshaping the tech game, and why it might not be good news for everyone.</p><ul><li>Brief independent investigation of agents’ behavior, reasoning and collaboration in the OpenAI / Hugging Face hacking incident</li><li>NVIDIA's Profit Doubles to $59.69 Billion Thanks to A.I. Spending</li><li>Bill Gates Is Warning That A.I. Is More Dangerous Than Big Tech Will Admit</li><li>Apple Introduces M6 and M5 Ultra Chips, in New Mac Mini and Mac Studio</li><li>How Apple Stumbled Into AI Hardware Success With the Mac</li><li>Meta reaches $16.68 billion settlement over social media harms to children</li><li>Meta Just Paid Nearly $17 Billion To Make Sure It Gets To Write The Kid Safety Rules For Every Other Social Media Platform</li><li>The Meta Settlement Makes Big Tech Bigger</li><li>‘Darth Vader’ Wants You to Know He Definitely Supports Flock Surveillance</li><li>The Data Center Backlash Bursts Into the Midterms</li><li>With the Snip of a Gene, Scientists Hope To Erase High Cholesterol For Life - Slashdot</li><li>Skynet went live yesterday</li><li>Amazon service Bezos once called 'artificial artificial intelligence' is shutting down</li></ul>
+<h3>Links</h3>
+<ul>
+<li><a href="https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/" rel="nofollow" target="_blank">Brief independent investigation of agents’ behavior, reasoning and collaboration in the OpenAI / Hugging Face hacking incident</a></li>
+<li><a href="https://www.nytimes.com/2026/08/26/technology/bill-gates-ai-risks.html" rel="nofollow" target="_blank">Bill Gates Is Warning That A.I. Is More Dangerous Than Big Tech Will Admit</a></li>
+<li><a href="https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute" rel="nofollow" target="_blank">Apple Introduces M6 and M5 Ultra Chips, in New Mac Mini and Mac Studio</a></li>
+<li><a href="https://www.theinformation.com/articles/apple-stumbled-ai-hardware-success-mac?rc=lykptg" rel="nofollow" target="_blank">How Apple Stumbled Into AI Hardware Success With the Mac</a></li>
+<li><a href="https://www.nytimes.com/2026/08/26/technology/nvidia-profit-ai-doubles-earnings.html" rel="nofollow" target="_blank">Nvidia’s Profit Doubles to $59.69 Billion Thanks to A.I. Spending</a></li>
+<li><a href="https://www.reuters.com/world/us/meta-settles-with-us-states-over-social-media-harms-2026-08-26/" rel="nofollow" target="_blank">Meta reaches $16.68 billion settlement over social media harms to children</a></li>
+<li><a href="https://www.techdirt.com/2026/08/26/meta-just-paid-nearly-17-billion-to-make-sure-it-gets-to-write-the-kid-safety-rules-for-every-other-social-media-platform" rel="nofollow" target="_blank">Meta Just Paid Nearly $17 Billion To Make Sure It Gets To Write The Kid Safety Rules For Every Other Social Media Platform</a></li>
+<li><a href="https://www.wsj.com/opinion/the-meta-settlement-makes-big-tech-bigger-874a3e05?mod=rss_Technology" rel="nofollow" target="_blank">Opinion | The Meta Settlement Makes Big Tech Bigger</a></li>
+<li><a href="https://www.wired.com/story/darth-vader-wants-you-to-know-he-definitely-supports-flock-surveillance" rel="nofollow" target="_blank">‘Darth Vader’ Wants You to Know He Definitely Supports Flock Surveillance</a></li>
+<li><a href="https://www.nytimes.com/2026/08/23/us/politics/data-centers-midterm-elections.html" rel="nofollow" target="_blank">The Data Center Backlash Bursts Into the Midterms</a></li>
+<li><a href="https://science.slashdot.org/story/26/08/29/1942224/with-the-snip-of-a-gene-scientists-hope-to-erase-high-cholesterol-for-life" rel="nofollow" target="_blank">With the Snip of a Gene, Scientists Hope To Erase High Cholesterol For Life - Slashdot</a></li>
+<li><a href="https://arstechnica.com/culture/2026/08/our-10-favorite-scenes-from-t2-judgment-day/" rel="nofollow" target="_blank">Skynet went live yesterday</a></li>
+<li><a href="https://www.cnbc.com/2026/08/25/amazon-service-that-jeff-bezos-called-artificial-ai-is-shutting-down.html" rel="nofollow" target="_blank">Amazon service Bezos once called 'artificial artificial intelligence' is shutting down</a></li>
+</ul>]]></description>
+    <content:encoded><![CDATA[<p><strong>Guests:</strong> Jacob Ward, Harry McCracken, Molly White</p>
+<p>As AI-generated video blurs reality and new Macs hit five-figure price tags, the conversation digs into who's left behind in the race to automate and whether "democratizing" tech actually delivers on its promise. Find out how NVIDIA, Meta, and even Apple are reshaping the tech game, and why it might not be good news for everyone.</p><ul><li>Brief independent investigation of agents’ behavior, reasoning and collaboration in the OpenAI / Hugging Face hacking incident</li><li>NVIDIA's Profit Doubles to $59.69 Billion Thanks to A.I. Spending</li><li>Bill Gates Is Warning That A.I. Is More Dangerous Than Big Tech Will Admit</li><li>Apple Introduces M6 and M5 Ultra Chips, in New Mac Mini and Mac Studio</li><li>How Apple Stumbled Into AI Hardware Success With the Mac</li><li>Meta reaches $16.68 billion settlement over social media harms to children</li><li>Meta Just Paid Nearly $17 Billion To Make Sure It Gets To Write The Kid Safety Rules For Every Other Social Media Platform</li><li>The Meta Settlement Makes Big Tech Bigger</li><li>‘Darth Vader’ Wants You to Know He Definitely Supports Flock Surveillance</li><li>The Data Center Backlash Bursts Into the Midterms</li><li>With the Snip of a Gene, Scientists Hope To Erase High Cholesterol For Life - Slashdot</li><li>Skynet went live yesterday</li><li>Amazon service Bezos once called 'artificial artificial intelligence' is shutting down</li></ul>
+<h3>Links</h3>
+<ul>
+<li><a href="https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/" rel="nofollow" target="_blank">Brief independent investigation of agents’ behavior, reasoning and collaboration in the OpenAI / Hugging Face hacking incident</a></li>
+<li><a href="https://www.nytimes.com/2026/08/26/technology/bill-gates-ai-risks.html" rel="nofollow" target="_blank">Bill Gates Is Warning That A.I. Is More Dangerous Than Big Tech Will Admit</a></li>
+<li><a href="https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute" rel="nofollow" target="_blank">Apple Introduces M6 and M5 Ultra Chips, in New Mac Mini and Mac Studio</a></li>
+<li><a href="https://www.theinformation.com/articles/apple-stumbled-ai-hardware-success-mac?rc=lykptg" rel="nofollow" target="_blank">How Apple Stumbled Into AI Hardware Success With the Mac</a></li>
+<li><a href="https://www.nytimes.com/2026/08/26/technology/nvidia-profit-ai-doubles-earnings.html" rel="nofollow" target="_blank">Nvidia’s Profit Doubles to $59.69 Billion Thanks to A.I. Spending</a></li>
+<li><a href="https://www.reuters.com/world/us/meta-settles-with-us-states-over-social-media-harms-2026-08-26/" rel="nofollow" target="_blank">Meta reaches $16.68 billion settlement over social media harms to children</a></li>
+<li><a href="https://www.techdirt.com/2026/08/26/meta-just-paid-nearly-17-billion-to-make-sure-it-gets-to-write-the-kid-safety-rules-for-every-other-social-media-platform" rel="nofollow" target="_blank">Meta Just Paid Nearly $17 Billion To Make Sure It Gets To Write The Kid Safety Rules For Every Other Social Media Platform</a></li>
+<li><a href="https://www.wsj.com/opinion/the-meta-settlement-makes-big-tech-bigger-874a3e05?mod=rss_Technology" rel="nofollow" target="_blank">Opinion | The Meta Settlement Makes Big Tech Bigger</a></li>
+<li><a href="https://www.wired.com/story/darth-vader-wants-you-to-know-he-definitely-supports-flock-surveillance" rel="nofollow" target="_blank">‘Darth Vader’ Wants You to Know He Definitely Supports Flock Surveillance</a></li>
+<li><a href="https://www.nytimes.com/2026/08/23/us/politics/data-centers-midterm-elections.html" rel="nofollow" target="_blank">The Data Center Backlash Bursts Into the Midterms</a></li>
+<li><a href="https://science.slashdot.org/story/26/08/29/1942224/with-the-snip-of-a-gene-scientists-hope-to-erase-high-cholesterol-for-life" rel="nofollow" target="_blank">With the Snip of a Gene, Scientists Hope To Erase High Cholesterol For Life - Slashdot</a></li>
+<li><a href="https://arstechnica.com/culture/2026/08/our-10-favorite-scenes-from-t2-judgment-day/" rel="nofollow" target="_blank">Skynet went live yesterday</a></li>
+<li><a href="https://www.cnbc.com/2026/08/25/amazon-service-that-jeff-bezos-called-artificial-ai-is-shutting-down.html" rel="nofollow" target="_blank">Amazon service Bezos once called 'artificial artificial intelligence' is shutting down</a></li>
+</ul>]]></content:encoded>
+  </item>
   <item>
     <title>1098: Usain Volt</title>
     <itunes:title>Usain Volt</itunes:title>
@@ -30,7 +82,7 @@
     <guid isPermaLink="false">twit-archive-ep-1098</guid>
     <link>https://twit.tv/shows/this-week-in-tech/episodes/1098</link>
     <pubDate>Mon, 24 Aug 2026 04:29:45 +0000</pubDate>
-    <enclosure url="https://cdn.twit.tv/megaphone/twit_1098/ARML4546969415.mp3" length="167746174" type="audio/mpeg"/>
+    <enclosure url="https://cdn.twit.tv/megaphone/twit_1098/ARML4546969415.mp3" length="167723186" type="audio/mpeg"/>
     <itunes:duration>2:53:12</itunes:duration>
     <itunes:image href="https://elroy.twit.tv/sites/default/files/images/episodes/2026/08/862700/hero/TWIT1098_thumbnail.jpg"/>
     <itunes:author>Leo Laporte</itunes:author>
@@ -94,7 +146,7 @@
     <guid isPermaLink="false">twit-archive-ep-1097</guid>
     <link>https://twit.tv/shows/this-week-in-tech/episodes/1097</link>
     <pubDate>Mon, 17 Aug 2026 05:00:00 +0000</pubDate>
-    <enclosure url="https://cdn.twit.tv/megaphone/twit_1097/ARML7315165751.mp3" length="169296407" type="audio/mpeg"/>
+    <enclosure url="https://cdn.twit.tv/megaphone/twit_1097/ARML7315165751.mp3" length="170020310" type="audio/mpeg"/>
     <itunes:duration>2:55:48</itunes:duration>
     <itunes:image href="https://elroy.twit.tv/sites/default/files/images/episodes/2026/08/862590/hero/TWIT1097_thumbnail.jpg"/>
     <itunes:author>Leo Laporte</itunes:author>
@@ -150,7 +202,7 @@
     <guid isPermaLink="false">twit-archive-ep-1096</guid>
     <link>https://twit.tv/shows/this-week-in-tech/episodes/1096</link>
     <pubDate>Sun, 09 Aug 2026 23:14:44 +0000</pubDate>
-    <enclosure url="https://cdn.twit.tv/megaphone/twit_1096/ARML7950877930.mp3" length="161622466" type="audio/mpeg"/>
+    <enclosure url="https://cdn.twit.tv/megaphone/twit_1096/ARML7950877930.mp3" length="163067348" type="audio/mpeg"/>
     <itunes:duration>2:48:18</itunes:duration>
     <itunes:image href="https://elroy.twit.tv/sites/default/files/images/episodes/2026/08/862506/hero/TWIT1096_thumbnail.jpg"/>
     <itunes:author>Leo Laporte</itunes:author>
@@ -224,7 +276,7 @@
     <guid isPermaLink="false">twit-archive-ep-1095</guid>
     <link>https://twit.tv/shows/this-week-in-tech/episodes/1095</link>
     <pubDate>Mon, 03 Aug 2026 03:20:36 +0000</pubDate>
-    <enclosure url="https://cdn.twit.tv/megaphone/twit_1095/ARML7402170727.mp3" length="169027641" type="audio/mpeg"/>
+    <enclosure url="https://cdn.twit.tv/megaphone/twit_1095/ARML7402170727.mp3" length="170192489" type="audio/mpeg"/>
     <itunes:duration>2:56:01</itunes:duration>
     <itunes:image href="https://elroy.twit.tv/sites/default/files/images/episodes/2026/08/862424/hero/TWIT1095_thumbnail.jpg"/>
     <itunes:author>Leo Laporte</itunes:author>
