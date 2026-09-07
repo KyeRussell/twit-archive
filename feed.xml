@@ -19,9 +19,61 @@
   <itunes:owner>
     <itunes:name>This Week in Tech Archive</itunes:name>
   </itunes:owner>
-  <lastBuildDate>Mon, 31 Aug 2026 20:50:56 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 07 Sep 2026 19:11:11 +0000</lastBuildDate>
   <generator>twit-archive</generator>
   <atom:link href="https://kyerussell.github.io/twit-archive/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>1100: Yoloville</title>
+    <itunes:title>Yoloville</itunes:title>
+    <itunes:episode>1100</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <guid isPermaLink="false">twit-archive-ep-1100</guid>
+    <link>https://twit.tv/shows/this-week-in-tech/episodes/1100</link>
+    <pubDate>Mon, 07 Sep 2026 03:00:00 +0000</pubDate>
+    <enclosure url="https://cdn.twit.tv/megaphone/twit_1100/ARML2125974650.mp3" length="167344270" type="audio/mpeg"/>
+    <itunes:duration>2:49:22</itunes:duration>
+    <itunes:image href="https://elroy.twit.tv/sites/default/files/images/episodes/2026/09/862896/hero/TWIT1100_thumbnail.jpg"/>
+    <itunes:author>Leo Laporte</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:subtitle>Data Centers, Climate Change, and the True Cost of “Innovation”</itunes:subtitle>
+    <itunes:summary><![CDATA[Data Centers, Climate Change, and the True Cost of “Innovation”]]></itunes:summary>
+    <description><![CDATA[<p><strong>Guests:</strong> Stacey Higginbotham, Jeff Jarvis, Owen JJ Stone</p>
+<p>When politicians, parents, and platforms collide, who protects kids from tech’s dark side? Dive into real stories of digital parenting, policy-making headaches, and the unexpected ways tech companies shape everyday life.</p><ul><li>US court rules Google will not have to sell ad exchange after losing antitrust case</li><li>Why the Courts Are Hesitant to Punish Tech Giants Like Meta and Google</li><li>John Ternus is now the CEO of Apple</li><li>Apple, OpenAI legal fight keeps escalating. Here's how we got here</li><li>Court Filings In A.I. Suit Invoke Copyright Law, Culture and Sports</li><li>Meta accepts U.S. safety rules while pitching softer tools abroad</li><li>FTC lawsuit alleges Amazon has been ‘secretly and systematically’ overcharging for ads</li><li>Bernie Sanders Proposes Artificial Superintelligence Ban Amid Rogue AI Hackings</li><li>Vance Called AI Satanic. He Struck a Chord Among Christian Republicans.</li><li>Who Cares if AI Is Conscious—It’s Basically Alive</li><li>Nvidia Extends A.I. Spending Spree With $12.9 Billion Deal for Hugging Face</li><li>Tesla’s Cybercab Officially Launches Today. It’s Already Under Investigation</li><li>AI visionary Ray Kurzweil is joining a Silicon Valley startup developing a brain computer system that involves snorting nanoparticles</li></ul>
+<h3>Links</h3>
+<ul>
+<li><a href="https://arstechnica.com/gadgets/2026/09/us-court-rules-google-will-not-have-to-sell-ad-exchange-after-losing-antitrust-case" rel="nofollow" target="_blank">US court rules Google will not have to sell ad exchange after losing antitrust case</a></li>
+<li><a href="https://www.nytimes.com/2026/09/03/business/google-antitrust-ad-tech-remedies-analysis.html" rel="nofollow" target="_blank">Why the Courts Are Hesitant to Punish Tech Giants Like Meta and Google</a></li>
+<li><a href="https://www.theverge.com/tech/987150/apple-ceo-john-ternus" rel="nofollow" target="_blank">John Ternus is now the CEO of Apple</a></li>
+<li><a href="https://www.axios.com/2026/09/01/apple-openai-lawsuit-ai-gpt-devices" rel="nofollow" target="_blank">Apple, OpenAI legal fight keeps escalating. Here's how we got here</a></li>
+<li><a href="https://www.nytimes.com/2026/09/04/technology/openai-microsoft-new-york-times-lawsuit.html" rel="nofollow" target="_blank">Court Filings In A.I. Suit Invoke Copyright Law, Culture and Sports</a></li>
+<li><a href="https://restofworld.org/2026/meta-influencer-campaign-teen-accounts-under-16-social-media-ban" rel="nofollow" target="_blank">Meta accepts U.S. safety rules while pitching softer tools abroad</a></li>
+<li><a href="https://www.theverge.com/tech/986982/amazon-advertising-prices-ftc-lawsuit" rel="nofollow" target="_blank">FTC lawsuit alleges Amazon has been ‘secretly and systematically’ overcharging for ads</a></li>
+<li><a href="https://yro.slashdot.org/story/26/09/03/2222247/bernie-sanders-proposes-artificial-superintelligence-ban-amid-rogue-ai-hackings" rel="nofollow" target="_blank">Bernie Sanders Proposes Artificial Superintelligence Ban Amid Rogue AI Hackings - Slashdot</a></li>
+<li><a href="https://www.wsj.com/tech/ai/vance-called-ai-satanic-he-struck-a-chord-among-christian-republicans-dcc34048?mod=hp_lead_pos8" rel="nofollow" target="_blank"> Vance Called AI Satanic. He Struck a Chord Among Christian Republicans.</a></li>
+<li><a href="https://www.wired.com/story/who-cares-if-ai-is-conscious-its-basically-alive/" rel="nofollow" target="_blank"> Who Cares if AI Is Conscious—It’s Basically Alive</a></li>
+<li><a href="https://www.nytimes.com/2026/09/03/technology/nvidia-hugging-face.html" rel="nofollow" target="_blank">Nvidia Extends A.I. Spending Spree With $12.9 Billion Deal for Hugging Face</a></li>
+<li><a href="https://www.wired.com/story/tesla-cybercab-officially-launches-today-its-already-under-investigation" rel="nofollow" target="_blank">Tesla’s Cybercab Officially Launches Today. It’s Already Under Investigation</a></li>
+<li><a href="https://fortune.com/2026/09/03/ai-visionary-ray-kurzweil-is-joining-a-silicon-valley-startup-developing-a-brain-computer-system-that-involves-snorting-nano-particles/" rel="nofollow" target="_blank">AI visionary Ray Kurzweil is joining a Silicon Valley startup developing a brain computer system that involves snorting nanoparticles | Fortune</a></li>
+</ul>]]></description>
+    <content:encoded><![CDATA[<p><strong>Guests:</strong> Stacey Higginbotham, Jeff Jarvis, Owen JJ Stone</p>
+<p>When politicians, parents, and platforms collide, who protects kids from tech’s dark side? Dive into real stories of digital parenting, policy-making headaches, and the unexpected ways tech companies shape everyday life.</p><ul><li>US court rules Google will not have to sell ad exchange after losing antitrust case</li><li>Why the Courts Are Hesitant to Punish Tech Giants Like Meta and Google</li><li>John Ternus is now the CEO of Apple</li><li>Apple, OpenAI legal fight keeps escalating. Here's how we got here</li><li>Court Filings In A.I. Suit Invoke Copyright Law, Culture and Sports</li><li>Meta accepts U.S. safety rules while pitching softer tools abroad</li><li>FTC lawsuit alleges Amazon has been ‘secretly and systematically’ overcharging for ads</li><li>Bernie Sanders Proposes Artificial Superintelligence Ban Amid Rogue AI Hackings</li><li>Vance Called AI Satanic. He Struck a Chord Among Christian Republicans.</li><li>Who Cares if AI Is Conscious—It’s Basically Alive</li><li>Nvidia Extends A.I. Spending Spree With $12.9 Billion Deal for Hugging Face</li><li>Tesla’s Cybercab Officially Launches Today. It’s Already Under Investigation</li><li>AI visionary Ray Kurzweil is joining a Silicon Valley startup developing a brain computer system that involves snorting nanoparticles</li></ul>
+<h3>Links</h3>
+<ul>
+<li><a href="https://arstechnica.com/gadgets/2026/09/us-court-rules-google-will-not-have-to-sell-ad-exchange-after-losing-antitrust-case" rel="nofollow" target="_blank">US court rules Google will not have to sell ad exchange after losing antitrust case</a></li>
+<li><a href="https://www.nytimes.com/2026/09/03/business/google-antitrust-ad-tech-remedies-analysis.html" rel="nofollow" target="_blank">Why the Courts Are Hesitant to Punish Tech Giants Like Meta and Google</a></li>
+<li><a href="https://www.theverge.com/tech/987150/apple-ceo-john-ternus" rel="nofollow" target="_blank">John Ternus is now the CEO of Apple</a></li>
+<li><a href="https://www.axios.com/2026/09/01/apple-openai-lawsuit-ai-gpt-devices" rel="nofollow" target="_blank">Apple, OpenAI legal fight keeps escalating. Here's how we got here</a></li>
+<li><a href="https://www.nytimes.com/2026/09/04/technology/openai-microsoft-new-york-times-lawsuit.html" rel="nofollow" target="_blank">Court Filings In A.I. Suit Invoke Copyright Law, Culture and Sports</a></li>
+<li><a href="https://restofworld.org/2026/meta-influencer-campaign-teen-accounts-under-16-social-media-ban" rel="nofollow" target="_blank">Meta accepts U.S. safety rules while pitching softer tools abroad</a></li>
+<li><a href="https://www.theverge.com/tech/986982/amazon-advertising-prices-ftc-lawsuit" rel="nofollow" target="_blank">FTC lawsuit alleges Amazon has been ‘secretly and systematically’ overcharging for ads</a></li>
+<li><a href="https://yro.slashdot.org/story/26/09/03/2222247/bernie-sanders-proposes-artificial-superintelligence-ban-amid-rogue-ai-hackings" rel="nofollow" target="_blank">Bernie Sanders Proposes Artificial Superintelligence Ban Amid Rogue AI Hackings - Slashdot</a></li>
+<li><a href="https://www.wsj.com/tech/ai/vance-called-ai-satanic-he-struck-a-chord-among-christian-republicans-dcc34048?mod=hp_lead_pos8" rel="nofollow" target="_blank"> Vance Called AI Satanic. He Struck a Chord Among Christian Republicans.</a></li>
+<li><a href="https://www.wired.com/story/who-cares-if-ai-is-conscious-its-basically-alive/" rel="nofollow" target="_blank"> Who Cares if AI Is Conscious—It’s Basically Alive</a></li>
+<li><a href="https://www.nytimes.com/2026/09/03/technology/nvidia-hugging-face.html" rel="nofollow" target="_blank">Nvidia Extends A.I. Spending Spree With $12.9 Billion Deal for Hugging Face</a></li>
+<li><a href="https://www.wired.com/story/tesla-cybercab-officially-launches-today-its-already-under-investigation" rel="nofollow" target="_blank">Tesla’s Cybercab Officially Launches Today. It’s Already Under Investigation</a></li>
+<li><a href="https://fortune.com/2026/09/03/ai-visionary-ray-kurzweil-is-joining-a-silicon-valley-startup-developing-a-brain-computer-system-that-involves-snorting-nano-particles/" rel="nofollow" target="_blank">AI visionary Ray Kurzweil is joining a Silicon Valley startup developing a brain computer system that involves snorting nanoparticles | Fortune</a></li>
+</ul>]]></content:encoded>
+  </item>
   <item>
     <title>1099: Pantsless Whims</title>
     <itunes:title>Pantsless Whims</itunes:title>
@@ -30,7 +82,7 @@
     <guid isPermaLink="false">twit-archive-ep-1099</guid>
     <link>https://twit.tv/shows/this-week-in-tech/episodes/1099</link>
     <pubDate>Mon, 31 Aug 2026 01:17:24 +0000</pubDate>
-    <enclosure url="https://cdn.twit.tv/megaphone/twit_1099/ARML5227837525.mp3" length="184844400" type="audio/mpeg"/>
+    <enclosure url="https://cdn.twit.tv/megaphone/twit_1099/ARML5227837525.mp3" length="185325470" type="audio/mpeg"/>
     <itunes:duration>3:12:30</itunes:duration>
     <itunes:image href="https://elroy.twit.tv/sites/default/files/images/episodes/2026/08/862795/hero/TWIT1099_thumbnail.jpg"/>
     <itunes:author>Leo Laporte</itunes:author>
@@ -82,7 +134,7 @@
     <guid isPermaLink="false">twit-archive-ep-1098</guid>
     <link>https://twit.tv/shows/this-week-in-tech/episodes/1098</link>
     <pubDate>Mon, 24 Aug 2026 04:29:45 +0000</pubDate>
-    <enclosure url="https://cdn.twit.tv/megaphone/twit_1098/ARML4546969415.mp3" length="167723186" type="audio/mpeg"/>
+    <enclosure url="https://cdn.twit.tv/megaphone/twit_1098/ARML4546969415.mp3" length="167762057" type="audio/mpeg"/>
     <itunes:duration>2:53:12</itunes:duration>
     <itunes:image href="https://elroy.twit.tv/sites/default/files/images/episodes/2026/08/862700/hero/TWIT1098_thumbnail.jpg"/>
     <itunes:author>Leo Laporte</itunes:author>
@@ -146,7 +198,7 @@
     <guid isPermaLink="false">twit-archive-ep-1097</guid>
     <link>https://twit.tv/shows/this-week-in-tech/episodes/1097</link>
     <pubDate>Mon, 17 Aug 2026 05:00:00 +0000</pubDate>
-    <enclosure url="https://cdn.twit.tv/megaphone/twit_1097/ARML7315165751.mp3" length="170020310" type="audio/mpeg"/>
+    <enclosure url="https://cdn.twit.tv/megaphone/twit_1097/ARML7315165751.mp3" length="170250187" type="audio/mpeg"/>
     <itunes:duration>2:55:48</itunes:duration>
     <itunes:image href="https://elroy.twit.tv/sites/default/files/images/episodes/2026/08/862590/hero/TWIT1097_thumbnail.jpg"/>
     <itunes:author>Leo Laporte</itunes:author>
@@ -202,7 +254,7 @@
     <guid isPermaLink="false">twit-archive-ep-1096</guid>
     <link>https://twit.tv/shows/this-week-in-tech/episodes/1096</link>
     <pubDate>Sun, 09 Aug 2026 23:14:44 +0000</pubDate>
-    <enclosure url="https://cdn.twit.tv/megaphone/twit_1096/ARML7950877930.mp3" length="163067348" type="audio/mpeg"/>
+    <enclosure url="https://cdn.twit.tv/megaphone/twit_1096/ARML7950877930.mp3" length="163014684" type="audio/mpeg"/>
     <itunes:duration>2:48:18</itunes:duration>
     <itunes:image href="https://elroy.twit.tv/sites/default/files/images/episodes/2026/08/862506/hero/TWIT1096_thumbnail.jpg"/>
     <itunes:author>Leo Laporte</itunes:author>
