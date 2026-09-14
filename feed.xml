@@ -19,9 +19,69 @@
   <itunes:owner>
     <itunes:name>This Week in Tech Archive</itunes:name>
   </itunes:owner>
-  <lastBuildDate>Mon, 07 Sep 2026 19:11:11 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 14 Sep 2026 19:51:18 +0000</lastBuildDate>
   <generator>twit-archive</generator>
   <atom:link href="https://kyerussell.github.io/twit-archive/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>1101: Adversarial Clothing</title>
+    <itunes:title>Adversarial Clothing</itunes:title>
+    <itunes:episode>1101</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <guid isPermaLink="false">twit-archive-ep-1101</guid>
+    <link>https://twit.tv/shows/this-week-in-tech/episodes/1101</link>
+    <pubDate>Mon, 14 Sep 2026 06:36:26 +0000</pubDate>
+    <enclosure url="https://cdn.twit.tv/megaphone/twit_1101/ARML1693313659.mp3" length="188591160" type="audio/mpeg"/>
+    <itunes:duration>3:16:24</itunes:duration>
+    <itunes:image href="https://elroy.twit.tv/sites/default/files/images/episodes/2026/09/862984/hero/TWIT1101_thumbnail.jpg"/>
+    <itunes:author>Leo Laporte</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:subtitle>The Dramatic Calls to Regulate Artificial Intelligence</itunes:subtitle>
+    <itunes:summary><![CDATA[The Dramatic Calls to Regulate Artificial Intelligence]]></itunes:summary>
+    <description><![CDATA[<p><strong>Guests:</strong> Mikah Sargent, Jennifer Pattison Tuohy, Daniel Rubino</p>
+<p>AI insiders are warning that artificial intelligence could wipe out humanity within the decade, but is this a real threat or a convenient narrative serving Silicon Valley’s biggest players? Tune in as the panel untangles fact from hype and digs into the power plays shaping AI’s future.</p><ul><li>Worried Anthropic researchers warn that AI ‘could kill all humans’</li><li>Anthropic Researchers Raise Alarm Over A.I. Acceleration, Warning of Threat to Humanity</li><li>Countering misuse of AI: September 2026 / Anthropic</li><li>Pluralistic: LLMs are real, AI is fake (12 Sep 2026) – Pluralistic: Daily links from Cory Doctorow</li><li>New Apple Watches to get Siri AI 'Recaps' feature similar to AI wearables</li><li>Apple Unveils the iPhone Duo, a Foldable Phone That Costs $1,999</li><li>Key App Developers Have Yet to Embrace Apple’s New Siri A.I.</li><li>Why this month's Microsoft patch release is a doozy</li><li>LG TV shown scanning LAN for third-party phones and other device</li><li>The Flock backlash is coming for retail</li><li>Automobile Camouflage to Hide from Flock Cameras</li><li>A Secretive DHS ‘Predictive Policing’ Unit is Analyzing Americans’ Financial Habits and Pulling Them Over</li><li>Clearview AI Is Testing an AI Tool That Would Let Cops Unearth Your Life Online</li><li>Some of Dyson’s $500 toothbrushes are breaking</li><li>iRobot unveils the Roomba Duo</li><li>Husqvarna gets the first exception to the FCC’s foreign robot ban for its mowers.</li></ul>
+<h3>Links</h3>
+<ul>
+<li><a href="https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans" rel="nofollow" target="_blank">Worried Anthropic researchers warn that AI ‘could kill all humans’</a></li>
+<li><a href="https://www.nytimes.com/2026/09/09/technology/anthropic-researchers-raise-alarm.html" rel="nofollow" target="_blank">Anthropic Researchers Raise Alarm Over A.I. Acceleration, Warning of Threat to Humanity</a></li>
+<li><a href="https://www.anthropic.com/threat-intelligence-report-september-2026" rel="nofollow" target="_blank">Countering misuse of AI: September 2026 / Anthropic</a></li>
+<li><a href="https://pluralistic.net/2026/09/12/god-in-the-box/#llms-are-fake" rel="nofollow" target="_blank">Pluralistic: LLMs are real, AI is fake (12 Sep 2026) – Pluralistic: Daily links from Cory Doctorow</a></li>
+<li><a href="https://appleinsider.com/articles/26/09/09/new-apple-watches-to-get-siri-ai-recaps-feature-similar-to-ai-wearables" rel="nofollow" target="_blank">New Apple Watches to get Siri AI 'Recaps' feature similar to AI wearables</a></li>
+<li><a href="https://www.nytimes.com/2026/09/09/technology/apple-iphone-duo-foldable-phone.html" rel="nofollow" target="_blank">Apple Unveils the iPhone Duo, a Foldable Phone That Costs $1,999</a></li>
+<li><a href="https://www.nytimes.com/2026/09/08/technology/apple-siri-ai.html" rel="nofollow" target="_blank">Key App Developers Have Yet to Embrace Apple’s New Siri A.I.</a></li>
+<li><a href="https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/" rel="nofollow" target="_blank">Why this month's Microsoft patch release is a doozy</a></li>
+<li><a href="https://arstechnica.com/gadgets/2026/09/lg-tv-shown-capable-of-tracking-user-activity-even-when-offline" rel="nofollow" target="_blank">LG TV shown scanning LAN for third-party phones and other devices</a></li>
+<li><a href="https://www.lg.com/global/newsroom/news/statements/statement-understanding-privacy-on-lg-smart-tvs/" rel="nofollow" target="_blank">LG's Response</a></li>
+<li><a href="https://www.businessinsider.com/flock-safety-license-plate-readers-retail-consumer-backlash-ulta-lowes-2026-9" rel="nofollow" target="_blank">The Flock backlash is coming for retail</a></li>
+<li><a href="https://www.schneier.com/blog/archives/2026/09/automobile-camouflage-to-hide-from-flock-cameras.html" rel="nofollow" target="_blank">Automobile Camouflage to Hide from Flock Cameras</a></li>
+<li><a href="https://www.404media.co/a-secretive-dhs-predictive-policing-unit-is-analyzing-americans-financial-habits-and-pulling-them-over" rel="nofollow" target="_blank">A Secretive DHS ‘Predictive Policing’ Unit is Analyzing Americans’ Financial Habits and Pulling Them Over</a></li>
+<li><a href="https://www.wired.com/story/clearview-ai-is-testing-an-ai-tool-that-lets-cops-instantly-unearth-your-online-activity" rel="nofollow" target="_blank">Clearview AI Is Testing an AI Tool That Would Let Cops Unearth Your Life Online</a></li>
+<li><a href="https://www.theverge.com/gadgets/992113/some-of-dysons-500-toothbrushes-are-breaking" rel="nofollow" target="_blank">Some of Dyson’s $500 toothbrushes are breaking</a></li>
+<li><a href="https://www.theverge.com/tech/990045/irobot-roomba-duo-concept-robot-vacuum" rel="nofollow" target="_blank">iRobot unveils the Roomba Duo</a></li>
+<li><a href="https://www.theverge.com/tech/994330/husqvarna-gets-the-first-exception-to-the-fccs-foreign-robot-ban-for-its-mowers" rel="nofollow" target="_blank">Husqvarna gets the first exception to the FCC’s foreign robot ban for its mowers.</a></li>
+</ul>]]></description>
+    <content:encoded><![CDATA[<p><strong>Guests:</strong> Mikah Sargent, Jennifer Pattison Tuohy, Daniel Rubino</p>
+<p>AI insiders are warning that artificial intelligence could wipe out humanity within the decade, but is this a real threat or a convenient narrative serving Silicon Valley’s biggest players? Tune in as the panel untangles fact from hype and digs into the power plays shaping AI’s future.</p><ul><li>Worried Anthropic researchers warn that AI ‘could kill all humans’</li><li>Anthropic Researchers Raise Alarm Over A.I. Acceleration, Warning of Threat to Humanity</li><li>Countering misuse of AI: September 2026 / Anthropic</li><li>Pluralistic: LLMs are real, AI is fake (12 Sep 2026) – Pluralistic: Daily links from Cory Doctorow</li><li>New Apple Watches to get Siri AI 'Recaps' feature similar to AI wearables</li><li>Apple Unveils the iPhone Duo, a Foldable Phone That Costs $1,999</li><li>Key App Developers Have Yet to Embrace Apple’s New Siri A.I.</li><li>Why this month's Microsoft patch release is a doozy</li><li>LG TV shown scanning LAN for third-party phones and other device</li><li>The Flock backlash is coming for retail</li><li>Automobile Camouflage to Hide from Flock Cameras</li><li>A Secretive DHS ‘Predictive Policing’ Unit is Analyzing Americans’ Financial Habits and Pulling Them Over</li><li>Clearview AI Is Testing an AI Tool That Would Let Cops Unearth Your Life Online</li><li>Some of Dyson’s $500 toothbrushes are breaking</li><li>iRobot unveils the Roomba Duo</li><li>Husqvarna gets the first exception to the FCC’s foreign robot ban for its mowers.</li></ul>
+<h3>Links</h3>
+<ul>
+<li><a href="https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans" rel="nofollow" target="_blank">Worried Anthropic researchers warn that AI ‘could kill all humans’</a></li>
+<li><a href="https://www.nytimes.com/2026/09/09/technology/anthropic-researchers-raise-alarm.html" rel="nofollow" target="_blank">Anthropic Researchers Raise Alarm Over A.I. Acceleration, Warning of Threat to Humanity</a></li>
+<li><a href="https://www.anthropic.com/threat-intelligence-report-september-2026" rel="nofollow" target="_blank">Countering misuse of AI: September 2026 / Anthropic</a></li>
+<li><a href="https://pluralistic.net/2026/09/12/god-in-the-box/#llms-are-fake" rel="nofollow" target="_blank">Pluralistic: LLMs are real, AI is fake (12 Sep 2026) – Pluralistic: Daily links from Cory Doctorow</a></li>
+<li><a href="https://appleinsider.com/articles/26/09/09/new-apple-watches-to-get-siri-ai-recaps-feature-similar-to-ai-wearables" rel="nofollow" target="_blank">New Apple Watches to get Siri AI 'Recaps' feature similar to AI wearables</a></li>
+<li><a href="https://www.nytimes.com/2026/09/09/technology/apple-iphone-duo-foldable-phone.html" rel="nofollow" target="_blank">Apple Unveils the iPhone Duo, a Foldable Phone That Costs $1,999</a></li>
+<li><a href="https://www.nytimes.com/2026/09/08/technology/apple-siri-ai.html" rel="nofollow" target="_blank">Key App Developers Have Yet to Embrace Apple’s New Siri A.I.</a></li>
+<li><a href="https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical/" rel="nofollow" target="_blank">Why this month's Microsoft patch release is a doozy</a></li>
+<li><a href="https://arstechnica.com/gadgets/2026/09/lg-tv-shown-capable-of-tracking-user-activity-even-when-offline" rel="nofollow" target="_blank">LG TV shown scanning LAN for third-party phones and other devices</a></li>
+<li><a href="https://www.lg.com/global/newsroom/news/statements/statement-understanding-privacy-on-lg-smart-tvs/" rel="nofollow" target="_blank">LG's Response</a></li>
+<li><a href="https://www.businessinsider.com/flock-safety-license-plate-readers-retail-consumer-backlash-ulta-lowes-2026-9" rel="nofollow" target="_blank">The Flock backlash is coming for retail</a></li>
+<li><a href="https://www.schneier.com/blog/archives/2026/09/automobile-camouflage-to-hide-from-flock-cameras.html" rel="nofollow" target="_blank">Automobile Camouflage to Hide from Flock Cameras</a></li>
+<li><a href="https://www.404media.co/a-secretive-dhs-predictive-policing-unit-is-analyzing-americans-financial-habits-and-pulling-them-over" rel="nofollow" target="_blank">A Secretive DHS ‘Predictive Policing’ Unit is Analyzing Americans’ Financial Habits and Pulling Them Over</a></li>
+<li><a href="https://www.wired.com/story/clearview-ai-is-testing-an-ai-tool-that-lets-cops-instantly-unearth-your-online-activity" rel="nofollow" target="_blank">Clearview AI Is Testing an AI Tool That Would Let Cops Unearth Your Life Online</a></li>
+<li><a href="https://www.theverge.com/gadgets/992113/some-of-dysons-500-toothbrushes-are-breaking" rel="nofollow" target="_blank">Some of Dyson’s $500 toothbrushes are breaking</a></li>
+<li><a href="https://www.theverge.com/tech/990045/irobot-roomba-duo-concept-robot-vacuum" rel="nofollow" target="_blank">iRobot unveils the Roomba Duo</a></li>
+<li><a href="https://www.theverge.com/tech/994330/husqvarna-gets-the-first-exception-to-the-fccs-foreign-robot-ban-for-its-mowers" rel="nofollow" target="_blank">Husqvarna gets the first exception to the FCC’s foreign robot ban for its mowers.</a></li>
+</ul>]]></content:encoded>
+  </item>
   <item>
     <title>1100: Yoloville</title>
     <itunes:title>Yoloville</itunes:title>
@@ -30,7 +90,7 @@
     <guid isPermaLink="false">twit-archive-ep-1100</guid>
     <link>https://twit.tv/shows/this-week-in-tech/episodes/1100</link>
     <pubDate>Mon, 07 Sep 2026 03:00:00 +0000</pubDate>
-    <enclosure url="https://cdn.twit.tv/megaphone/twit_1100/ARML2125974650.mp3" length="167344270" type="audio/mpeg"/>
+    <enclosure url="https://cdn.twit.tv/megaphone/twit_1100/ARML2125974650.mp3" length="167118988" type="audio/mpeg"/>
     <itunes:duration>2:49:22</itunes:duration>
     <itunes:image href="https://elroy.twit.tv/sites/default/files/images/episodes/2026/09/862896/hero/TWIT1100_thumbnail.jpg"/>
     <itunes:author>Leo Laporte</itunes:author>
@@ -82,7 +142,7 @@
     <guid isPermaLink="false">twit-archive-ep-1099</guid>
     <link>https://twit.tv/shows/this-week-in-tech/episodes/1099</link>
     <pubDate>Mon, 31 Aug 2026 01:17:24 +0000</pubDate>
-    <enclosure url="https://cdn.twit.tv/megaphone/twit_1099/ARML5227837525.mp3" length="185325470" type="audio/mpeg"/>
+    <enclosure url="https://cdn.twit.tv/megaphone/twit_1099/ARML5227837525.mp3" length="184844400" type="audio/mpeg"/>
     <itunes:duration>3:12:30</itunes:duration>
     <itunes:image href="https://elroy.twit.tv/sites/default/files/images/episodes/2026/08/862795/hero/TWIT1099_thumbnail.jpg"/>
     <itunes:author>Leo Laporte</itunes:author>
@@ -134,7 +194,7 @@
     <guid isPermaLink="false">twit-archive-ep-1098</guid>
     <link>https://twit.tv/shows/this-week-in-tech/episodes/1098</link>
     <pubDate>Mon, 24 Aug 2026 04:29:45 +0000</pubDate>
-    <enclosure url="https://cdn.twit.tv/megaphone/twit_1098/ARML4546969415.mp3" length="167762057" type="audio/mpeg"/>
+    <enclosure url="https://cdn.twit.tv/megaphone/twit_1098/ARML4546969415.mp3" length="167761639" type="audio/mpeg"/>
     <itunes:duration>2:53:12</itunes:duration>
     <itunes:image href="https://elroy.twit.tv/sites/default/files/images/episodes/2026/08/862700/hero/TWIT1098_thumbnail.jpg"/>
     <itunes:author>Leo Laporte</itunes:author>
@@ -198,7 +258,7 @@
     <guid isPermaLink="false">twit-archive-ep-1097</guid>
     <link>https://twit.tv/shows/this-week-in-tech/episodes/1097</link>
     <pubDate>Mon, 17 Aug 2026 05:00:00 +0000</pubDate>
-    <enclosure url="https://cdn.twit.tv/megaphone/twit_1097/ARML7315165751.mp3" length="170250187" type="audio/mpeg"/>
+    <enclosure url="https://cdn.twit.tv/megaphone/twit_1097/ARML7315165751.mp3" length="170261472" type="audio/mpeg"/>
     <itunes:duration>2:55:48</itunes:duration>
     <itunes:image href="https://elroy.twit.tv/sites/default/files/images/episodes/2026/08/862590/hero/TWIT1097_thumbnail.jpg"/>
     <itunes:author>Leo Laporte</itunes:author>
