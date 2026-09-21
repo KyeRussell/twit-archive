@@ -19,9 +19,59 @@
   <itunes:owner>
     <itunes:name>This Week in Tech Archive</itunes:name>
   </itunes:owner>
-  <lastBuildDate>Mon, 14 Sep 2026 19:51:18 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 21 Sep 2026 19:59:48 +0000</lastBuildDate>
   <generator>twit-archive</generator>
   <atom:link href="https://kyerussell.github.io/twit-archive/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>1102: Exclave Subpoena</title>
+    <itunes:title>Exclave Subpoena</itunes:title>
+    <itunes:episode>1102</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <guid isPermaLink="false">twit-archive-ep-1102</guid>
+    <link>https://twit.tv/shows/this-week-in-tech/episodes/1102</link>
+    <pubDate>Mon, 21 Sep 2026 00:16:49 +0000</pubDate>
+    <enclosure url="https://cdn.twit.tv/megaphone/twit_1102/ARML7990110102.mp3" length="169024203" type="audio/mpeg"/>
+    <itunes:duration>2:56:01</itunes:duration>
+    <itunes:image href="https://elroy.twit.tv/sites/default/files/images/episodes/2026/09/863079/hero/TWIT1102_thumbnail.jpg"/>
+    <itunes:author>Leo Laporte</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:subtitle>OpenClaw, Meta&amp;#039;s Muse, &amp;amp; Persistent Agentic Automation</itunes:subtitle>
+    <itunes:summary><![CDATA[OpenClaw, Meta&#039;s Muse, &amp; Persistent Agentic Automation]]></itunes:summary>
+    <description><![CDATA[<p><strong>Guests:</strong> Owen Thomas, Jason Hiner, Dan Patterson</p>
+<p>AI hallucinations nearly sparked an international crisis, Google dodged a breakup but faces new rules, and Meta’s personal AI agent might be about to run your life. This week's episode ponders what’s pragmatic, what’s dangerous, and what’s coming for everything from privacy to geopolitics.</p><ul><li>Judge Orders Data Sharing and Other Fixes to Solve Google’s Ad Tech Monopoly</li><li>US judge signals rejection of part of TikTok privacy settlement</li><li>AI hallucination of Chinese nuclear components almost led to US military attack</li><li>For the first time, the US military confirms it has deployed weapons in orbit</li><li>OpenAI Discloses Six New Incidents of ‘Concerning' A.I. Behavior</li><li>Why AI pacing has become a false choice</li><li>Iran and China Create First-of-Their-Kind Autonomous A.I. Influence Campaigns</li><li>Hackers Got Inside a Flock Camera. Its Data Shows How the System Really Works</li><li>Senate Votes to Block Crypto Bill in Major Blow to the Industry</li><li>The EU Bans Social Media For Under-13s</li><li>‘Maybe a year’: Geoffrey Hinton gives the Senate a deadline on AI</li><li>ZuckOff Is a Free App That Sees Meta Glasses Before They See You</li></ul>
+<h3>Links</h3>
+<ul>
+<li><a href="https://www.nytimes.com/2026/09/16/technology/google-ad-tech-remedies.html" rel="nofollow" target="_blank">Judge Orders Data Sharing and Other Fixes to Solve Google’s Ad Tech Monopoly</a></li>
+<li><a href="https://www.reuters.com/legal/government/us-judge-signals-rejection-part-tiktok-privacy-settlement-2026-09-19/" rel="nofollow" target="_blank">US judge signals rejection of part of TikTok privacy settlement</a></li>
+<li><a href="https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report" rel="nofollow" target="_blank">AI hallucination of Chinese nuclear components almost led to US military attack</a></li>
+<li><a href="https://arstechnica.com/space/2026/09/for-the-first-time-the-us-military-confirms-it-has-deployed-weapons-in-orbit" rel="nofollow" target="_blank">For the first time, the US military confirms it has deployed weapons in orbit</a></li>
+<li><a href="https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html" rel="nofollow" target="_blank">OpenAI Discloses Six New Incidents of ‘Concerning' A.I. Behavior</a></li>
+<li><a href="https://www.thedeepview.com/articles/why-ai-pacing-has-become-a-false-choice" rel="nofollow" target="_blank">Why AI pacing has become a false choice</a></li>
+<li><a href="https://www.nytimes.com/2026/09/18/technology/iran-china-autonomous-ai-influence-campaigns.html" rel="nofollow" target="_blank">Iran and China Create First-of-Their-Kind Autonomous A.I. Influence Campaigns</a></li>
+<li><a href="https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works" rel="nofollow" target="_blank">Hackers Got Inside a Flock Camera. Its Data Shows How the System Really Works</a></li>
+<li><a href="https://www.nytimes.com/2026/09/15/technology/senate-blocks-crypto-bill.html" rel="nofollow" target="_blank">Senate Votes to Block Crypto Bill in Major Blow to the Industry</a></li>
+<li><a href="https://www.wired.com/story/the-eu-bans-social-media-for-under-13s" rel="nofollow" target="_blank">The EU Bans Social Media For Under-13s</a></li>
+<li><a href="https://thenextweb.com/news/hinton-senate-briefing-ai-regulation-year" rel="nofollow" target="_blank">‘Maybe a year’: Geoffrey Hinton gives the Senate a deadline on AI</a></li>
+<li><a href="https://www.wired.com/story/zuckoff-app-sees-meta-glasses-before-they-see-you" rel="nofollow" target="_blank">ZuckOff Is a Free App That Sees Meta Glasses Before They See You</a></li>
+</ul>]]></description>
+    <content:encoded><![CDATA[<p><strong>Guests:</strong> Owen Thomas, Jason Hiner, Dan Patterson</p>
+<p>AI hallucinations nearly sparked an international crisis, Google dodged a breakup but faces new rules, and Meta’s personal AI agent might be about to run your life. This week's episode ponders what’s pragmatic, what’s dangerous, and what’s coming for everything from privacy to geopolitics.</p><ul><li>Judge Orders Data Sharing and Other Fixes to Solve Google’s Ad Tech Monopoly</li><li>US judge signals rejection of part of TikTok privacy settlement</li><li>AI hallucination of Chinese nuclear components almost led to US military attack</li><li>For the first time, the US military confirms it has deployed weapons in orbit</li><li>OpenAI Discloses Six New Incidents of ‘Concerning' A.I. Behavior</li><li>Why AI pacing has become a false choice</li><li>Iran and China Create First-of-Their-Kind Autonomous A.I. Influence Campaigns</li><li>Hackers Got Inside a Flock Camera. Its Data Shows How the System Really Works</li><li>Senate Votes to Block Crypto Bill in Major Blow to the Industry</li><li>The EU Bans Social Media For Under-13s</li><li>‘Maybe a year’: Geoffrey Hinton gives the Senate a deadline on AI</li><li>ZuckOff Is a Free App That Sees Meta Glasses Before They See You</li></ul>
+<h3>Links</h3>
+<ul>
+<li><a href="https://www.nytimes.com/2026/09/16/technology/google-ad-tech-remedies.html" rel="nofollow" target="_blank">Judge Orders Data Sharing and Other Fixes to Solve Google’s Ad Tech Monopoly</a></li>
+<li><a href="https://www.reuters.com/legal/government/us-judge-signals-rejection-part-tiktok-privacy-settlement-2026-09-19/" rel="nofollow" target="_blank">US judge signals rejection of part of TikTok privacy settlement</a></li>
+<li><a href="https://arstechnica.com/ai/2026/09/report-us-almost-boarded-chinese-ship-over-hallucinated-ai-arms-report" rel="nofollow" target="_blank">AI hallucination of Chinese nuclear components almost led to US military attack</a></li>
+<li><a href="https://arstechnica.com/space/2026/09/for-the-first-time-the-us-military-confirms-it-has-deployed-weapons-in-orbit" rel="nofollow" target="_blank">For the first time, the US military confirms it has deployed weapons in orbit</a></li>
+<li><a href="https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html" rel="nofollow" target="_blank">OpenAI Discloses Six New Incidents of ‘Concerning' A.I. Behavior</a></li>
+<li><a href="https://www.thedeepview.com/articles/why-ai-pacing-has-become-a-false-choice" rel="nofollow" target="_blank">Why AI pacing has become a false choice</a></li>
+<li><a href="https://www.nytimes.com/2026/09/18/technology/iran-china-autonomous-ai-influence-campaigns.html" rel="nofollow" target="_blank">Iran and China Create First-of-Their-Kind Autonomous A.I. Influence Campaigns</a></li>
+<li><a href="https://www.wired.com/story/hackers-flock-camera-data-shows-how-system-works" rel="nofollow" target="_blank">Hackers Got Inside a Flock Camera. Its Data Shows How the System Really Works</a></li>
+<li><a href="https://www.nytimes.com/2026/09/15/technology/senate-blocks-crypto-bill.html" rel="nofollow" target="_blank">Senate Votes to Block Crypto Bill in Major Blow to the Industry</a></li>
+<li><a href="https://www.wired.com/story/the-eu-bans-social-media-for-under-13s" rel="nofollow" target="_blank">The EU Bans Social Media For Under-13s</a></li>
+<li><a href="https://thenextweb.com/news/hinton-senate-briefing-ai-regulation-year" rel="nofollow" target="_blank">‘Maybe a year’: Geoffrey Hinton gives the Senate a deadline on AI</a></li>
+<li><a href="https://www.wired.com/story/zuckoff-app-sees-meta-glasses-before-they-see-you" rel="nofollow" target="_blank">ZuckOff Is a Free App That Sees Meta Glasses Before They See You</a></li>
+</ul>]]></content:encoded>
+  </item>
   <item>
     <title>1101: Adversarial Clothing</title>
     <itunes:title>Adversarial Clothing</itunes:title>
@@ -38,7 +88,7 @@
     <itunes:subtitle>The Dramatic Calls to Regulate Artificial Intelligence</itunes:subtitle>
     <itunes:summary><![CDATA[The Dramatic Calls to Regulate Artificial Intelligence]]></itunes:summary>
     <description><![CDATA[<p><strong>Guests:</strong> Mikah Sargent, Jennifer Pattison Tuohy, Daniel Rubino</p>
-<p>AI insiders are warning that artificial intelligence could wipe out humanity within the decade, but is this a real threat or a convenient narrative serving Silicon Valley’s biggest players? Tune in as the panel untangles fact from hype and digs into the power plays shaping AI’s future.</p><ul><li>Worried Anthropic researchers warn that AI ‘could kill all humans’</li><li>Anthropic Researchers Raise Alarm Over A.I. Acceleration, Warning of Threat to Humanity</li><li>Countering misuse of AI: September 2026 / Anthropic</li><li>Pluralistic: LLMs are real, AI is fake (12 Sep 2026) – Pluralistic: Daily links from Cory Doctorow</li><li>New Apple Watches to get Siri AI 'Recaps' feature similar to AI wearables</li><li>Apple Unveils the iPhone Duo, a Foldable Phone That Costs $1,999</li><li>Key App Developers Have Yet to Embrace Apple’s New Siri A.I.</li><li>Why this month's Microsoft patch release is a doozy</li><li>LG TV shown scanning LAN for third-party phones and other device</li><li>The Flock backlash is coming for retail</li><li>Automobile Camouflage to Hide from Flock Cameras</li><li>A Secretive DHS ‘Predictive Policing’ Unit is Analyzing Americans’ Financial Habits and Pulling Them Over</li><li>Clearview AI Is Testing an AI Tool That Would Let Cops Unearth Your Life Online</li><li>Some of Dyson’s $500 toothbrushes are breaking</li><li>iRobot unveils the Roomba Duo</li><li>Husqvarna gets the first exception to the FCC’s foreign robot ban for its mowers.</li></ul>
+<p>AI insiders are warning that artificial intelligence could wipe out humanity within the decade, but is this a real threat or a convenient narrative serving Silicon Valley’s biggest players? Tune in as the panel untangles fact from hype and digs into the power plays shaping AI’s future.</p><ul><li>Worried Anthropic researchers warn that AI ‘could kill all humans’</li><li>Anthropic Researchers Raise Alarm Over A.I. Acceleration, Warning of Threat to Humanity</li><li>Countering misuse of AI: September 2026 / Anthropic</li><li>Pluralistic: LLMs are real, AI is fake (12 Sep 2026) – Pluralistic: Daily links from Cory Doctorow</li><li>New Apple Watches to get Siri AI 'Recaps' feature similar to AI wearables</li><li>Apple Unveils the iPhone Duo, a Foldable Phone That Costs $1,999</li><li>Key App Developers Have Yet to Embrace Apple’s New Siri A.I.</li><li>Why this month's Microsoft patch release is a doozy</li><li>LG TV shown scanning LAN for third-party phones and other device</li><li>The Flock backlash is coming for retail</li><li>Automobile Camouflage to Hide from Flock Cameras</li><li>A Secretive DHS ‘Predictive Policing’ Unit is Analyzing Americans’ Financial Habits and Pulling Them Over</li><li>Clearview AI Is Testing an AI Tool That Would Let Cops Unearth Your Life Online</li><li>Some of Dyson’s $500 toothbrushes are breaking</li><li>iRobot unveils the Roomba Duo</li><li>Husqvarna gets the first exception to the FCC’s foreign robot ban for its mowers.</li></ul><p><strong>Correction:</strong> Mikah incorrectly stated that Live Rewind and Siri Recap would also be available on iPhone 16 and newer. Apple says the features require an Apple Watch Series 12 or Apple Watch Ultra 4 paired with a supported iPhone. They are not iPhone features.</p>
 <h3>Links</h3>
 <ul>
 <li><a href="https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans" rel="nofollow" target="_blank">Worried Anthropic researchers warn that AI ‘could kill all humans’</a></li>
@@ -60,7 +110,7 @@
 <li><a href="https://www.theverge.com/tech/994330/husqvarna-gets-the-first-exception-to-the-fccs-foreign-robot-ban-for-its-mowers" rel="nofollow" target="_blank">Husqvarna gets the first exception to the FCC’s foreign robot ban for its mowers.</a></li>
 </ul>]]></description>
     <content:encoded><![CDATA[<p><strong>Guests:</strong> Mikah Sargent, Jennifer Pattison Tuohy, Daniel Rubino</p>
-<p>AI insiders are warning that artificial intelligence could wipe out humanity within the decade, but is this a real threat or a convenient narrative serving Silicon Valley’s biggest players? Tune in as the panel untangles fact from hype and digs into the power plays shaping AI’s future.</p><ul><li>Worried Anthropic researchers warn that AI ‘could kill all humans’</li><li>Anthropic Researchers Raise Alarm Over A.I. Acceleration, Warning of Threat to Humanity</li><li>Countering misuse of AI: September 2026 / Anthropic</li><li>Pluralistic: LLMs are real, AI is fake (12 Sep 2026) – Pluralistic: Daily links from Cory Doctorow</li><li>New Apple Watches to get Siri AI 'Recaps' feature similar to AI wearables</li><li>Apple Unveils the iPhone Duo, a Foldable Phone That Costs $1,999</li><li>Key App Developers Have Yet to Embrace Apple’s New Siri A.I.</li><li>Why this month's Microsoft patch release is a doozy</li><li>LG TV shown scanning LAN for third-party phones and other device</li><li>The Flock backlash is coming for retail</li><li>Automobile Camouflage to Hide from Flock Cameras</li><li>A Secretive DHS ‘Predictive Policing’ Unit is Analyzing Americans’ Financial Habits and Pulling Them Over</li><li>Clearview AI Is Testing an AI Tool That Would Let Cops Unearth Your Life Online</li><li>Some of Dyson’s $500 toothbrushes are breaking</li><li>iRobot unveils the Roomba Duo</li><li>Husqvarna gets the first exception to the FCC’s foreign robot ban for its mowers.</li></ul>
+<p>AI insiders are warning that artificial intelligence could wipe out humanity within the decade, but is this a real threat or a convenient narrative serving Silicon Valley’s biggest players? Tune in as the panel untangles fact from hype and digs into the power plays shaping AI’s future.</p><ul><li>Worried Anthropic researchers warn that AI ‘could kill all humans’</li><li>Anthropic Researchers Raise Alarm Over A.I. Acceleration, Warning of Threat to Humanity</li><li>Countering misuse of AI: September 2026 / Anthropic</li><li>Pluralistic: LLMs are real, AI is fake (12 Sep 2026) – Pluralistic: Daily links from Cory Doctorow</li><li>New Apple Watches to get Siri AI 'Recaps' feature similar to AI wearables</li><li>Apple Unveils the iPhone Duo, a Foldable Phone That Costs $1,999</li><li>Key App Developers Have Yet to Embrace Apple’s New Siri A.I.</li><li>Why this month's Microsoft patch release is a doozy</li><li>LG TV shown scanning LAN for third-party phones and other device</li><li>The Flock backlash is coming for retail</li><li>Automobile Camouflage to Hide from Flock Cameras</li><li>A Secretive DHS ‘Predictive Policing’ Unit is Analyzing Americans’ Financial Habits and Pulling Them Over</li><li>Clearview AI Is Testing an AI Tool That Would Let Cops Unearth Your Life Online</li><li>Some of Dyson’s $500 toothbrushes are breaking</li><li>iRobot unveils the Roomba Duo</li><li>Husqvarna gets the first exception to the FCC’s foreign robot ban for its mowers.</li></ul><p><strong>Correction:</strong> Mikah incorrectly stated that Live Rewind and Siri Recap would also be available on iPhone 16 and newer. Apple says the features require an Apple Watch Series 12 or Apple Watch Ultra 4 paired with a supported iPhone. They are not iPhone features.</p>
 <h3>Links</h3>
 <ul>
 <li><a href="https://www.theverge.com/ai-artificial-intelligence/991927/anthropic-ai-kill-all-humans" rel="nofollow" target="_blank">Worried Anthropic researchers warn that AI ‘could kill all humans’</a></li>
@@ -90,7 +140,7 @@
     <guid isPermaLink="false">twit-archive-ep-1100</guid>
     <link>https://twit.tv/shows/this-week-in-tech/episodes/1100</link>
     <pubDate>Mon, 07 Sep 2026 03:00:00 +0000</pubDate>
-    <enclosure url="https://cdn.twit.tv/megaphone/twit_1100/ARML2125974650.mp3" length="167118988" type="audio/mpeg"/>
+    <enclosure url="https://cdn.twit.tv/megaphone/twit_1100/ARML2125974650.mp3" length="162644746" type="audio/mpeg"/>
     <itunes:duration>2:49:22</itunes:duration>
     <itunes:image href="https://elroy.twit.tv/sites/default/files/images/episodes/2026/09/862896/hero/TWIT1100_thumbnail.jpg"/>
     <itunes:author>Leo Laporte</itunes:author>
@@ -194,7 +244,7 @@
     <guid isPermaLink="false">twit-archive-ep-1098</guid>
     <link>https://twit.tv/shows/this-week-in-tech/episodes/1098</link>
     <pubDate>Mon, 24 Aug 2026 04:29:45 +0000</pubDate>
-    <enclosure url="https://cdn.twit.tv/megaphone/twit_1098/ARML4546969415.mp3" length="167761639" type="audio/mpeg"/>
+    <enclosure url="https://cdn.twit.tv/megaphone/twit_1098/ARML4546969415.mp3" length="166318429" type="audio/mpeg"/>
     <itunes:duration>2:53:12</itunes:duration>
     <itunes:image href="https://elroy.twit.tv/sites/default/files/images/episodes/2026/08/862700/hero/TWIT1098_thumbnail.jpg"/>
     <itunes:author>Leo Laporte</itunes:author>
