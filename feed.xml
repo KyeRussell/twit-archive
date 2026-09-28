@@ -19,9 +19,75 @@
   <itunes:owner>
     <itunes:name>This Week in Tech Archive</itunes:name>
   </itunes:owner>
-  <lastBuildDate>Mon, 21 Sep 2026 19:59:48 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 28 Sep 2026 21:14:48 +0000</lastBuildDate>
   <generator>twit-archive</generator>
   <atom:link href="https://kyerussell.github.io/twit-archive/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>1103: Raspberry Pi in the Sky</title>
+    <itunes:title>Raspberry Pi in the Sky</itunes:title>
+    <itunes:episode>1103</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <guid isPermaLink="false">twit-archive-ep-1103</guid>
+    <link>https://twit.tv/shows/this-week-in-tech/episodes/1103</link>
+    <pubDate>Mon, 28 Sep 2026 00:58:47 +0000</pubDate>
+    <enclosure url="https://cdn.twit.tv/captivate/twit_1103/137d0471-cb85-40e3-ad82-79d599a1ac4f/twit1103.mp3" length="178858315" type="audio/mpeg"/>
+    <itunes:duration>3:05:59</itunes:duration>
+    <itunes:image href="https://elroy.twit.tv/sites/default/files/images/episodes/2026/09/863166/hero/TWIT1103_thumbnail.jpg"/>
+    <itunes:author>Leo Laporte</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:subtitle>What OpenAI’s Security Fiasco Means for Tech Safety</itunes:subtitle>
+    <itunes:summary><![CDATA[What OpenAI’s Security Fiasco Means for Tech Safety]]></itunes:summary>
+    <description><![CDATA[<p><strong>Guests:</strong> Harper Reed, Iain Thomson</p>
+<p>If your fridge can be bricked by a firmware update and your AI can outwit its creators, are we trading convenience for chaos? This lively episode tackles the tension between relentless innovation and apparent human oversight in today’s weird tech world. Unpack the reality behind AI agents hacking government sites and why industry leaders suddenly want to "pause" progress while shipping new models.</p><ul><li>An OpenAI Agent Hacked Australia’s Health Service. Their Government Found Out Months Later</li><li>Scoop: Top AI companies probing tens of thousands of security incidents</li><li>OpenAI’s A.I. Went Rogue and Meddled With U.S. Government Websites</li><li>US and China Discuss Alerting Each Other to AI National Security Threats</li><li>Meta Connect 2026: The biggest news and announcements</li><li>Amazon doesn’t trust Meta’s Muse AI agent</li><li>Meta Tests Muse AI Agent Calls That Are Actually Made By Humans in a Call Center</li><li>Meta misled users about Facebook data practices, New Mexico jury finds</li><li>Ireland’s data watchdog has fined Google €403M over location data</li><li>Google's first Suncatcher orbital data center test launches October 1</li><li>Microsoft thinks its new Copilot ‘super app’ will be as influential as Office</li><li>OpenAI pauses training of its ‘most capable models’</li><li>Hacking group ShinyHunters claims it breached the FBI, stole agents’ and applicants’ data</li><li>New Jersey fines data center $1.1M after drone pics expose 62 gas generators</li><li>Walmart chief rules out personalised pricing as AI transforms retail</li><li>Owners mourn spoiled food after firmware update bricks Samsung smart fridges</li><li>The smart home graveyard is getting crowded</li><li>Scientists build world's most accurate atomic clock</li><li>Fat Bear Week 2026 </li></ul>
+<h3>Links</h3>
+<ul>
+<li><a href="https://www.wired.com/story/openai-agent-hacked-australias-health-service-their-government-found-out-months-later" rel="nofollow" target="_blank">An OpenAI Agent Hacked Australia’s Health Service. Their Government Found Out Months Later</a></li>
+<li><a href="https://www.axios.com/2026/09/26/openai-anthropic-thousands-ai-security-incidents" rel="nofollow" target="_blank">Scoop: Top AI companies probing tens of thousands of security incidents</a></li>
+<li><a href="https://www.nytimes.com/2026/09/25/technology/openais-ai-us-government-websites.html?unlocked_article_code=1.D1E.Du-Q.ZNLxjZe9REPr&amp;smid=nytcore-android-share" rel="nofollow" target="_blank">OpenAI’s A.I. Went Rogue and Meddled With U.S. Government Websites</a></li>
+<li><a href="https://www.wired.com/story/us-and-china-discuss-alerting-each-other-to-ai-national-security-threats" rel="nofollow" target="_blank">US and China Discuss Alerting Each Other to AI National Security Threats</a></li>
+<li><a href="https://www.theverge.com/tech/998480/meta-connect-2026-biggest-news-announcements" rel="nofollow" target="_blank">Meta Connect 2026: The biggest news and announcements</a></li>
+<li><a href="https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping" rel="nofollow" target="_blank">Amazon doesn’t trust Meta’s Muse AI agent</a></li>
+<li><a href="https://www.404media.co/meta-tests-muse-ai-agent-calls-that-are-actually-made-by-humans-in-a-call-center" rel="nofollow" target="_blank">Meta Tests Muse AI Agent Calls That Are Actually Made By Humans in a Call Center</a></li>
+<li><a href="https://www.reuters.com/business/meta-misled-consumers-case-over-cambridge-analytica-scandal-new-mexico-jury-says-2026-09-25/" rel="nofollow" target="_blank">Meta misled users about Facebook data practices, New Mexico jury finds</a></li>
+<li><a href="https://thenextweb.com/news/google-dpc-403m-location-data-fine" rel="nofollow" target="_blank">Ireland’s data watchdog has fined Google €403M over location data</a></li>
+<li><a href="https://arstechnica.com/google/2026/09/googles-first-suncatcher-orbital-data-center-test-launches-october-1" rel="nofollow" target="_blank">Google's first Suncatcher orbital data center test launches October 1</a></li>
+<li><a href="https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot" rel="nofollow" target="_blank">Microsoft thinks its new Copilot ‘super app’ will be as influential as Office</a></li>
+<li><a href="https://x.com/ziwenxu_/status/2103892299658805289" rel="nofollow" target="_blank">Introducing OpenAI "o", your personal assistant!!</a></li>
+<li><a href="https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause" rel="nofollow" target="_blank">OpenAI pauses training of its ‘most capable models’</a></li>
+<li><a href="https://techcrunch.com/2026/09/22/hacking-group-shinyhunters-claims-it-breached-the-fbi-stole-agents-and-applicants-data" rel="nofollow" target="_blank">Hacking group ShinyHunters claims it breached the FBI, stole agents’ and applicants’ data</a></li>
+<li><a href="https://arstechnica.com/tech-policy/2026/09/new-jersey-fines-data-center-1-1m-after-satellite-pics-expose-62-gas-generators" rel="nofollow" target="_blank">New Jersey fines data center $1.1M after drone pics expose 62 gas generators</a></li>
+<li><a href="https://www.ft.com/content/632e21a3-b889-4423-a1d9-be16b3e680bd?syn-25a6b1a6=1" rel="nofollow" target="_blank">Walmart chief rules out personalised pricing as AI transforms retail</a></li>
+<li><a href="https://arstechnica.com/gadgets/2026/09/owners-mourn-spoiled-food-after-firmware-update-bricks-samsung-smart-fridges/" rel="nofollow" target="_blank">Owners mourn spoiled food after firmware update bricks Samsung smart fridges</a></li>
+<li><a href="https://www.theverge.com/column/1000778/smart-home-june-oven-graveyard" rel="nofollow" target="_blank">The smart home graveyard is getting crowded</a></li>
+<li><a href="https://phys.org/news/2026-09-scientists-world-accurate-atomic-clock.html" rel="nofollow" target="_blank">Scientists build world's most accurate atomic clock</a></li>
+<li><a href="https://explore.org/fat-bear-week" rel="nofollow" target="_blank">Fat Bear Week 2026 - Explore.org</a></li>
+</ul>]]></description>
+    <content:encoded><![CDATA[<p><strong>Guests:</strong> Harper Reed, Iain Thomson</p>
+<p>If your fridge can be bricked by a firmware update and your AI can outwit its creators, are we trading convenience for chaos? This lively episode tackles the tension between relentless innovation and apparent human oversight in today’s weird tech world. Unpack the reality behind AI agents hacking government sites and why industry leaders suddenly want to "pause" progress while shipping new models.</p><ul><li>An OpenAI Agent Hacked Australia’s Health Service. Their Government Found Out Months Later</li><li>Scoop: Top AI companies probing tens of thousands of security incidents</li><li>OpenAI’s A.I. Went Rogue and Meddled With U.S. Government Websites</li><li>US and China Discuss Alerting Each Other to AI National Security Threats</li><li>Meta Connect 2026: The biggest news and announcements</li><li>Amazon doesn’t trust Meta’s Muse AI agent</li><li>Meta Tests Muse AI Agent Calls That Are Actually Made By Humans in a Call Center</li><li>Meta misled users about Facebook data practices, New Mexico jury finds</li><li>Ireland’s data watchdog has fined Google €403M over location data</li><li>Google's first Suncatcher orbital data center test launches October 1</li><li>Microsoft thinks its new Copilot ‘super app’ will be as influential as Office</li><li>OpenAI pauses training of its ‘most capable models’</li><li>Hacking group ShinyHunters claims it breached the FBI, stole agents’ and applicants’ data</li><li>New Jersey fines data center $1.1M after drone pics expose 62 gas generators</li><li>Walmart chief rules out personalised pricing as AI transforms retail</li><li>Owners mourn spoiled food after firmware update bricks Samsung smart fridges</li><li>The smart home graveyard is getting crowded</li><li>Scientists build world's most accurate atomic clock</li><li>Fat Bear Week 2026 </li></ul>
+<h3>Links</h3>
+<ul>
+<li><a href="https://www.wired.com/story/openai-agent-hacked-australias-health-service-their-government-found-out-months-later" rel="nofollow" target="_blank">An OpenAI Agent Hacked Australia’s Health Service. Their Government Found Out Months Later</a></li>
+<li><a href="https://www.axios.com/2026/09/26/openai-anthropic-thousands-ai-security-incidents" rel="nofollow" target="_blank">Scoop: Top AI companies probing tens of thousands of security incidents</a></li>
+<li><a href="https://www.nytimes.com/2026/09/25/technology/openais-ai-us-government-websites.html?unlocked_article_code=1.D1E.Du-Q.ZNLxjZe9REPr&amp;smid=nytcore-android-share" rel="nofollow" target="_blank">OpenAI’s A.I. Went Rogue and Meddled With U.S. Government Websites</a></li>
+<li><a href="https://www.wired.com/story/us-and-china-discuss-alerting-each-other-to-ai-national-security-threats" rel="nofollow" target="_blank">US and China Discuss Alerting Each Other to AI National Security Threats</a></li>
+<li><a href="https://www.theverge.com/tech/998480/meta-connect-2026-biggest-news-announcements" rel="nofollow" target="_blank">Meta Connect 2026: The biggest news and announcements</a></li>
+<li><a href="https://www.theverge.com/tech/998078/amazon-blocks-meta-muse-ai-agent-shopping" rel="nofollow" target="_blank">Amazon doesn’t trust Meta’s Muse AI agent</a></li>
+<li><a href="https://www.404media.co/meta-tests-muse-ai-agent-calls-that-are-actually-made-by-humans-in-a-call-center" rel="nofollow" target="_blank">Meta Tests Muse AI Agent Calls That Are Actually Made By Humans in a Call Center</a></li>
+<li><a href="https://www.reuters.com/business/meta-misled-consumers-case-over-cambridge-analytica-scandal-new-mexico-jury-says-2026-09-25/" rel="nofollow" target="_blank">Meta misled users about Facebook data practices, New Mexico jury finds</a></li>
+<li><a href="https://thenextweb.com/news/google-dpc-403m-location-data-fine" rel="nofollow" target="_blank">Ireland’s data watchdog has fined Google €403M over location data</a></li>
+<li><a href="https://arstechnica.com/google/2026/09/googles-first-suncatcher-orbital-data-center-test-launches-october-1" rel="nofollow" target="_blank">Google's first Suncatcher orbital data center test launches October 1</a></li>
+<li><a href="https://www.theverge.com/news/1000532/microsoft-copilot-super-app-chat-coding-autopilot" rel="nofollow" target="_blank">Microsoft thinks its new Copilot ‘super app’ will be as influential as Office</a></li>
+<li><a href="https://x.com/ziwenxu_/status/2103892299658805289" rel="nofollow" target="_blank">Introducing OpenAI "o", your personal assistant!!</a></li>
+<li><a href="https://www.theverge.com/ai-artificial-intelligence/1001049/openai-training-pause" rel="nofollow" target="_blank">OpenAI pauses training of its ‘most capable models’</a></li>
+<li><a href="https://techcrunch.com/2026/09/22/hacking-group-shinyhunters-claims-it-breached-the-fbi-stole-agents-and-applicants-data" rel="nofollow" target="_blank">Hacking group ShinyHunters claims it breached the FBI, stole agents’ and applicants’ data</a></li>
+<li><a href="https://arstechnica.com/tech-policy/2026/09/new-jersey-fines-data-center-1-1m-after-satellite-pics-expose-62-gas-generators" rel="nofollow" target="_blank">New Jersey fines data center $1.1M after drone pics expose 62 gas generators</a></li>
+<li><a href="https://www.ft.com/content/632e21a3-b889-4423-a1d9-be16b3e680bd?syn-25a6b1a6=1" rel="nofollow" target="_blank">Walmart chief rules out personalised pricing as AI transforms retail</a></li>
+<li><a href="https://arstechnica.com/gadgets/2026/09/owners-mourn-spoiled-food-after-firmware-update-bricks-samsung-smart-fridges/" rel="nofollow" target="_blank">Owners mourn spoiled food after firmware update bricks Samsung smart fridges</a></li>
+<li><a href="https://www.theverge.com/column/1000778/smart-home-june-oven-graveyard" rel="nofollow" target="_blank">The smart home graveyard is getting crowded</a></li>
+<li><a href="https://phys.org/news/2026-09-scientists-world-accurate-atomic-clock.html" rel="nofollow" target="_blank">Scientists build world's most accurate atomic clock</a></li>
+<li><a href="https://explore.org/fat-bear-week" rel="nofollow" target="_blank">Fat Bear Week 2026 - Explore.org</a></li>
+</ul>]]></content:encoded>
+  </item>
   <item>
     <title>1102: Exclave Subpoena</title>
     <itunes:title>Exclave Subpoena</itunes:title>
@@ -80,7 +146,7 @@
     <guid isPermaLink="false">twit-archive-ep-1101</guid>
     <link>https://twit.tv/shows/this-week-in-tech/episodes/1101</link>
     <pubDate>Mon, 14 Sep 2026 06:36:26 +0000</pubDate>
-    <enclosure url="https://cdn.twit.tv/megaphone/twit_1101/ARML1693313659.mp3" length="188591160" type="audio/mpeg"/>
+    <enclosure url="https://cdn.twit.tv/captivate/twit_1101/416d06f9-f931-41c1-ad89-39d8ac186bb1/twit1101.mp3" length="188862753" type="audio/mpeg"/>
     <itunes:duration>3:16:24</itunes:duration>
     <itunes:image href="https://elroy.twit.tv/sites/default/files/images/episodes/2026/09/862984/hero/TWIT1101_thumbnail.jpg"/>
     <itunes:author>Leo Laporte</itunes:author>
