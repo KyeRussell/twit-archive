@@ -19,9 +19,75 @@
   <itunes:owner>
     <itunes:name>This Week in Tech Archive</itunes:name>
   </itunes:owner>
-  <lastBuildDate>Mon, 28 Sep 2026 21:14:48 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 05 Oct 2026 22:02:03 +0000</lastBuildDate>
   <generator>twit-archive</generator>
   <atom:link href="https://kyerussell.github.io/twit-archive/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>1104: Real Gs Move in Silence Like Lasagna</title>
+    <itunes:title>Real Gs Move in Silence Like Lasagna</itunes:title>
+    <itunes:episode>1104</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <guid isPermaLink="false">twit-archive-ep-1104</guid>
+    <link>https://twit.tv/shows/this-week-in-tech/episodes/1104</link>
+    <pubDate>Mon, 05 Oct 2026 04:45:00 +0000</pubDate>
+    <enclosure url="https://cdn.twit.tv/cap/twit_1104/b1e10584-ef12-4a62-be38-36b46710da62.mp3" length="169354551" type="audio/mpeg"/>
+    <itunes:duration>2:56:24</itunes:duration>
+    <itunes:image href="https://elroy.twit.tv/sites/default/files/images/episodes/2026/10/863264/hero/TWIT1104_thumbnail.jpg"/>
+    <itunes:author>Leo Laporte</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:subtitle>An AI Data Center in Space?</itunes:subtitle>
+    <itunes:summary><![CDATA[An AI Data Center in Space?]]></itunes:summary>
+    <description><![CDATA[<p><strong>Guests:</strong> Doc Rock, Louis Maresca</p>
+<p>Is Gemini 4 truly so capable, as claimed by Google? OpenAI unveils Dots to rival Meta's Muse. Google's Project Suncatcher prototype satellite is now in orbit. And should we be worried about the possible 'catastrophic' risks with AI, as reported in a leaked IPO filing by Anthropic?</p><ul><li>OpenAI pauses training its most powerful models after rogue agents target government.</li><li>Google announces Gemini 4 and says it’s so capable that only ‘trusted cyber defenders’ can have it right now</li><li>OpenAI ignored employees’ warnings about safely testing A.I. models.</li><li>I quit OpenAI because its culture is broke.</li><li>OpenAI unveils Dots, new A.I. agents to rival Meta’s Muse.</li><li>Google's early attempt to pay websites for AI answers is struggling.</li><li>Muse creates detailed profiles of all your friends and family.</li><li>Our project Suncatcher prototype satellite is in orbit.</li><li>Amazon writes scary blog warning communities not to block data centers.</li><li>The 7-year-old Nvidia Shield TV is now $100 more expensive due to AI.</li><li>EXCLUSIVE: Anthropic's IPO prospectus shows sweeping AI vision, surging costs.</li><li>Anthropic warns of ‘catastrophic’ AI risks in its own IPO filing.</li><li>NVIDIA releases software platform to stop AI agents from misbehaving.</li><li>Exclusive: Full list of attendees at White House AI lunch.</li><li>Trump orders US government to call AI ‘Super Intelligence’.</li><li>The Pentagon taps Elon Musk and Palmer Luckey to help decide what the military should do next.</li><li>Exclusive: Army creates autonomy command amid Hegseth's robo-warfare push.</li><li>New AI czar unveils goals, members of White House task force.</li><li>Newsom signs 13 AI bills, including a ban on AI-only firings.</li><li>Robert X. Cringely.</li></ul>
+<h3>Links</h3>
+<ul>
+<li><a href="https://www.wired.com/story/openai-pauses-training-most-powerful-models-after-rogue-agents-target-government" rel="nofollow" target="_blank">OpenAI Pauses Training Its Most Powerful Models After Rogue Agents Target Government</a></li>
+<li><a href="https://www.theverge.com/tech/1002980/google-gemini-4-argon" rel="nofollow" target="_blank">Google announces Gemini 4 and says it’s so capable that only ‘trusted cyber defenders’ can have it right now</a></li>
+<li><a href="https://www.nytimes.com/2026/09/29/technology/openai-warnings-security.html?unlocked_article_code=1.E1E.yjQM._7pTcsM9JMPl&amp;smid=url-share" rel="nofollow" target="_blank">OpenAI Ignored Employees’ Warnings About Safely Testing A.I. Models</a></li>
+<li><a href="https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=jE7sd3rFOqDdQaD53F1IhcqkhImekiWN9aB9R67GhAo&amp;utm_source=copy-link&amp;utm_medium=social&amp;utm_campaign=share" rel="nofollow" target="_blank">I Quit OpenAI Because Its Culture Is Broken</a></li>
+<li><a href="https://www.nytimes.com/2026/09/29/technology/openai-dots-ai-agents.html" rel="nofollow" target="_blank">OpenAI Unveils Dots, New A.I. Agents to Rival Meta’s Muse</a></li>
+<li><a href="https://arstechnica.com/google/2026/09/google-is-paying-100-websites-for-contributions-to-ai-overviews-but-the-amounts-are-tiny" rel="nofollow" target="_blank">Google's early attempt to pay websites for AI answers is struggling</a></li>
+<li><a href="https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family" rel="nofollow" target="_blank">Muse Creates Detailed Profiles of All Your Friends and Family</a></li>
+<li><a href="https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-prototype" rel="nofollow" target="_blank">Our Project Suncatcher prototype satellite is in orbit.</a></li>
+<li><a href="https://www.theverge.com/tech/1003929/amazon-ai-data-center-blog-warning" rel="nofollow" target="_blank">Amazon writes scary blog warning communities not to block data centers</a></li>
+<li><a href="https://arstechnica.com/gadgets/2026/10/the-7-year-old-nvidia-shield-tv-is-now-100-more-expensive-thanks-to-ai" rel="nofollow" target="_blank">The 7-year-old Nvidia Shield TV is now $100 more expensive due to AI</a></li>
+<li><a href="https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/" rel="nofollow" target="_blank">EXCLUSIVE: Anthropic's IPO prospectus shows sweeping AI vision, surging costs</a></li>
+<li><a href="https://www.theverge.com/ai-artificial-intelligence/1001838/anthropic-ipo-prospectus-ai-safety-threat" rel="nofollow" target="_blank">Anthropic warns of ‘catastrophic’ AI risks in its own IPO filing</a></li>
+<li><a href="https://www.cnbc.com/2026/09/28/nvidia-releases.html" rel="nofollow" target="_blank">Nvidia releases software platform to stop AI agents from misbehaving</a></li>
+<li><a href="https://www.axios.com/2026/09/29/trump-ai-meeting-list-ceos-johnson" rel="nofollow" target="_blank">Exclusive: Full list of attendees at White House AI lunch</a></li>
+<li><a href="https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai" rel="nofollow" target="_blank">Trump orders US government to call AI ‘Super Intelligence’</a></li>
+<li><a href="https://techcrunch.com/2026/09/30/the-pentagon-taps-elon-musk-and-palmer-luckey-to-help-decide-what-the-military-should-do-next" rel="nofollow" target="_blank">The Pentagon taps Elon Musk and Palmer Luckey to help decide what the military should do next</a></li>
+<li><a href="https://www.axios.com/2026/10/02/army-autonomy-command-hegseth-agincourt" rel="nofollow" target="_blank">Exclusive: Army creates autonomy command amid Hegseth's robo-warfare push</a></li>
+<li><a href="https://www.wsj.com/tech/ai/new-ai-task-force-to-report-on-risks-of-technology-after-public-and-industry-concerns-b6308bef?mod=rss_Technology" rel="nofollow" target="_blank">New AI Czar Unveils Goals, Members of White House Task Force</a></li>
+<li><a href="https://thenextweb.com/news/no-robo-bosses-act-newsom-ai-bills-smart-glasses-veto" rel="nofollow" target="_blank">Newsom signs 13 AI bills, including a ban on AI-only firings</a></li>
+<li><a href="https://angular2-hn.firebaseapp.com/item/49949438" rel="nofollow" target="_blank">Robert X. Cringely</a></li>
+</ul>]]></description>
+    <content:encoded><![CDATA[<p><strong>Guests:</strong> Doc Rock, Louis Maresca</p>
+<p>Is Gemini 4 truly so capable, as claimed by Google? OpenAI unveils Dots to rival Meta's Muse. Google's Project Suncatcher prototype satellite is now in orbit. And should we be worried about the possible 'catastrophic' risks with AI, as reported in a leaked IPO filing by Anthropic?</p><ul><li>OpenAI pauses training its most powerful models after rogue agents target government.</li><li>Google announces Gemini 4 and says it’s so capable that only ‘trusted cyber defenders’ can have it right now</li><li>OpenAI ignored employees’ warnings about safely testing A.I. models.</li><li>I quit OpenAI because its culture is broke.</li><li>OpenAI unveils Dots, new A.I. agents to rival Meta’s Muse.</li><li>Google's early attempt to pay websites for AI answers is struggling.</li><li>Muse creates detailed profiles of all your friends and family.</li><li>Our project Suncatcher prototype satellite is in orbit.</li><li>Amazon writes scary blog warning communities not to block data centers.</li><li>The 7-year-old Nvidia Shield TV is now $100 more expensive due to AI.</li><li>EXCLUSIVE: Anthropic's IPO prospectus shows sweeping AI vision, surging costs.</li><li>Anthropic warns of ‘catastrophic’ AI risks in its own IPO filing.</li><li>NVIDIA releases software platform to stop AI agents from misbehaving.</li><li>Exclusive: Full list of attendees at White House AI lunch.</li><li>Trump orders US government to call AI ‘Super Intelligence’.</li><li>The Pentagon taps Elon Musk and Palmer Luckey to help decide what the military should do next.</li><li>Exclusive: Army creates autonomy command amid Hegseth's robo-warfare push.</li><li>New AI czar unveils goals, members of White House task force.</li><li>Newsom signs 13 AI bills, including a ban on AI-only firings.</li><li>Robert X. Cringely.</li></ul>
+<h3>Links</h3>
+<ul>
+<li><a href="https://www.wired.com/story/openai-pauses-training-most-powerful-models-after-rogue-agents-target-government" rel="nofollow" target="_blank">OpenAI Pauses Training Its Most Powerful Models After Rogue Agents Target Government</a></li>
+<li><a href="https://www.theverge.com/tech/1002980/google-gemini-4-argon" rel="nofollow" target="_blank">Google announces Gemini 4 and says it’s so capable that only ‘trusted cyber defenders’ can have it right now</a></li>
+<li><a href="https://www.nytimes.com/2026/09/29/technology/openai-warnings-security.html?unlocked_article_code=1.E1E.yjQM._7pTcsM9JMPl&amp;smid=url-share" rel="nofollow" target="_blank">OpenAI Ignored Employees’ Warnings About Safely Testing A.I. Models</a></li>
+<li><a href="https://www.theatlantic.com/technology/2026/10/openai-safety-team-resignation/688881/?gift=jE7sd3rFOqDdQaD53F1IhcqkhImekiWN9aB9R67GhAo&amp;utm_source=copy-link&amp;utm_medium=social&amp;utm_campaign=share" rel="nofollow" target="_blank">I Quit OpenAI Because Its Culture Is Broken</a></li>
+<li><a href="https://www.nytimes.com/2026/09/29/technology/openai-dots-ai-agents.html" rel="nofollow" target="_blank">OpenAI Unveils Dots, New A.I. Agents to Rival Meta’s Muse</a></li>
+<li><a href="https://arstechnica.com/google/2026/09/google-is-paying-100-websites-for-contributions-to-ai-overviews-but-the-amounts-are-tiny" rel="nofollow" target="_blank">Google's early attempt to pay websites for AI answers is struggling</a></li>
+<li><a href="https://www.wired.com/story/muse-creates-detailed-profiles-of-all-your-friends-and-family" rel="nofollow" target="_blank">Muse Creates Detailed Profiles of All Your Friends and Family</a></li>
+<li><a href="https://blog.google/innovation-and-ai/models-and-research/google-research/project-suncatcher-prototype" rel="nofollow" target="_blank">Our Project Suncatcher prototype satellite is in orbit.</a></li>
+<li><a href="https://www.theverge.com/tech/1003929/amazon-ai-data-center-blog-warning" rel="nofollow" target="_blank">Amazon writes scary blog warning communities not to block data centers</a></li>
+<li><a href="https://arstechnica.com/gadgets/2026/10/the-7-year-old-nvidia-shield-tv-is-now-100-more-expensive-thanks-to-ai" rel="nofollow" target="_blank">The 7-year-old Nvidia Shield TV is now $100 more expensive due to AI</a></li>
+<li><a href="https://www.reuters.com/business/finance/anthropics-ipo-prospectus-shows-sweeping-ai-vision-surging-costs-2026-09-28/" rel="nofollow" target="_blank">EXCLUSIVE: Anthropic's IPO prospectus shows sweeping AI vision, surging costs</a></li>
+<li><a href="https://www.theverge.com/ai-artificial-intelligence/1001838/anthropic-ipo-prospectus-ai-safety-threat" rel="nofollow" target="_blank">Anthropic warns of ‘catastrophic’ AI risks in its own IPO filing</a></li>
+<li><a href="https://www.cnbc.com/2026/09/28/nvidia-releases.html" rel="nofollow" target="_blank">Nvidia releases software platform to stop AI agents from misbehaving</a></li>
+<li><a href="https://www.axios.com/2026/09/29/trump-ai-meeting-list-ceos-johnson" rel="nofollow" target="_blank">Exclusive: Full list of attendees at White House AI lunch</a></li>
+<li><a href="https://www.theverge.com/policy/1002468/trump-ai-superintelligence-executive-order-ai" rel="nofollow" target="_blank">Trump orders US government to call AI ‘Super Intelligence’</a></li>
+<li><a href="https://techcrunch.com/2026/09/30/the-pentagon-taps-elon-musk-and-palmer-luckey-to-help-decide-what-the-military-should-do-next" rel="nofollow" target="_blank">The Pentagon taps Elon Musk and Palmer Luckey to help decide what the military should do next</a></li>
+<li><a href="https://www.axios.com/2026/10/02/army-autonomy-command-hegseth-agincourt" rel="nofollow" target="_blank">Exclusive: Army creates autonomy command amid Hegseth's robo-warfare push</a></li>
+<li><a href="https://www.wsj.com/tech/ai/new-ai-task-force-to-report-on-risks-of-technology-after-public-and-industry-concerns-b6308bef?mod=rss_Technology" rel="nofollow" target="_blank">New AI Czar Unveils Goals, Members of White House Task Force</a></li>
+<li><a href="https://thenextweb.com/news/no-robo-bosses-act-newsom-ai-bills-smart-glasses-veto" rel="nofollow" target="_blank">Newsom signs 13 AI bills, including a ban on AI-only firings</a></li>
+<li><a href="https://angular2-hn.firebaseapp.com/item/49949438" rel="nofollow" target="_blank">Robert X. Cringely</a></li>
+</ul>]]></content:encoded>
+  </item>
   <item>
     <title>1103: Raspberry Pi in the Sky</title>
     <itunes:title>Raspberry Pi in the Sky</itunes:title>
@@ -30,7 +96,7 @@
     <guid isPermaLink="false">twit-archive-ep-1103</guid>
     <link>https://twit.tv/shows/this-week-in-tech/episodes/1103</link>
     <pubDate>Mon, 28 Sep 2026 00:58:47 +0000</pubDate>
-    <enclosure url="https://cdn.twit.tv/captivate/twit_1103/137d0471-cb85-40e3-ad82-79d599a1ac4f/twit1103.mp3" length="178858315" type="audio/mpeg"/>
+    <enclosure url="https://cdn.twit.tv/cap/twit_1103/effbddb8-df68-4c78-b695-12613e560854.mp3" length="178558432" type="audio/mpeg"/>
     <itunes:duration>3:05:59</itunes:duration>
     <itunes:image href="https://elroy.twit.tv/sites/default/files/images/episodes/2026/09/863166/hero/TWIT1103_thumbnail.jpg"/>
     <itunes:author>Leo Laporte</itunes:author>
@@ -96,7 +162,7 @@
     <guid isPermaLink="false">twit-archive-ep-1102</guid>
     <link>https://twit.tv/shows/this-week-in-tech/episodes/1102</link>
     <pubDate>Mon, 21 Sep 2026 00:16:49 +0000</pubDate>
-    <enclosure url="https://cdn.twit.tv/megaphone/twit_1102/ARML7990110102.mp3" length="169024203" type="audio/mpeg"/>
+    <enclosure url="https://cdn.twit.tv/cap/twit_1102/6e1d13f0-b3cb-4183-9a2c-78acc4480920.mp3" length="168990089" type="audio/mpeg"/>
     <itunes:duration>2:56:01</itunes:duration>
     <itunes:image href="https://elroy.twit.tv/sites/default/files/images/episodes/2026/09/863079/hero/TWIT1102_thumbnail.jpg"/>
     <itunes:author>Leo Laporte</itunes:author>
@@ -146,7 +212,7 @@
     <guid isPermaLink="false">twit-archive-ep-1101</guid>
     <link>https://twit.tv/shows/this-week-in-tech/episodes/1101</link>
     <pubDate>Mon, 14 Sep 2026 06:36:26 +0000</pubDate>
-    <enclosure url="https://cdn.twit.tv/captivate/twit_1101/416d06f9-f931-41c1-ad89-39d8ac186bb1/twit1101.mp3" length="188862753" type="audio/mpeg"/>
+    <enclosure url="https://cdn.twit.tv/cap/twit_1101/12120282-2de2-441b-ad39-dfba754c189b.mp3" length="188552254" type="audio/mpeg"/>
     <itunes:duration>3:16:24</itunes:duration>
     <itunes:image href="https://elroy.twit.tv/sites/default/files/images/episodes/2026/09/862984/hero/TWIT1101_thumbnail.jpg"/>
     <itunes:author>Leo Laporte</itunes:author>
@@ -206,7 +272,7 @@
     <guid isPermaLink="false">twit-archive-ep-1100</guid>
     <link>https://twit.tv/shows/this-week-in-tech/episodes/1100</link>
     <pubDate>Mon, 07 Sep 2026 03:00:00 +0000</pubDate>
-    <enclosure url="https://cdn.twit.tv/megaphone/twit_1100/ARML2125974650.mp3" length="162644746" type="audio/mpeg"/>
+    <enclosure url="https://cdn.twit.tv/cap/twit_1100/d679f7b0-16f7-4684-a969-690bd837f6e1.mp3" length="162608691" type="audio/mpeg"/>
     <itunes:duration>2:49:22</itunes:duration>
     <itunes:image href="https://elroy.twit.tv/sites/default/files/images/episodes/2026/09/862896/hero/TWIT1100_thumbnail.jpg"/>
     <itunes:author>Leo Laporte</itunes:author>
