@@ -19,9 +19,83 @@
   <itunes:owner>
     <itunes:name>This Week in Tech Archive</itunes:name>
   </itunes:owner>
-  <lastBuildDate>Mon, 05 Oct 2026 22:02:03 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 12 Oct 2026 22:30:14 +0000</lastBuildDate>
   <generator>twit-archive</generator>
   <atom:link href="https://kyerussell.github.io/twit-archive/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>1105: Agents Gone Wild</title>
+    <itunes:title>Agents Gone Wild</itunes:title>
+    <itunes:episode>1105</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <guid isPermaLink="false">twit-archive-ep-1105</guid>
+    <link>https://twit.tv/shows/this-week-in-tech/episodes/1105</link>
+    <pubDate>Mon, 12 Oct 2026 04:00:00 +0000</pubDate>
+    <enclosure url="https://cdn.twit.tv/cap/twit_1105/4abd3831-5d83-4c6e-9c2e-8b287dc0e3ee.mp3" length="166928717" type="audio/mpeg"/>
+    <itunes:duration>2:53:52</itunes:duration>
+    <itunes:image href="https://elroy.twit.tv/sites/default/files/images/episodes/2026/10/863346/hero/TWIT1105_thumbnail.jpg"/>
+    <itunes:author>Leo Laporte</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:subtitle>Windows&amp;#039; New Surface Laptop Ultra &amp;amp; RTX Spark Dev Box!</itunes:subtitle>
+    <itunes:summary><![CDATA[Windows&#039; New Surface Laptop Ultra &amp; RTX Spark Dev Box!]]></itunes:summary>
+    <description><![CDATA[<p><strong>Guests:</strong> Wesley Faulkner, Richard Campbell, Janko Roettgers</p>
+<p>Windows unveiled its Surface Laptop Ultra &amp; Surface RTX Spark Dev Box at its recent Surface event. Google's SynthID Detector is open to everyone now to check for AI-made media. OpenAI agents attempted to hack Wikipedia and its tools to make unauthorized edits. And AI tools are now flooding into underground cybercrime markets.</p><ul><li>Windows 11 market share creeps upwards as cost of staying on Windows 10 set to double.</li><li>Everything announced at Microsoft's Windows and Surface event.</li><li>Trump: Anyone saying "AI" is "THE ENEMY!" The White House uses it.</li><li>Google opens SynthID Detector to everyone to check for AI-made media.</li><li>Google invests millions in Mark Zuckerberg’s efforts to create a ‘virtual cell’.</li><li>OpenAI to flood your eyeballs with visual ads.</li><li>OpenAI agents tried to hack Wikipedia tools and flooded it with traffic.</li><li>Anthropic AI model went rogue, submitted fake unsolved murder tip.</li><li>OpenAI is pissing off a bunch of mathematicians — again.</li><li>Scoop: AI companies plot "day after" scenarios for public revolt.</li><li>Hackers steal 8 million citizens’ records from Danish government database.</li><li>AI tools flood into underground cybercrime markets.</li><li>Ledger wallet tampering suspected after reports of crypto thefts.</li><li>FBI arrests founder of ransomware negotiation firm.</li><li>These midterm races will decide data centers’ political fate.</li><li>Paramount completes $111B Warner merger, creating “Skydance” behemoth.</li><li>HBO Max, Paramount+, and Discovery+ "will unify into a single service”.</li><li>Spotify opens new front in war on fair use.</li><li>The U.S. Army’s desert tech test shows long road to AI warfare.</li><li>The AI boom is making the world’s cheapest smartphones disappear.</li><li>Oracle, Broadcom and SpaceX seek blockbuster debt deals to pay for AI chips.</li><li>A mysterious nonprofit run by SpaceXAI’s top lawyer is paying the salaries of government workers.</li><li>Man vs. ‘Terminator’-like robot in a cage. California called tt illegal.</li><li>The inside story of Roku’s sale to Fox.</li></ul>
+<h3>Links</h3>
+<ul>
+<li><a href="https://www.theregister.com/os-platforms/2026/10/05/windows-11-market-share-creeps-upwards-as-cost-of-staying-on-windows-10-set-to-double/5300870" rel="nofollow" target="_blank">Windows 11 market share creeps upwards as cost of staying on Windows 10 set to double</a></li>
+<li><a href="https://www.theverge.com/news/1006303/microsoft-windows-surface-event-live-blog-surface-laptop-ultra-rtx-spark" rel="nofollow" target="_blank">Windows and Surface live blog: On the ground at Microsoft’s event</a></li>
+<li><a href="https://www.axios.com/2026/10/08/trump-ai-super-intelligence-white-house" rel="nofollow" target="_blank">Trump: Anyone saying "AI" is "THE ENEMY!" The White House uses it</a></li>
+<li><a href="https://thenextweb.com/news/google-synthid-detector-public-ai-content-checker" rel="nofollow" target="_blank">Google opens SynthID Detector to everyone to check for AI-made media</a></li>
+<li><a href="https://www.theverge.com/tech/1006766/google-meta-biohub-investment-virtual-cell" rel="nofollow" target="_blank">Google invests millions in Mark Zuckerberg’s efforts to create a ‘virtual cell’</a></li>
+<li><a href="https://www.theregister.com/ai-and-ml/2026/10/05/openai-to-flood-your-eyeballs-with-visual-ads/5301152" rel="nofollow" target="_blank">OpenAI to flood your eyeballs with visual ads</a></li>
+<li><a href="https://www.theregister.com/ai-and-ml/2026/10/05/openai-to-flood-your-eyeballs-with-visual-ads/5301152" rel="nofollow" target="_blank">OpenAI to flood your eyeballs with visual ads</a></li>
+<li><a href="https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic" rel="nofollow" target="_blank">OpenAI agents tried to hack Wikipedia tools and flooded it with traffic</a></li>
+<li><a href="https://www.wsj.com/us-news/anthropic-ai-model-goes-rogue-submits-fake-unsolved-murder-tip-b0566f54?mod=rss_Technology" rel="nofollow" target="_blank">Anthropic AI Model Went Rogue, Submitted Fake Unsolved Murder Tip</a></li>
+<li><a href="https://www.wired.com/story/openai-is-pissing-off-a-bunch-of-mathematicians-again" rel="nofollow" target="_blank">OpenAI Is Pissing Off a Bunch of Mathematicians—Again</a></li>
+<li><a href="https://www.axios.com/2026/10/09/ai-companies-day-after-major-attack" rel="nofollow" target="_blank">Scoop: AI companies plot "day after" scenarios for public revolt</a></li>
+<li><a href="https://techcrunch.com/2026/10/05/hackers-steal-8-million-citizens-records-from-danish-government-database" rel="nofollow" target="_blank">Hackers steal 8 million citizens’ records from Danish government database</a></li>
+<li><a href="https://www.axios.com/2026/10/06/ai-cybercrime-hacker-tools-marketplace" rel="nofollow" target="_blank">AI tools flood into underground cybercrime markets</a></li>
+<li><a href="https://www.theverge.com/tech/1009294/ledger-wallet-tampering-suspected-after-reports-of-crypto-thefts" rel="nofollow" target="_blank">Ledger wallet tampering suspected after reports of crypto thefts</a></li>
+<li><a href="https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm" rel="nofollow" target="_blank">FBI Arrests Founder of Ransomware Negotiation Firm</a></li>
+<li><a href="https://www.wired.com/story/midterm-races-decide-data-centers-political-fate" rel="nofollow" target="_blank">These Midterm Races Will Decide Data Centers’ Political Fate</a></li>
+<li><a href="https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth" rel="nofollow" target="_blank">Paramount completes $111B Warner merger, creating “Skydance” behemoth</a></li>
+<li><a href="https://sixcolors.com/post/2026/10/spotify-opens-new-front-in-war-on-fair-use" rel="nofollow" target="_blank">Spotify opens new front in war on fair use</a></li>
+<li><a href="https://www.wsj.com/tech/the-u-s-armys-desert-tech-test-shows-long-road-to-ai-warfare-2fc2ba1e?mod=rss_Technology" rel="nofollow" target="_blank">The U.S. Army’s Desert Tech Test Shows Long Road to AI Warfare</a></li>
+<li><a href="https://restofworld.org/2026/ai-data-center-memory-chip-shortage-cheap-smartphones-digital-divide" rel="nofollow" target="_blank">The AI boom is making the world’s cheapest smartphones disappear</a></li>
+<li><a href="https://www.wsj.com/tech/oracle-broadcom-and-spacex-seek-blockbuster-debt-deals-to-pay-for-ai-chips-848e8032?mod=rss_Technology" rel="nofollow" target="_blank">Oracle, Broadcom and SpaceX Seek Blockbuster Debt Deals to Pay for AI Chips</a></li>
+<li><a href="https://www.wired.com/story/mysterious-nonprofit-spacexai-national-design-studio-elon-musk-doge" rel="nofollow" target="_blank">A Mysterious Nonprofit Run by SpaceXAI’s Top Lawyer Is Paying the Salaries of Government Workers</a></li>
+<li><a href="https://www.nytimes.com/2026/10/08/technology/human-robot-cage-fights-california-rek.html" rel="nofollow" target="_blank">Man vs. ‘Terminator’-Like Robot in a Cage. California Called It Illegal.</a></li>
+<li><a href="https://www.lowpass.cc/p/roku-fox-sale-the-inside-story" rel="nofollow" target="_blank">The inside story of Roku’s sale to Fox</a></li>
+</ul>]]></description>
+    <content:encoded><![CDATA[<p><strong>Guests:</strong> Wesley Faulkner, Richard Campbell, Janko Roettgers</p>
+<p>Windows unveiled its Surface Laptop Ultra &amp; Surface RTX Spark Dev Box at its recent Surface event. Google's SynthID Detector is open to everyone now to check for AI-made media. OpenAI agents attempted to hack Wikipedia and its tools to make unauthorized edits. And AI tools are now flooding into underground cybercrime markets.</p><ul><li>Windows 11 market share creeps upwards as cost of staying on Windows 10 set to double.</li><li>Everything announced at Microsoft's Windows and Surface event.</li><li>Trump: Anyone saying "AI" is "THE ENEMY!" The White House uses it.</li><li>Google opens SynthID Detector to everyone to check for AI-made media.</li><li>Google invests millions in Mark Zuckerberg’s efforts to create a ‘virtual cell’.</li><li>OpenAI to flood your eyeballs with visual ads.</li><li>OpenAI agents tried to hack Wikipedia tools and flooded it with traffic.</li><li>Anthropic AI model went rogue, submitted fake unsolved murder tip.</li><li>OpenAI is pissing off a bunch of mathematicians — again.</li><li>Scoop: AI companies plot "day after" scenarios for public revolt.</li><li>Hackers steal 8 million citizens’ records from Danish government database.</li><li>AI tools flood into underground cybercrime markets.</li><li>Ledger wallet tampering suspected after reports of crypto thefts.</li><li>FBI arrests founder of ransomware negotiation firm.</li><li>These midterm races will decide data centers’ political fate.</li><li>Paramount completes $111B Warner merger, creating “Skydance” behemoth.</li><li>HBO Max, Paramount+, and Discovery+ "will unify into a single service”.</li><li>Spotify opens new front in war on fair use.</li><li>The U.S. Army’s desert tech test shows long road to AI warfare.</li><li>The AI boom is making the world’s cheapest smartphones disappear.</li><li>Oracle, Broadcom and SpaceX seek blockbuster debt deals to pay for AI chips.</li><li>A mysterious nonprofit run by SpaceXAI’s top lawyer is paying the salaries of government workers.</li><li>Man vs. ‘Terminator’-like robot in a cage. California called tt illegal.</li><li>The inside story of Roku’s sale to Fox.</li></ul>
+<h3>Links</h3>
+<ul>
+<li><a href="https://www.theregister.com/os-platforms/2026/10/05/windows-11-market-share-creeps-upwards-as-cost-of-staying-on-windows-10-set-to-double/5300870" rel="nofollow" target="_blank">Windows 11 market share creeps upwards as cost of staying on Windows 10 set to double</a></li>
+<li><a href="https://www.theverge.com/news/1006303/microsoft-windows-surface-event-live-blog-surface-laptop-ultra-rtx-spark" rel="nofollow" target="_blank">Windows and Surface live blog: On the ground at Microsoft’s event</a></li>
+<li><a href="https://www.axios.com/2026/10/08/trump-ai-super-intelligence-white-house" rel="nofollow" target="_blank">Trump: Anyone saying "AI" is "THE ENEMY!" The White House uses it</a></li>
+<li><a href="https://thenextweb.com/news/google-synthid-detector-public-ai-content-checker" rel="nofollow" target="_blank">Google opens SynthID Detector to everyone to check for AI-made media</a></li>
+<li><a href="https://www.theverge.com/tech/1006766/google-meta-biohub-investment-virtual-cell" rel="nofollow" target="_blank">Google invests millions in Mark Zuckerberg’s efforts to create a ‘virtual cell’</a></li>
+<li><a href="https://www.theregister.com/ai-and-ml/2026/10/05/openai-to-flood-your-eyeballs-with-visual-ads/5301152" rel="nofollow" target="_blank">OpenAI to flood your eyeballs with visual ads</a></li>
+<li><a href="https://www.theregister.com/ai-and-ml/2026/10/05/openai-to-flood-your-eyeballs-with-visual-ads/5301152" rel="nofollow" target="_blank">OpenAI to flood your eyeballs with visual ads</a></li>
+<li><a href="https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic" rel="nofollow" target="_blank">OpenAI agents tried to hack Wikipedia tools and flooded it with traffic</a></li>
+<li><a href="https://www.wsj.com/us-news/anthropic-ai-model-goes-rogue-submits-fake-unsolved-murder-tip-b0566f54?mod=rss_Technology" rel="nofollow" target="_blank">Anthropic AI Model Went Rogue, Submitted Fake Unsolved Murder Tip</a></li>
+<li><a href="https://www.wired.com/story/openai-is-pissing-off-a-bunch-of-mathematicians-again" rel="nofollow" target="_blank">OpenAI Is Pissing Off a Bunch of Mathematicians—Again</a></li>
+<li><a href="https://www.axios.com/2026/10/09/ai-companies-day-after-major-attack" rel="nofollow" target="_blank">Scoop: AI companies plot "day after" scenarios for public revolt</a></li>
+<li><a href="https://techcrunch.com/2026/10/05/hackers-steal-8-million-citizens-records-from-danish-government-database" rel="nofollow" target="_blank">Hackers steal 8 million citizens’ records from Danish government database</a></li>
+<li><a href="https://www.axios.com/2026/10/06/ai-cybercrime-hacker-tools-marketplace" rel="nofollow" target="_blank">AI tools flood into underground cybercrime markets</a></li>
+<li><a href="https://www.theverge.com/tech/1009294/ledger-wallet-tampering-suspected-after-reports-of-crypto-thefts" rel="nofollow" target="_blank">Ledger wallet tampering suspected after reports of crypto thefts</a></li>
+<li><a href="https://krebsonsecurity.com/2026/10/fbi-arrests-founder-of-ransomware-negotiation-firm" rel="nofollow" target="_blank">FBI Arrests Founder of Ransomware Negotiation Firm</a></li>
+<li><a href="https://www.wired.com/story/midterm-races-decide-data-centers-political-fate" rel="nofollow" target="_blank">These Midterm Races Will Decide Data Centers’ Political Fate</a></li>
+<li><a href="https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth" rel="nofollow" target="_blank">Paramount completes $111B Warner merger, creating “Skydance” behemoth</a></li>
+<li><a href="https://sixcolors.com/post/2026/10/spotify-opens-new-front-in-war-on-fair-use" rel="nofollow" target="_blank">Spotify opens new front in war on fair use</a></li>
+<li><a href="https://www.wsj.com/tech/the-u-s-armys-desert-tech-test-shows-long-road-to-ai-warfare-2fc2ba1e?mod=rss_Technology" rel="nofollow" target="_blank">The U.S. Army’s Desert Tech Test Shows Long Road to AI Warfare</a></li>
+<li><a href="https://restofworld.org/2026/ai-data-center-memory-chip-shortage-cheap-smartphones-digital-divide" rel="nofollow" target="_blank">The AI boom is making the world’s cheapest smartphones disappear</a></li>
+<li><a href="https://www.wsj.com/tech/oracle-broadcom-and-spacex-seek-blockbuster-debt-deals-to-pay-for-ai-chips-848e8032?mod=rss_Technology" rel="nofollow" target="_blank">Oracle, Broadcom and SpaceX Seek Blockbuster Debt Deals to Pay for AI Chips</a></li>
+<li><a href="https://www.wired.com/story/mysterious-nonprofit-spacexai-national-design-studio-elon-musk-doge" rel="nofollow" target="_blank">A Mysterious Nonprofit Run by SpaceXAI’s Top Lawyer Is Paying the Salaries of Government Workers</a></li>
+<li><a href="https://www.nytimes.com/2026/10/08/technology/human-robot-cage-fights-california-rek.html" rel="nofollow" target="_blank">Man vs. ‘Terminator’-Like Robot in a Cage. California Called It Illegal.</a></li>
+<li><a href="https://www.lowpass.cc/p/roku-fox-sale-the-inside-story" rel="nofollow" target="_blank">The inside story of Roku’s sale to Fox</a></li>
+</ul>]]></content:encoded>
+  </item>
   <item>
     <title>1104: Real Gs Move in Silence Like Lasagna</title>
     <itunes:title>Real Gs Move in Silence Like Lasagna</itunes:title>
