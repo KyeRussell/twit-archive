@@ -19,9 +19,57 @@
   <itunes:owner>
     <itunes:name>This Week in Tech Archive</itunes:name>
   </itunes:owner>
-  <lastBuildDate>Mon, 12 Oct 2026 22:30:14 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 19 Oct 2026 20:36:11 +0000</lastBuildDate>
   <generator>twit-archive</generator>
   <atom:link href="https://kyerussell.github.io/twit-archive/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>1106: The 10-Day Reply Guy</title>
+    <itunes:title>The 10-Day Reply Guy</itunes:title>
+    <itunes:episode>1106</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <guid isPermaLink="false">twit-archive-ep-1106</guid>
+    <link>https://twit.tv/shows/this-week-in-tech/episodes/1106</link>
+    <pubDate>Mon, 19 Oct 2026 01:43:13 +0000</pubDate>
+    <enclosure url="https://cdn.twit.tv/cap/twit_1106/6f13c6bc-2078-4c73-a5b7-d32909292336.mp3" length="165838260" type="audio/mpeg"/>
+    <itunes:duration>2:51:15</itunes:duration>
+    <itunes:image href="https://elroy.twit.tv/sites/default/files/images/episodes/2026/10/863421/hero/TWIT1106_thumbnail.jpg"/>
+    <itunes:author>Leo Laporte</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:subtitle>RAMageddon, HomeView, Ikigai, &amp;amp; the Flying Tesla Roadster</itunes:subtitle>
+    <itunes:summary><![CDATA[RAMageddon, HomeView, Ikigai, &amp; the Flying Tesla Roadster]]></itunes:summary>
+    <description><![CDATA[<p><strong>Guests:</strong> Gina Smith, Jason Calacanis</p>
+<p>Apple’s long-delayed kitchen device and Tesla's flying car spectacle make this panel one you won’t want to miss! Data center delays, AI-driven job shakeups, and real-time debates on the real winners in broadband show that the tech landscape isn’t just shifting; it’s being rebuilt in real time.</p><ul><li>The Tesla Roadster should go into production in 2028, but don't get your hopes up - Engadget</li><li>Order to limit Starshield for Ukraine came from inside White House, sources say</li><li>Microsoft Surface Laptop Ultra review: RTX Spark in a straight-up beautiful Windows PC</li><li>America’s $10tn AI infrastructure boom is starting to fray</li><li>Apple’s HomeView Offers Tantalizing Preview of a Future Robotic Version</li><li>Apple blames ‘extraordinary’ demand as foldable iPhones sell out</li><li>F.B.I. Arrests OpenAI Employee Accused of Planting Bug in Office</li><li>Meta and Apple, Longtime Foes, Team Up to Put Open-Weight AI on Macs</li><li>Amazon has over 1 million robot workers. What’s next for human employees?</li><li>How to track Flock cameras using MapQuest</li></ul>
+<h3>Links</h3>
+<ul>
+<li><a href="https://x.com/Tesla/status/2110913438293647789" rel="nofollow" target="_blank">"Real life, baby"</a></li>
+<li><a href="https://www.engadget.com/2289475/tesla-roadster-2028-production-dont-get-hopes-up/" rel="nofollow" target="_blank">The Tesla Roadster should go into production in 2028, but don't get your hopes up - Engadget</a></li>
+<li><a href="https://www.reuters.com/world/europe/order-limit-starshield-ukraine-came-inside-white-house-sources-say-2026-10-15/" rel="nofollow" target="_blank">EXCLUSIVE: Order to limit Starshield for Ukraine came from inside White House, sources say</a></li>
+<li><a href="https://www.tomshardware.com/tablets/microsoft-surface/microsoft-surface-laptop-ultra-rtx-spark-review" rel="nofollow" target="_blank">Microsoft Surface Laptop Ultra review: RTX Spark in a straight-up beautiful Windows PC</a></li>
+<li><a href="https://www.ft.com/content/9ea5a37d-15c9-4d5b-94d6-719048c9cd3c?syn-25a6b1a6=1" rel="nofollow" target="_blank">America’s $10tn AI infrastructure boom is starting to fray</a></li>
+<li><a href="https://www.bloomberg.com/news/newsletters/2026-10-18/apple-homeview-with-robotic-arm-new-mac-ipad-mini-nov-6-release-iphone-duo?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MjMzMjI1NywiZXhwIjoxNzkyOTM3MDU3LCJhcnRpY2xlSWQiOiJUTjNXODFLR1pBSjQwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.SXy771LY1gAlXt2MmZODtLQ3lEquvyiefNIH-i7IZHQ" rel="nofollow" target="_blank">Apple’s HomeView Offers Tantalizing Preview of a Future Robotic Version</a></li>
+<li><a href="https://www.ft.com/content/7b236286-ca1d-4063-a728-7f968a638b8f?syn-25a6b1a6=1" rel="nofollow" target="_blank">Apple blames ‘extraordinary’ demand as foldable iPhones sell out</a></li>
+<li><a href="https://www.nytimes.com/2026/10/13/technology/openai-worker-arrested-bugging.html" rel="nofollow" target="_blank">F.B.I. Arrests OpenAI Employee Accused of Planting Bug in Office</a></li>
+<li><a href="https://www.wsj.com/tech/ai/meta-and-apple-longtime-foes-team-up-to-put-open-weight-ai-on-macs-a28fde11?mod=rss_Technology" rel="nofollow" target="_blank">Meta and Apple, Longtime Foes, Team Up to Put Open-Weight AI on Macs</a></li>
+<li><a href="https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work" rel="nofollow" target="_blank">Amazon has over 1 million robot workers. What’s next for human employees?</a></li>
+<li><a href="https://mashable.com/tech/mapquest-fusers-can-find-nearby-flock-cameras" rel="nofollow" target="_blank">How to track Flock cameras using MapQuest</a></li>
+</ul>]]></description>
+    <content:encoded><![CDATA[<p><strong>Guests:</strong> Gina Smith, Jason Calacanis</p>
+<p>Apple’s long-delayed kitchen device and Tesla's flying car spectacle make this panel one you won’t want to miss! Data center delays, AI-driven job shakeups, and real-time debates on the real winners in broadband show that the tech landscape isn’t just shifting; it’s being rebuilt in real time.</p><ul><li>The Tesla Roadster should go into production in 2028, but don't get your hopes up - Engadget</li><li>Order to limit Starshield for Ukraine came from inside White House, sources say</li><li>Microsoft Surface Laptop Ultra review: RTX Spark in a straight-up beautiful Windows PC</li><li>America’s $10tn AI infrastructure boom is starting to fray</li><li>Apple’s HomeView Offers Tantalizing Preview of a Future Robotic Version</li><li>Apple blames ‘extraordinary’ demand as foldable iPhones sell out</li><li>F.B.I. Arrests OpenAI Employee Accused of Planting Bug in Office</li><li>Meta and Apple, Longtime Foes, Team Up to Put Open-Weight AI on Macs</li><li>Amazon has over 1 million robot workers. What’s next for human employees?</li><li>How to track Flock cameras using MapQuest</li></ul>
+<h3>Links</h3>
+<ul>
+<li><a href="https://x.com/Tesla/status/2110913438293647789" rel="nofollow" target="_blank">"Real life, baby"</a></li>
+<li><a href="https://www.engadget.com/2289475/tesla-roadster-2028-production-dont-get-hopes-up/" rel="nofollow" target="_blank">The Tesla Roadster should go into production in 2028, but don't get your hopes up - Engadget</a></li>
+<li><a href="https://www.reuters.com/world/europe/order-limit-starshield-ukraine-came-inside-white-house-sources-say-2026-10-15/" rel="nofollow" target="_blank">EXCLUSIVE: Order to limit Starshield for Ukraine came from inside White House, sources say</a></li>
+<li><a href="https://www.tomshardware.com/tablets/microsoft-surface/microsoft-surface-laptop-ultra-rtx-spark-review" rel="nofollow" target="_blank">Microsoft Surface Laptop Ultra review: RTX Spark in a straight-up beautiful Windows PC</a></li>
+<li><a href="https://www.ft.com/content/9ea5a37d-15c9-4d5b-94d6-719048c9cd3c?syn-25a6b1a6=1" rel="nofollow" target="_blank">America’s $10tn AI infrastructure boom is starting to fray</a></li>
+<li><a href="https://www.bloomberg.com/news/newsletters/2026-10-18/apple-homeview-with-robotic-arm-new-mac-ipad-mini-nov-6-release-iphone-duo?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTc5MjMzMjI1NywiZXhwIjoxNzkyOTM3MDU3LCJhcnRpY2xlSWQiOiJUTjNXODFLR1pBSjQwMCIsImJjb25uZWN0SWQiOiJDNEVEQ0FFMUZBMDU0MEJFQTI0QTlGMjExQzFFOTA4MCJ9.SXy771LY1gAlXt2MmZODtLQ3lEquvyiefNIH-i7IZHQ" rel="nofollow" target="_blank">Apple’s HomeView Offers Tantalizing Preview of a Future Robotic Version</a></li>
+<li><a href="https://www.ft.com/content/7b236286-ca1d-4063-a728-7f968a638b8f?syn-25a6b1a6=1" rel="nofollow" target="_blank">Apple blames ‘extraordinary’ demand as foldable iPhones sell out</a></li>
+<li><a href="https://www.nytimes.com/2026/10/13/technology/openai-worker-arrested-bugging.html" rel="nofollow" target="_blank">F.B.I. Arrests OpenAI Employee Accused of Planting Bug in Office</a></li>
+<li><a href="https://www.wsj.com/tech/ai/meta-and-apple-longtime-foes-team-up-to-put-open-weight-ai-on-macs-a28fde11?mod=rss_Technology" rel="nofollow" target="_blank">Meta and Apple, Longtime Foes, Team Up to Put Open-Weight AI on Macs</a></li>
+<li><a href="https://arstechnica.com/ai/2026/10/inside-amazons-robotic-arms-race-and-what-it-means-for-the-future-of-human-work" rel="nofollow" target="_blank">Amazon has over 1 million robot workers. What’s next for human employees?</a></li>
+<li><a href="https://mashable.com/tech/mapquest-fusers-can-find-nearby-flock-cameras" rel="nofollow" target="_blank">How to track Flock cameras using MapQuest</a></li>
+</ul>]]></content:encoded>
+  </item>
   <item>
     <title>1105: Agents Gone Wild</title>
     <itunes:title>Agents Gone Wild</itunes:title>
@@ -30,7 +78,7 @@
     <guid isPermaLink="false">twit-archive-ep-1105</guid>
     <link>https://twit.tv/shows/this-week-in-tech/episodes/1105</link>
     <pubDate>Mon, 12 Oct 2026 04:00:00 +0000</pubDate>
-    <enclosure url="https://cdn.twit.tv/cap/twit_1105/4abd3831-5d83-4c6e-9c2e-8b287dc0e3ee.mp3" length="166928717" type="audio/mpeg"/>
+    <enclosure url="https://cdn.twit.tv/cap/twit_1105/4abd3831-5d83-4c6e-9c2e-8b287dc0e3ee.mp3" length="167887934" type="audio/mpeg"/>
     <itunes:duration>2:53:52</itunes:duration>
     <itunes:image href="https://elroy.twit.tv/sites/default/files/images/episodes/2026/10/863346/hero/TWIT1105_thumbnail.jpg"/>
     <itunes:author>Leo Laporte</itunes:author>
@@ -104,7 +152,7 @@
     <guid isPermaLink="false">twit-archive-ep-1104</guid>
     <link>https://twit.tv/shows/this-week-in-tech/episodes/1104</link>
     <pubDate>Mon, 05 Oct 2026 04:45:00 +0000</pubDate>
-    <enclosure url="https://cdn.twit.tv/cap/twit_1104/b1e10584-ef12-4a62-be38-36b46710da62.mp3" length="169354551" type="audio/mpeg"/>
+    <enclosure url="https://cdn.twit.tv/cap/twit_1104/b1e10584-ef12-4a62-be38-36b46710da62.mp3" length="170796093" type="audio/mpeg"/>
     <itunes:duration>2:56:24</itunes:duration>
     <itunes:image href="https://elroy.twit.tv/sites/default/files/images/episodes/2026/10/863264/hero/TWIT1104_thumbnail.jpg"/>
     <itunes:author>Leo Laporte</itunes:author>
@@ -170,7 +218,7 @@
     <guid isPermaLink="false">twit-archive-ep-1103</guid>
     <link>https://twit.tv/shows/this-week-in-tech/episodes/1103</link>
     <pubDate>Mon, 28 Sep 2026 00:58:47 +0000</pubDate>
-    <enclosure url="https://cdn.twit.tv/cap/twit_1103/effbddb8-df68-4c78-b695-12613e560854.mp3" length="178558432" type="audio/mpeg"/>
+    <enclosure url="https://cdn.twit.tv/cap/twit_1103/effbddb8-df68-4c78-b695-12613e560854.mp3" length="180002898" type="audio/mpeg"/>
     <itunes:duration>3:05:59</itunes:duration>
     <itunes:image href="https://elroy.twit.tv/sites/default/files/images/episodes/2026/09/863166/hero/TWIT1103_thumbnail.jpg"/>
     <itunes:author>Leo Laporte</itunes:author>
@@ -236,7 +284,7 @@
     <guid isPermaLink="false">twit-archive-ep-1102</guid>
     <link>https://twit.tv/shows/this-week-in-tech/episodes/1102</link>
     <pubDate>Mon, 21 Sep 2026 00:16:49 +0000</pubDate>
-    <enclosure url="https://cdn.twit.tv/cap/twit_1102/6e1d13f0-b3cb-4183-9a2c-78acc4480920.mp3" length="168990089" type="audio/mpeg"/>
+    <enclosure url="https://cdn.twit.tv/cap/twit_1102/6e1d13f0-b3cb-4183-9a2c-78acc4480920.mp3" length="170430378" type="audio/mpeg"/>
     <itunes:duration>2:56:01</itunes:duration>
     <itunes:image href="https://elroy.twit.tv/sites/default/files/images/episodes/2026/09/863079/hero/TWIT1102_thumbnail.jpg"/>
     <itunes:author>Leo Laporte</itunes:author>
