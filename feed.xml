@@ -19,9 +19,51 @@
   <itunes:owner>
     <itunes:name>This Week in Tech Archive</itunes:name>
   </itunes:owner>
-  <lastBuildDate>Mon, 19 Oct 2026 20:36:11 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 26 Oct 2026 20:30:26 +0000</lastBuildDate>
   <generator>twit-archive</generator>
   <atom:link href="https://kyerussell.github.io/twit-archive/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>1107: Spicy Hinges</title>
+    <itunes:title>Spicy Hinges</itunes:title>
+    <itunes:episode>1107</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <guid isPermaLink="false">twit-archive-ep-1107</guid>
+    <link>https://twit.tv/shows/this-week-in-tech/episodes/1107</link>
+    <pubDate>Sun, 25 Oct 2026 23:36:03 +0000</pubDate>
+    <enclosure url="https://cdn.twit.tv/cap/twit_1107/4f9eb121-7d4b-49b0-b2f6-b4a07e248418.mp3" length="157744585" type="audio/mpeg"/>
+    <itunes:duration>2:44:04</itunes:duration>
+    <itunes:image href="https://elroy.twit.tv/sites/default/files/images/episodes/2026/10/863507/hero/TWIT1107_thumbnail.jpg"/>
+    <itunes:author>Leo Laporte</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:subtitle>Apple&amp;#039;s 1st Foldable, GM Forward 2026, &amp;amp; PHP Vulnerabilities</itunes:subtitle>
+    <itunes:summary><![CDATA[Apple&#039;s 1st Foldable, GM Forward 2026, &amp; PHP Vulnerabilities]]></itunes:summary>
+    <description><![CDATA[<p><strong>Guests:</strong> Glenn Fleishman, Allison Johnson, Sam Abuelsamid</p>
+<p>Apple’s folding iPhone Duo lands with unique new features, an evolving developer scene, and early hardware hiccups that raise eyebrows. Also, a PHP bug threatens 70% of the world’s websites while AI rapidly changes how exploits are found and patched. Find out how a single overlooked flaw sparked a global scramble and what it reveals about the fragile backbone of the modern web.</p><ul><li>iPhone Duo review</li><li>GM outlines plan for next-gen EV platform, Level 4 autonomous cars</li><li>TechCrunch Mobility: Blue-green is the color of autonomy (NHTSA proposes cyan AV lights)</li><li>Spotify launches its first native in-car app, on Audi’s Android Automotive cars</li><li>Hackers Exploited the PHP Vulnerabilities Days Before They Were Patched</li><li>The non-gamer CEO racing to save Microsoft’s Xbox</li><li>Saudis Aided Family of Engineer Accused of Bugging OpenAI, Prosecutors Say</li><li>How iTunes came back from the dead</li></ul>
+<h3>Links</h3>
+<ul>
+<li><a href="https://www.theverge.com/tech/1015028/iphone-duo-review" rel="nofollow" target="_blank">The iPhone Duo is a messy, expensive good time</a></li>
+<li><a href="https://driving.ca/auto-news/technology-news/gm-forward-general-motors-ev-platform-batteries-autonomous-cars-lmr" rel="nofollow" target="_blank">GM outlines plan for next-gen EV platform, Level 4 autonomous cars</a></li>
+<li><a href="https://techcrunch.com/2026/10/25/techcrunch-mobility-blue-green-is-the-color-of-autonomy/" rel="nofollow" target="_blank">TechCrunch Mobility: Blue-green is the color of autonomy (NHTSA proposes cyan AV lights)</a></li>
+<li><a href="https://www.theverge.com/entertainment/1014261/spotify-native-car-app-audi-android-automotive-carplay" rel="nofollow" target="_blank">Spotify launches its first native in-car app, on Audi’s Android Automotive cars</a></li>
+<li><a href="https://www.wired.com/story/hackers-exploited-the-php-vulnerabilities-days-before-they-were-patched/" rel="nofollow" target="_blank">Hackers Exploited the PHP Vulnerabilities Days Before They Were Patched</a></li>
+<li><a href="https://fortune.com/2026/10/20/the-non-gamer-ceo-racing-to-save-microsofts-xbox/" rel="nofollow" target="_blank">The non-gamer CEO racing to save Microsoft’s Xbox</a></li>
+<li><a href="https://www.nytimes.com/2026/10/19/technology/saudis-aided-family-openai-engineer.html" rel="nofollow" target="_blank">Saudis Aided Family of Engineer Accused of Bugging OpenAI, Prosecutors Say</a></li>
+<li><a href="https://www.ft.com/content/5a21a7fe-3929-4e11-b571-8ce4bfd778ec" rel="nofollow" target="_blank">How iTunes came back from the dead</a></li>
+</ul>]]></description>
+    <content:encoded><![CDATA[<p><strong>Guests:</strong> Glenn Fleishman, Allison Johnson, Sam Abuelsamid</p>
+<p>Apple’s folding iPhone Duo lands with unique new features, an evolving developer scene, and early hardware hiccups that raise eyebrows. Also, a PHP bug threatens 70% of the world’s websites while AI rapidly changes how exploits are found and patched. Find out how a single overlooked flaw sparked a global scramble and what it reveals about the fragile backbone of the modern web.</p><ul><li>iPhone Duo review</li><li>GM outlines plan for next-gen EV platform, Level 4 autonomous cars</li><li>TechCrunch Mobility: Blue-green is the color of autonomy (NHTSA proposes cyan AV lights)</li><li>Spotify launches its first native in-car app, on Audi’s Android Automotive cars</li><li>Hackers Exploited the PHP Vulnerabilities Days Before They Were Patched</li><li>The non-gamer CEO racing to save Microsoft’s Xbox</li><li>Saudis Aided Family of Engineer Accused of Bugging OpenAI, Prosecutors Say</li><li>How iTunes came back from the dead</li></ul>
+<h3>Links</h3>
+<ul>
+<li><a href="https://www.theverge.com/tech/1015028/iphone-duo-review" rel="nofollow" target="_blank">The iPhone Duo is a messy, expensive good time</a></li>
+<li><a href="https://driving.ca/auto-news/technology-news/gm-forward-general-motors-ev-platform-batteries-autonomous-cars-lmr" rel="nofollow" target="_blank">GM outlines plan for next-gen EV platform, Level 4 autonomous cars</a></li>
+<li><a href="https://techcrunch.com/2026/10/25/techcrunch-mobility-blue-green-is-the-color-of-autonomy/" rel="nofollow" target="_blank">TechCrunch Mobility: Blue-green is the color of autonomy (NHTSA proposes cyan AV lights)</a></li>
+<li><a href="https://www.theverge.com/entertainment/1014261/spotify-native-car-app-audi-android-automotive-carplay" rel="nofollow" target="_blank">Spotify launches its first native in-car app, on Audi’s Android Automotive cars</a></li>
+<li><a href="https://www.wired.com/story/hackers-exploited-the-php-vulnerabilities-days-before-they-were-patched/" rel="nofollow" target="_blank">Hackers Exploited the PHP Vulnerabilities Days Before They Were Patched</a></li>
+<li><a href="https://fortune.com/2026/10/20/the-non-gamer-ceo-racing-to-save-microsofts-xbox/" rel="nofollow" target="_blank">The non-gamer CEO racing to save Microsoft’s Xbox</a></li>
+<li><a href="https://www.nytimes.com/2026/10/19/technology/saudis-aided-family-openai-engineer.html" rel="nofollow" target="_blank">Saudis Aided Family of Engineer Accused of Bugging OpenAI, Prosecutors Say</a></li>
+<li><a href="https://www.ft.com/content/5a21a7fe-3929-4e11-b571-8ce4bfd778ec" rel="nofollow" target="_blank">How iTunes came back from the dead</a></li>
+</ul>]]></content:encoded>
+  </item>
   <item>
     <title>1106: The 10-Day Reply Guy</title>
     <itunes:title>The 10-Day Reply Guy</itunes:title>
@@ -30,7 +72,7 @@
     <guid isPermaLink="false">twit-archive-ep-1106</guid>
     <link>https://twit.tv/shows/this-week-in-tech/episodes/1106</link>
     <pubDate>Mon, 19 Oct 2026 01:43:13 +0000</pubDate>
-    <enclosure url="https://cdn.twit.tv/cap/twit_1106/6f13c6bc-2078-4c73-a5b7-d32909292336.mp3" length="165838260" type="audio/mpeg"/>
+    <enclosure url="https://cdn.twit.tv/cap/twit_1106/6f13c6bc-2078-4c73-a5b7-d32909292336.mp3" length="164410095" type="audio/mpeg"/>
     <itunes:duration>2:51:15</itunes:duration>
     <itunes:image href="https://elroy.twit.tv/sites/default/files/images/episodes/2026/10/863421/hero/TWIT1106_thumbnail.jpg"/>
     <itunes:author>Leo Laporte</itunes:author>
@@ -78,7 +120,7 @@
     <guid isPermaLink="false">twit-archive-ep-1105</guid>
     <link>https://twit.tv/shows/this-week-in-tech/episodes/1105</link>
     <pubDate>Mon, 12 Oct 2026 04:00:00 +0000</pubDate>
-    <enclosure url="https://cdn.twit.tv/cap/twit_1105/4abd3831-5d83-4c6e-9c2e-8b287dc0e3ee.mp3" length="167887934" type="audio/mpeg"/>
+    <enclosure url="https://cdn.twit.tv/cap/twit_1105/4abd3831-5d83-4c6e-9c2e-8b287dc0e3ee.mp3" length="166925792" type="audio/mpeg"/>
     <itunes:duration>2:53:52</itunes:duration>
     <itunes:image href="https://elroy.twit.tv/sites/default/files/images/episodes/2026/10/863346/hero/TWIT1105_thumbnail.jpg"/>
     <itunes:author>Leo Laporte</itunes:author>
@@ -152,7 +194,7 @@
     <guid isPermaLink="false">twit-archive-ep-1104</guid>
     <link>https://twit.tv/shows/this-week-in-tech/episodes/1104</link>
     <pubDate>Mon, 05 Oct 2026 04:45:00 +0000</pubDate>
-    <enclosure url="https://cdn.twit.tv/cap/twit_1104/b1e10584-ef12-4a62-be38-36b46710da62.mp3" length="170796093" type="audio/mpeg"/>
+    <enclosure url="https://cdn.twit.tv/cap/twit_1104/b1e10584-ef12-4a62-be38-36b46710da62.mp3" length="169351627" type="audio/mpeg"/>
     <itunes:duration>2:56:24</itunes:duration>
     <itunes:image href="https://elroy.twit.tv/sites/default/files/images/episodes/2026/10/863264/hero/TWIT1104_thumbnail.jpg"/>
     <itunes:author>Leo Laporte</itunes:author>
@@ -218,7 +260,7 @@
     <guid isPermaLink="false">twit-archive-ep-1103</guid>
     <link>https://twit.tv/shows/this-week-in-tech/episodes/1103</link>
     <pubDate>Mon, 28 Sep 2026 00:58:47 +0000</pubDate>
-    <enclosure url="https://cdn.twit.tv/cap/twit_1103/effbddb8-df68-4c78-b695-12613e560854.mp3" length="180002898" type="audio/mpeg"/>
+    <enclosure url="https://cdn.twit.tv/cap/twit_1103/effbddb8-df68-4c78-b695-12613e560854.mp3" length="179520574" type="audio/mpeg"/>
     <itunes:duration>3:05:59</itunes:duration>
     <itunes:image href="https://elroy.twit.tv/sites/default/files/images/episodes/2026/09/863166/hero/TWIT1103_thumbnail.jpg"/>
     <itunes:author>Leo Laporte</itunes:author>
