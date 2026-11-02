@@ -19,9 +19,59 @@
   <itunes:owner>
     <itunes:name>This Week in Tech Archive</itunes:name>
   </itunes:owner>
-  <lastBuildDate>Mon, 26 Oct 2026 20:30:26 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 02 Nov 2026 23:07:31 +0000</lastBuildDate>
   <generator>twit-archive</generator>
   <atom:link href="https://kyerussell.github.io/twit-archive/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>1108: Bad AI Vibes</title>
+    <itunes:title>Bad AI Vibes</itunes:title>
+    <itunes:episode>1108</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <guid isPermaLink="false">twit-archive-ep-1108</guid>
+    <link>https://twit.tv/shows/this-week-in-tech/episodes/1108</link>
+    <pubDate>Mon, 02 Nov 2026 03:23:52 +0000</pubDate>
+    <enclosure url="https://cdn.twit.tv/cap/twit_1108/c27552c3-e7b7-44d7-8370-f95d5f735f2a.mp3" length="158516033" type="audio/mpeg"/>
+    <itunes:duration>2:44:06</itunes:duration>
+    <itunes:image href="https://elroy.twit.tv/sites/default/files/images/episodes/2026/11/863590/hero/TWIT1108_thumbnail.jpg"/>
+    <itunes:author>Leo Laporte</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:subtitle>Why Tech Leaders Miss the Mark on AI’s Real Impact</itunes:subtitle>
+    <itunes:summary><![CDATA[Why Tech Leaders Miss the Mark on AI’s Real Impact]]></itunes:summary>
+    <description><![CDATA[<p><strong>Guests:</strong> Anthony Ha, Paris Marx</p>
+<p>Are we headed for a slow-motion collapse of the AI bubble, or is this just the next phase of tech’s endless hype cycle? The panel digs into Apple’s hardware bets, the latest in self-driving cars, and what a more human-centered tech future might look like.</p><ul><li>Binance says 90% of its $6.3 billion hack losses are now covered</li><li>FBI says North Korea was responsible for the Binance hack</li><li>Apple unveils its first touchscreen laptop: The MacBook Pro with PROLED XDR Display</li><li>Sam Altman says its "quite terrible" for your PCs to have RAM, because of course datacenters need it more</li><li>AI execs may be too out of touch to build for the general public</li><li>Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says</li><li>Chinese Executive Close to Nvidia CEO Suspected of Giving China Information</li><li>The Internet Might Need to Be Rebuilt From Scratch</li><li>Doordash to acquire Instacart for $17B</li><li>Grok releases seven minutes of its AI Odyssey</li><li>Meta built a humanoid robot, but it's only for internal research</li><li>RIP Patrick Stewart</li></ul>
+<h3>Links</h3>
+<ul>
+<li><a href="https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html" rel="nofollow" target="_blank">Binance says 90% of its $6.3 billion hack losses are now covered</a></li>
+<li><a href="https://www.fbi.gov/investigate/cyber/alerts/2026/north-korea-responsible-for-6-billion-binance-attack" rel="nofollow" target="_blank">FBI says North Korea was responsible for the Binance hack</a></li>
+<li><a href="https://www.engadget.com/2299925/apples-redesigned-macbook-pro-has-an-oled-touchscreen-weighs-just-three-pounds/" rel="nofollow" target="_blank">Apple unveils its first touchscreen laptop: The MacBook Pro with PROLED XDR Display</a></li>
+<li><a href="https://www.tomshardware.com/tech-industry/data-centers/openai-ceo-says-its-quite-terrible-for-your-pc-to-have-ram-sam-altman-says-data-centers-offer-better-utilization" rel="nofollow" target="_blank">Sam Altman says its "quite terrible" for your PCs to have RAM, because of course datacenters need it more</a></li>
+<li><a href="https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/" rel="nofollow" target="_blank">AI execs may be too out of touch to build for the general public</a></li>
+<li><a href="https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/" rel="nofollow" target="_blank">Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says</a></li>
+<li><a href="https://www.nytimes.com/2026/10/29/us/politics/nvidia-china-jensen-huang-trump.html" rel="nofollow" target="_blank">Chinese Executive Close to Nvidia CEO Suspected of Giving China Information</a></li>
+<li><a href="https://www.theatlantic.com/podcasts/2026/10/is-it-time-to-rebuild-the-internet/689218" rel="nofollow" target="_blank">The Internet Might Need to Be Rebuilt From Scratch</a></li>
+<li><a href="https://techcrunch.com/2026/10/29/doordash-to-acquire-instacart-for-17b/" rel="nofollow" target="_blank">Doordash to acquire Instacart for $17B</a></li>
+<li><a href="https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/" rel="nofollow" target="_blank">Grok releases seven minutes of its AI Odyssey</a></li>
+<li><a href="https://uk.finance.yahoo.com/news/meta-builds-humanoid-robot-china-180010281.html" rel="nofollow" target="_blank">Meta built a humanoid robot, but it's only for internal research</a></li>
+<li><a href="https://variety.com/2026/tv/columns/patrick-stewart-changed-genre-acting-star-trek-x-men-1236935337/" rel="nofollow" target="_blank">RIP Patrick Stewart</a></li>
+</ul>]]></description>
+    <content:encoded><![CDATA[<p><strong>Guests:</strong> Anthony Ha, Paris Marx</p>
+<p>Are we headed for a slow-motion collapse of the AI bubble, or is this just the next phase of tech’s endless hype cycle? The panel digs into Apple’s hardware bets, the latest in self-driving cars, and what a more human-centered tech future might look like.</p><ul><li>Binance says 90% of its $6.3 billion hack losses are now covered</li><li>FBI says North Korea was responsible for the Binance hack</li><li>Apple unveils its first touchscreen laptop: The MacBook Pro with PROLED XDR Display</li><li>Sam Altman says its "quite terrible" for your PCs to have RAM, because of course datacenters need it more</li><li>AI execs may be too out of touch to build for the general public</li><li>Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says</li><li>Chinese Executive Close to Nvidia CEO Suspected of Giving China Information</li><li>The Internet Might Need to Be Rebuilt From Scratch</li><li>Doordash to acquire Instacart for $17B</li><li>Grok releases seven minutes of its AI Odyssey</li><li>Meta built a humanoid robot, but it's only for internal research</li><li>RIP Patrick Stewart</li></ul>
+<h3>Links</h3>
+<ul>
+<li><a href="https://www.cnbc.com/2026/10/31/binance-hack-asset-coverage-withdrawals.html" rel="nofollow" target="_blank">Binance says 90% of its $6.3 billion hack losses are now covered</a></li>
+<li><a href="https://www.fbi.gov/investigate/cyber/alerts/2026/north-korea-responsible-for-6-billion-binance-attack" rel="nofollow" target="_blank">FBI says North Korea was responsible for the Binance hack</a></li>
+<li><a href="https://www.engadget.com/2299925/apples-redesigned-macbook-pro-has-an-oled-touchscreen-weighs-just-three-pounds/" rel="nofollow" target="_blank">Apple unveils its first touchscreen laptop: The MacBook Pro with PROLED XDR Display</a></li>
+<li><a href="https://www.tomshardware.com/tech-industry/data-centers/openai-ceo-says-its-quite-terrible-for-your-pc-to-have-ram-sam-altman-says-data-centers-offer-better-utilization" rel="nofollow" target="_blank">Sam Altman says its "quite terrible" for your PCs to have RAM, because of course datacenters need it more</a></li>
+<li><a href="https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/" rel="nofollow" target="_blank">AI execs may be too out of touch to build for the general public</a></li>
+<li><a href="https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/" rel="nofollow" target="_blank">Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says</a></li>
+<li><a href="https://www.nytimes.com/2026/10/29/us/politics/nvidia-china-jensen-huang-trump.html" rel="nofollow" target="_blank">Chinese Executive Close to Nvidia CEO Suspected of Giving China Information</a></li>
+<li><a href="https://www.theatlantic.com/podcasts/2026/10/is-it-time-to-rebuild-the-internet/689218" rel="nofollow" target="_blank">The Internet Might Need to Be Rebuilt From Scratch</a></li>
+<li><a href="https://techcrunch.com/2026/10/29/doordash-to-acquire-instacart-for-17b/" rel="nofollow" target="_blank">Doordash to acquire Instacart for $17B</a></li>
+<li><a href="https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/" rel="nofollow" target="_blank">Grok releases seven minutes of its AI Odyssey</a></li>
+<li><a href="https://uk.finance.yahoo.com/news/meta-builds-humanoid-robot-china-180010281.html" rel="nofollow" target="_blank">Meta built a humanoid robot, but it's only for internal research</a></li>
+<li><a href="https://variety.com/2026/tv/columns/patrick-stewart-changed-genre-acting-star-trek-x-men-1236935337/" rel="nofollow" target="_blank">RIP Patrick Stewart</a></li>
+</ul>]]></content:encoded>
+  </item>
   <item>
     <title>1107: Spicy Hinges</title>
     <itunes:title>Spicy Hinges</itunes:title>
@@ -72,7 +122,7 @@
     <guid isPermaLink="false">twit-archive-ep-1106</guid>
     <link>https://twit.tv/shows/this-week-in-tech/episodes/1106</link>
     <pubDate>Mon, 19 Oct 2026 01:43:13 +0000</pubDate>
-    <enclosure url="https://cdn.twit.tv/cap/twit_1106/6f13c6bc-2078-4c73-a5b7-d32909292336.mp3" length="164410095" type="audio/mpeg"/>
+    <enclosure url="https://cdn.twit.tv/cap/twit_1106/6f13c6bc-2078-4c73-a5b7-d32909292336.mp3" length="165374743" type="audio/mpeg"/>
     <itunes:duration>2:51:15</itunes:duration>
     <itunes:image href="https://elroy.twit.tv/sites/default/files/images/episodes/2026/10/863421/hero/TWIT1106_thumbnail.jpg"/>
     <itunes:author>Leo Laporte</itunes:author>
@@ -120,7 +170,7 @@
     <guid isPermaLink="false">twit-archive-ep-1105</guid>
     <link>https://twit.tv/shows/this-week-in-tech/episodes/1105</link>
     <pubDate>Mon, 12 Oct 2026 04:00:00 +0000</pubDate>
-    <enclosure url="https://cdn.twit.tv/cap/twit_1105/4abd3831-5d83-4c6e-9c2e-8b287dc0e3ee.mp3" length="166925792" type="audio/mpeg"/>
+    <enclosure url="https://cdn.twit.tv/cap/twit_1105/4abd3831-5d83-4c6e-9c2e-8b287dc0e3ee.mp3" length="167408116" type="audio/mpeg"/>
     <itunes:duration>2:53:52</itunes:duration>
     <itunes:image href="https://elroy.twit.tv/sites/default/files/images/episodes/2026/10/863346/hero/TWIT1105_thumbnail.jpg"/>
     <itunes:author>Leo Laporte</itunes:author>
@@ -194,7 +244,7 @@
     <guid isPermaLink="false">twit-archive-ep-1104</guid>
     <link>https://twit.tv/shows/this-week-in-tech/episodes/1104</link>
     <pubDate>Mon, 05 Oct 2026 04:45:00 +0000</pubDate>
-    <enclosure url="https://cdn.twit.tv/cap/twit_1104/b1e10584-ef12-4a62-be38-36b46710da62.mp3" length="169351627" type="audio/mpeg"/>
+    <enclosure url="https://cdn.twit.tv/cap/twit_1104/b1e10584-ef12-4a62-be38-36b46710da62.mp3" length="169833951" type="audio/mpeg"/>
     <itunes:duration>2:56:24</itunes:duration>
     <itunes:image href="https://elroy.twit.tv/sites/default/files/images/episodes/2026/10/863264/hero/TWIT1104_thumbnail.jpg"/>
     <itunes:author>Leo Laporte</itunes:author>
