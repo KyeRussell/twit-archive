@@ -19,9 +19,59 @@
   <itunes:owner>
     <itunes:name>This Week in Tech Archive</itunes:name>
   </itunes:owner>
-  <lastBuildDate>Mon, 02 Nov 2026 23:07:31 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 09 Nov 2026 23:46:52 +0000</lastBuildDate>
   <generator>twit-archive</generator>
   <atom:link href="https://kyerussell.github.io/twit-archive/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>1109: Looks Like a Fish, Steers Like a Cow</title>
+    <itunes:title>Looks Like a Fish, Steers Like a Cow</itunes:title>
+    <itunes:episode>1109</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <guid isPermaLink="false">twit-archive-ep-1109</guid>
+    <link>https://twit.tv/shows/this-week-in-tech/episodes/1109</link>
+    <pubDate>Mon, 09 Nov 2026 04:31:08 +0000</pubDate>
+    <enclosure url="https://cdn.twit.tv/cap/twit_1109/f791a2ee-dbac-48db-86f2-bfa67b37bfed.mp3" length="200646738" type="audio/mpeg"/>
+    <itunes:duration>3:28:30</itunes:duration>
+    <itunes:image href="https://elroy.twit.tv/sites/default/files/images/episodes/2026/11/863669/hero/TWIT1109_thumbnail.jpg"/>
+    <itunes:author>Leo Laporte</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:subtitle>The Voter Tsunami Against Local Data Centers</itunes:subtitle>
+    <itunes:summary><![CDATA[The Voter Tsunami Against Local Data Centers]]></itunes:summary>
+    <description><![CDATA[<p><strong>Guests:</strong> Allyn Malventano, Iain Thomson, David Hewlett</p>
+<p>NVIDIA's CEO is caught in a honeypot scandal with global AI power plays hanging in the balance, just as data centers come under fire from both voters and lawmakers across the US. From the abrupt end of the Tesla Cybertruck to hackers weaponizing smart fridges, this week’s episode dives into the messy, hilarious, and sometimes alarming ways future tech is colliding with real-world consequences.</p><p>• Tesla Cybertruck canned after recalls, plunging sales, and controversy<br/>• Remembering Aaron Swartz and the ethics of open access<br/>• Academic journals, research paywalls, and access challenges<br/>• Voters across US reject data centers in local elections<br/>• Apple debuts pricey OLED touchscreen MacBook Pros <br/>• BYD, Chinese cars, and the end of US auto dominance<br/>• France’s top literary prize rocked by AI-assisted novel controversy<br/>• NVIDIA CEO ensnared in alleged Chinese intelligence honeypot probe<br/>• Data center power demands spark silent vs noisy turbine debate<br/>• Global refrigerator hacks spoil food, expose IoT vulnerabilities<br/>• FAA finally ditches floppy disks for national air traffic control<br/>• Allyn's rig and Padre's Fanttik Cafein 11 Portable Coffee Maker! <a href="https://link.amazon/B0gOz4i8Z">https://link.amazon/B0gOz4i8Z</a> (affiliate link)</p>
+<h3>Links</h3>
+<ul>
+<li><a href="https://www.wired.com/story/rip-cybertruck-you-were-unloved-unwanted-and-utterly-absurd/" rel="nofollow" target="_blank">Pour one out for the Cybertruck</a></li>
+<li><a href="https://www.eff.org/deeplinks/2026/11/join-eff-celebrate-life-aaron-swartz" rel="nofollow" target="_blank">A REAL pour-it-out moment for someone who tried do do something right - Aaron Swartz would have been 40 today</a></li>
+<li><a href="https://www.zooniverse.org/projects/bmerin/planet-hunters-cheops" rel="nofollow" target="_blank">Geek out with the Planet Hunters</a></li>
+<li><a href="https://ballotpedia.org/Data_center-related_ballot_measures,_2026" rel="nofollow" target="_blank">2026 has NOT been a good year for Data Centers are the Ballot Box</a></li>
+<li><a href="https://www.whitehouse.gov/presidential-actions/2025/07/accelerating-federal-permitting-of-data-center-infrastructure/" rel="nofollow" target="_blank">The Federal Permitting of Data Center Infrastructure</a></li>
+<li><a href="https://9to5mac.com/2026/11/05/macbook-pro-with-proled-xdr-display-touch-review/" rel="nofollow" target="_blank">Apple has a new MacBook Pro!</a></li>
+<li><a href="https://www.theguardian.com/books/2026/nov/05/winner-of-the-prix-goncourt-literary-prize-admits-to-using-ai-philippe-jaenada" rel="nofollow" target="_blank">Winner of the Prix Goncourt literary prize admits to using AI</a></li>
+<li><a href="https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-admits-affair-board-to-launch-investigation" rel="nofollow" target="_blank">NVIDIA agrees to cooperate with probe of Jensen Huang's relationship with Chinese Spy</a></li>
+<li><a href="https://www.msn.com/en-us/money/general/ai-data-centers-are-burning-gas-in-converted-jet-engines-while-they-wait-years-for-grid-power/ar-AA2gXIg9?ocid=msedgntp&amp;pc=U531&amp;cvid=6af05873cb1448f0ad68d60640f0a96e&amp;ei=13" rel="nofollow" target="_blank">DCs use Old Jet Engines for Power</a></li>
+<li><a href="https://www.theguardian.com/technology/2026/nov/02/europe-supermarket-fridges-freezers-who-hacking-why" rel="nofollow" target="_blank">Hackers are remotely destroying foodstocks by turning up the heat on Internet-connected refrigerators</a></li>
+<li><a href="https://www.nytimes.com/2026/11/06/us/faa-floppy-disks-atc-2028.html" rel="nofollow" target="_blank">F.A.A. to Phase Out Floppy Disks in Air Traffic Control Towers</a></li>
+<li><a href="https://link.amazon/B0gOz4i8Z" rel="nofollow" target="_blank">The Fanttik Cafein 11 Portable Coffee Maker (affiliate)</a></li>
+</ul>]]></description>
+    <content:encoded><![CDATA[<p><strong>Guests:</strong> Allyn Malventano, Iain Thomson, David Hewlett</p>
+<p>NVIDIA's CEO is caught in a honeypot scandal with global AI power plays hanging in the balance, just as data centers come under fire from both voters and lawmakers across the US. From the abrupt end of the Tesla Cybertruck to hackers weaponizing smart fridges, this week’s episode dives into the messy, hilarious, and sometimes alarming ways future tech is colliding with real-world consequences.</p><p>• Tesla Cybertruck canned after recalls, plunging sales, and controversy<br/>• Remembering Aaron Swartz and the ethics of open access<br/>• Academic journals, research paywalls, and access challenges<br/>• Voters across US reject data centers in local elections<br/>• Apple debuts pricey OLED touchscreen MacBook Pros <br/>• BYD, Chinese cars, and the end of US auto dominance<br/>• France’s top literary prize rocked by AI-assisted novel controversy<br/>• NVIDIA CEO ensnared in alleged Chinese intelligence honeypot probe<br/>• Data center power demands spark silent vs noisy turbine debate<br/>• Global refrigerator hacks spoil food, expose IoT vulnerabilities<br/>• FAA finally ditches floppy disks for national air traffic control<br/>• Allyn's rig and Padre's Fanttik Cafein 11 Portable Coffee Maker! <a href="https://link.amazon/B0gOz4i8Z">https://link.amazon/B0gOz4i8Z</a> (affiliate link)</p>
+<h3>Links</h3>
+<ul>
+<li><a href="https://www.wired.com/story/rip-cybertruck-you-were-unloved-unwanted-and-utterly-absurd/" rel="nofollow" target="_blank">Pour one out for the Cybertruck</a></li>
+<li><a href="https://www.eff.org/deeplinks/2026/11/join-eff-celebrate-life-aaron-swartz" rel="nofollow" target="_blank">A REAL pour-it-out moment for someone who tried do do something right - Aaron Swartz would have been 40 today</a></li>
+<li><a href="https://www.zooniverse.org/projects/bmerin/planet-hunters-cheops" rel="nofollow" target="_blank">Geek out with the Planet Hunters</a></li>
+<li><a href="https://ballotpedia.org/Data_center-related_ballot_measures,_2026" rel="nofollow" target="_blank">2026 has NOT been a good year for Data Centers are the Ballot Box</a></li>
+<li><a href="https://www.whitehouse.gov/presidential-actions/2025/07/accelerating-federal-permitting-of-data-center-infrastructure/" rel="nofollow" target="_blank">The Federal Permitting of Data Center Infrastructure</a></li>
+<li><a href="https://9to5mac.com/2026/11/05/macbook-pro-with-proled-xdr-display-touch-review/" rel="nofollow" target="_blank">Apple has a new MacBook Pro!</a></li>
+<li><a href="https://www.theguardian.com/books/2026/nov/05/winner-of-the-prix-goncourt-literary-prize-admits-to-using-ai-philippe-jaenada" rel="nofollow" target="_blank">Winner of the Prix Goncourt literary prize admits to using AI</a></li>
+<li><a href="https://www.axios.com/2026/11/08/nvidia-ceo-jensen-huang-admits-affair-board-to-launch-investigation" rel="nofollow" target="_blank">NVIDIA agrees to cooperate with probe of Jensen Huang's relationship with Chinese Spy</a></li>
+<li><a href="https://www.msn.com/en-us/money/general/ai-data-centers-are-burning-gas-in-converted-jet-engines-while-they-wait-years-for-grid-power/ar-AA2gXIg9?ocid=msedgntp&amp;pc=U531&amp;cvid=6af05873cb1448f0ad68d60640f0a96e&amp;ei=13" rel="nofollow" target="_blank">DCs use Old Jet Engines for Power</a></li>
+<li><a href="https://www.theguardian.com/technology/2026/nov/02/europe-supermarket-fridges-freezers-who-hacking-why" rel="nofollow" target="_blank">Hackers are remotely destroying foodstocks by turning up the heat on Internet-connected refrigerators</a></li>
+<li><a href="https://www.nytimes.com/2026/11/06/us/faa-floppy-disks-atc-2028.html" rel="nofollow" target="_blank">F.A.A. to Phase Out Floppy Disks in Air Traffic Control Towers</a></li>
+<li><a href="https://link.amazon/B0gOz4i8Z" rel="nofollow" target="_blank">The Fanttik Cafein 11 Portable Coffee Maker (affiliate)</a></li>
+</ul>]]></content:encoded>
+  </item>
   <item>
     <title>1108: Bad AI Vibes</title>
     <itunes:title>Bad AI Vibes</itunes:title>
@@ -30,7 +80,7 @@
     <guid isPermaLink="false">twit-archive-ep-1108</guid>
     <link>https://twit.tv/shows/this-week-in-tech/episodes/1108</link>
     <pubDate>Mon, 02 Nov 2026 03:23:52 +0000</pubDate>
-    <enclosure url="https://cdn.twit.tv/cap/twit_1108/c27552c3-e7b7-44d7-8370-f95d5f735f2a.mp3" length="158516033" type="audio/mpeg"/>
+    <enclosure url="https://cdn.twit.tv/cap/twit_1108/c27552c3-e7b7-44d7-8370-f95d5f735f2a.mp3" length="158033709" type="audio/mpeg"/>
     <itunes:duration>2:44:06</itunes:duration>
     <itunes:image href="https://elroy.twit.tv/sites/default/files/images/episodes/2026/11/863590/hero/TWIT1108_thumbnail.jpg"/>
     <itunes:author>Leo Laporte</itunes:author>
@@ -80,7 +130,7 @@
     <guid isPermaLink="false">twit-archive-ep-1107</guid>
     <link>https://twit.tv/shows/this-week-in-tech/episodes/1107</link>
     <pubDate>Sun, 25 Oct 2026 23:36:03 +0000</pubDate>
-    <enclosure url="https://cdn.twit.tv/cap/twit_1107/4f9eb121-7d4b-49b0-b2f6-b4a07e248418.mp3" length="157744585" type="audio/mpeg"/>
+    <enclosure url="https://cdn.twit.tv/cap/twit_1107/4f9eb121-7d4b-49b0-b2f6-b4a07e248418.mp3" length="157520875" type="audio/mpeg"/>
     <itunes:duration>2:44:04</itunes:duration>
     <itunes:image href="https://elroy.twit.tv/sites/default/files/images/episodes/2026/10/863507/hero/TWIT1107_thumbnail.jpg"/>
     <itunes:author>Leo Laporte</itunes:author>
