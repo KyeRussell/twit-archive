@@ -19,9 +19,67 @@
   <itunes:owner>
     <itunes:name>This Week in Tech Archive</itunes:name>
   </itunes:owner>
-  <lastBuildDate>Mon, 09 Nov 2026 23:46:52 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 16 Nov 2026 23:44:58 +0000</lastBuildDate>
   <generator>twit-archive</generator>
   <atom:link href="https://kyerussell.github.io/twit-archive/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>1110: High-End Electronic Drumkits</title>
+    <itunes:title>High-End Electronic Drumkits</itunes:title>
+    <itunes:episode>1110</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <guid isPermaLink="false">twit-archive-ep-1110</guid>
+    <link>https://twit.tv/shows/this-week-in-tech/episodes/1110</link>
+    <pubDate>Mon, 16 Nov 2026 02:22:07 +0000</pubDate>
+    <enclosure url="https://cdn.twit.tv/cap/twit_1110/04b03f4d-296d-4181-b174-7b2572ad04e5.mp3" length="163026231" type="audio/mpeg"/>
+    <itunes:duration>2:47:18</itunes:duration>
+    <itunes:image href="https://elroy.twit.tv/sites/default/files/images/episodes/2026/11/863756/hero/TWIT1110_thumbnail.jpg"/>
+    <itunes:author>Leo Laporte</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:subtitle>Air Traffic Control &amp;amp; Microsoft 365 Issues Halt the US</itunes:subtitle>
+    <itunes:summary><![CDATA[Air Traffic Control &amp; Microsoft 365 Issues Halt the US]]></itunes:summary>
+    <description><![CDATA[<p><strong>Guests:</strong> Harper Reed, Molly White, Patrick Beja</p>
+<p>A nationwide FAA ground halt and a global Microsoft 365 outage reveal just how fragile our high-tech infrastructure has become, with finger-pointing, conflicting explanations, and real questions about how close we are to a true digital meltdown. Plus, NVIDIA CEO Jensen Huang is out after a string of explosive revelations, shaking the foundations of the world’s hottest AI chip company!</p><ul><li>FAA Grounds All US Flights Until Further Notice</li><li>FBI Said to Probe Whether Software Update Caused Mass FAA Outage</li><li>Is Outlook down? Widespread outage hits Microsoft email and other apps</li><li>The Fridge-Hacking Spree Is an Internet-of-Things Wake-Up Call</li><li>NVIDIA CEO Jensen Huang has resigned</li><li>‘Bring Back THE Boss’: Nvidia Employees Petition for Jensen Huang’s Return</li><li>Hachikō | Animated Short Film | Utopai Studios</li><li>Fable 5.2 and Jagged AGI</li><li>Anthropic's Fable 5.2 completes 41 percent of real freelance jobs, up from 2.5 percent a year ago</li><li>The next Governor of Alaska was a very active Wikipedia user</li><li>North Korea hacks Binance for around $6.3 billion, some frozen</li><li>When the Boss on the Phone Isn’t Real: How More Than $129 Million Was Stolen Using A.I.</li><li>North Korean hackers steal more than $400 million using video images, FBI says</li><li>Pluralistic: I told you so </li><li>Judge Refuses to Dismiss DRAM Supply Conspiracy Suit Against Samsung, SK Hynix, Micron</li></ul>
+<h3>Links</h3>
+<ul>
+<li><a href="https://www.wired.com/story/faa-grounds-all-us-flights-until-further-notice" rel="nofollow" target="_blank">FAA Grounds All US Flights Until Further Notice</a></li>
+<li><a href="https://www.bloomberg.com/news/articles/2026-11-13/fbi-said-to-probe-whether-software-update-caused-mass-faa-outage" rel="nofollow" target="_blank">FBI Said to Probe Whether Software Update Caused Mass FAA Outage</a></li>
+<li><a href="https://x.com/EvanHandler/status/2121763644992328004" rel="nofollow" target="_blank">Evan Handler on X</a></li>
+<li><a href="https://www.npr.org/2026/11/12/nx-s1-6039343/is-outlook-down-widespread-outage-hits-microsoft-email-and-other-apps" rel="nofollow" target="_blank">Is Outlook down? Widespread outage hits Microsoft email and other apps</a></li>
+<li><a href="https://arstechnica.com/gadgets/2026/11/ceo-jensen-huangs-job-is-suddenly-on-the-line-at-nvidia" rel="nofollow" target="_blank">Nvidia CEO Jensen Huang has resigned</a></li>
+<li><a href="https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/" rel="nofollow" target="_blank">‘Bring Back THE Boss’: Nvidia Employees Petition for Jensen Huang’s Return</a></li>
+<li><a href="https://www.wired.com/story/kernel-panic-refrigeration-hacks-internet-of-things/" rel="nofollow" target="_blank">The Fridge-Hacking Spree Is an Internet-of-Things Wake-Up Call</a></li>
+<li><a href="https://www.nytimes.com/2026/11/08/business/ai-ceo-impersonation-theft.html" rel="nofollow" target="_blank">When the Boss on the Phone Isn’t Real: How More Than $129 Million Was Stolen Using A.I.</a></li>
+<li><a href="https://www.reuters.com/world/asia-pacific/north-korean-hackers-steal-more-than-400-million-using-video-images-fbi-says-2026-11-12/" rel="nofollow" target="_blank">North Korean hackers steal more than $400 million using video images, FBI says</a></li>
+<li><a href="https://pluralistic.net/2026/11/13/outlookpocalypse/" rel="nofollow" target="_blank">Pluralistic: I told you so (13 Nov 2026</a></li>
+<li><a href="https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal" rel="nofollow" target="_blank">Judge Refuses to Dismiss DRAM Supply Conspiracy Suit Against Samsung, SK Hynix, Micron</a></li>
+<li><a href="https://www.oneusefulthing.org/p/fable-52-and-jagged-agi" rel="nofollow" target="_blank">Fable 5.2 and Jagged AGI</a></li>
+<li><a href="https://the-decoder.com/anthropics-fable-5-2-completes-41-percent-of-real-freelance-jobs-up-from-2-5-percent-a-year-ago/" rel="nofollow" target="_blank">Anthropic's Fable 5.2 completes 41 percent of real freelance jobs, up from 2.5 percent a year ago</a></li>
+<li><a href="https://bsky.app/profile/alexip718.com/post/3n2dkqa2gts2i" rel="nofollow" target="_blank">The next Governor of Alaska was a very active Wikipedia user</a></li>
+<li><a href="https://www.youtube.com/watch?v=VHVt02lIbxQ" rel="nofollow" target="_blank">Hachikō | Animated Short Film | Utopai Studios</a></li>
+<li><a href="https://www.web3isgoinggreat.com/" rel="nofollow" target="_blank">North Korea hacks Binance for around $6.3 billion, some frozen</a></li>
+</ul>]]></description>
+    <content:encoded><![CDATA[<p><strong>Guests:</strong> Harper Reed, Molly White, Patrick Beja</p>
+<p>A nationwide FAA ground halt and a global Microsoft 365 outage reveal just how fragile our high-tech infrastructure has become, with finger-pointing, conflicting explanations, and real questions about how close we are to a true digital meltdown. Plus, NVIDIA CEO Jensen Huang is out after a string of explosive revelations, shaking the foundations of the world’s hottest AI chip company!</p><ul><li>FAA Grounds All US Flights Until Further Notice</li><li>FBI Said to Probe Whether Software Update Caused Mass FAA Outage</li><li>Is Outlook down? Widespread outage hits Microsoft email and other apps</li><li>The Fridge-Hacking Spree Is an Internet-of-Things Wake-Up Call</li><li>NVIDIA CEO Jensen Huang has resigned</li><li>‘Bring Back THE Boss’: Nvidia Employees Petition for Jensen Huang’s Return</li><li>Hachikō | Animated Short Film | Utopai Studios</li><li>Fable 5.2 and Jagged AGI</li><li>Anthropic's Fable 5.2 completes 41 percent of real freelance jobs, up from 2.5 percent a year ago</li><li>The next Governor of Alaska was a very active Wikipedia user</li><li>North Korea hacks Binance for around $6.3 billion, some frozen</li><li>When the Boss on the Phone Isn’t Real: How More Than $129 Million Was Stolen Using A.I.</li><li>North Korean hackers steal more than $400 million using video images, FBI says</li><li>Pluralistic: I told you so </li><li>Judge Refuses to Dismiss DRAM Supply Conspiracy Suit Against Samsung, SK Hynix, Micron</li></ul>
+<h3>Links</h3>
+<ul>
+<li><a href="https://www.wired.com/story/faa-grounds-all-us-flights-until-further-notice" rel="nofollow" target="_blank">FAA Grounds All US Flights Until Further Notice</a></li>
+<li><a href="https://www.bloomberg.com/news/articles/2026-11-13/fbi-said-to-probe-whether-software-update-caused-mass-faa-outage" rel="nofollow" target="_blank">FBI Said to Probe Whether Software Update Caused Mass FAA Outage</a></li>
+<li><a href="https://x.com/EvanHandler/status/2121763644992328004" rel="nofollow" target="_blank">Evan Handler on X</a></li>
+<li><a href="https://www.npr.org/2026/11/12/nx-s1-6039343/is-outlook-down-widespread-outage-hits-microsoft-email-and-other-apps" rel="nofollow" target="_blank">Is Outlook down? Widespread outage hits Microsoft email and other apps</a></li>
+<li><a href="https://arstechnica.com/gadgets/2026/11/ceo-jensen-huangs-job-is-suddenly-on-the-line-at-nvidia" rel="nofollow" target="_blank">Nvidia CEO Jensen Huang has resigned</a></li>
+<li><a href="https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/" rel="nofollow" target="_blank">‘Bring Back THE Boss’: Nvidia Employees Petition for Jensen Huang’s Return</a></li>
+<li><a href="https://www.wired.com/story/kernel-panic-refrigeration-hacks-internet-of-things/" rel="nofollow" target="_blank">The Fridge-Hacking Spree Is an Internet-of-Things Wake-Up Call</a></li>
+<li><a href="https://www.nytimes.com/2026/11/08/business/ai-ceo-impersonation-theft.html" rel="nofollow" target="_blank">When the Boss on the Phone Isn’t Real: How More Than $129 Million Was Stolen Using A.I.</a></li>
+<li><a href="https://www.reuters.com/world/asia-pacific/north-korean-hackers-steal-more-than-400-million-using-video-images-fbi-says-2026-11-12/" rel="nofollow" target="_blank">North Korean hackers steal more than $400 million using video images, FBI says</a></li>
+<li><a href="https://pluralistic.net/2026/11/13/outlookpocalypse/" rel="nofollow" target="_blank">Pluralistic: I told you so (13 Nov 2026</a></li>
+<li><a href="https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal" rel="nofollow" target="_blank">Judge Refuses to Dismiss DRAM Supply Conspiracy Suit Against Samsung, SK Hynix, Micron</a></li>
+<li><a href="https://www.oneusefulthing.org/p/fable-52-and-jagged-agi" rel="nofollow" target="_blank">Fable 5.2 and Jagged AGI</a></li>
+<li><a href="https://the-decoder.com/anthropics-fable-5-2-completes-41-percent-of-real-freelance-jobs-up-from-2-5-percent-a-year-ago/" rel="nofollow" target="_blank">Anthropic's Fable 5.2 completes 41 percent of real freelance jobs, up from 2.5 percent a year ago</a></li>
+<li><a href="https://bsky.app/profile/alexip718.com/post/3n2dkqa2gts2i" rel="nofollow" target="_blank">The next Governor of Alaska was a very active Wikipedia user</a></li>
+<li><a href="https://www.youtube.com/watch?v=VHVt02lIbxQ" rel="nofollow" target="_blank">Hachikō | Animated Short Film | Utopai Studios</a></li>
+<li><a href="https://www.web3isgoinggreat.com/" rel="nofollow" target="_blank">North Korea hacks Binance for around $6.3 billion, some frozen</a></li>
+</ul>]]></content:encoded>
+  </item>
   <item>
     <title>1109: Looks Like a Fish, Steers Like a Cow</title>
     <itunes:title>Looks Like a Fish, Steers Like a Cow</itunes:title>
@@ -130,7 +188,7 @@
     <guid isPermaLink="false">twit-archive-ep-1107</guid>
     <link>https://twit.tv/shows/this-week-in-tech/episodes/1107</link>
     <pubDate>Sun, 25 Oct 2026 23:36:03 +0000</pubDate>
-    <enclosure url="https://cdn.twit.tv/cap/twit_1107/4f9eb121-7d4b-49b0-b2f6-b4a07e248418.mp3" length="157520875" type="audio/mpeg"/>
+    <enclosure url="https://cdn.twit.tv/cap/twit_1107/4f9eb121-7d4b-49b0-b2f6-b4a07e248418.mp3" length="158001946" type="audio/mpeg"/>
     <itunes:duration>2:44:04</itunes:duration>
     <itunes:image href="https://elroy.twit.tv/sites/default/files/images/episodes/2026/10/863507/hero/TWIT1107_thumbnail.jpg"/>
     <itunes:author>Leo Laporte</itunes:author>
@@ -172,7 +230,7 @@
     <guid isPermaLink="false">twit-archive-ep-1106</guid>
     <link>https://twit.tv/shows/this-week-in-tech/episodes/1106</link>
     <pubDate>Mon, 19 Oct 2026 01:43:13 +0000</pubDate>
-    <enclosure url="https://cdn.twit.tv/cap/twit_1106/6f13c6bc-2078-4c73-a5b7-d32909292336.mp3" length="165374743" type="audio/mpeg"/>
+    <enclosure url="https://cdn.twit.tv/cap/twit_1106/6f13c6bc-2078-4c73-a5b7-d32909292336.mp3" length="165853308" type="audio/mpeg"/>
     <itunes:duration>2:51:15</itunes:duration>
     <itunes:image href="https://elroy.twit.tv/sites/default/files/images/episodes/2026/10/863421/hero/TWIT1106_thumbnail.jpg"/>
     <itunes:author>Leo Laporte</itunes:author>
