@@ -19,9 +19,73 @@
   <itunes:owner>
     <itunes:name>This Week in Tech Archive</itunes:name>
   </itunes:owner>
-  <lastBuildDate>Mon, 16 Nov 2026 23:44:58 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 24 Nov 2026 02:14:04 +0000</lastBuildDate>
   <generator>twit-archive</generator>
   <atom:link href="https://kyerussell.github.io/twit-archive/feed.xml" rel="self" type="application/rss+xml"/>
+  <item>
+    <title>1111: That's What Xi Said</title>
+    <itunes:title>That's What Xi Said</itunes:title>
+    <itunes:episode>1111</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <guid isPermaLink="false">twit-archive-ep-1111</guid>
+    <link>https://twit.tv/shows/this-week-in-tech/episodes/1111</link>
+    <pubDate>Mon, 23 Nov 2026 03:44:09 +0000</pubDate>
+    <enclosure url="https://cdn.twit.tv/cap/twit_1111/f8ad322f-fa91-406e-b92e-6f2c81ddb182.mp3" length="187519475" type="audio/mpeg"/>
+    <itunes:duration>3:12:47</itunes:duration>
+    <itunes:image href="https://elroy.twit.tv/sites/default/files/images/episodes/2026/11/863831/hero/TWIT1111_thumbnail.jpg"/>
+    <itunes:author>Leo Laporte</itunes:author>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:subtitle>Grand Theft Auto VI Releases &amp;amp; Shatters Records</itunes:subtitle>
+    <itunes:summary><![CDATA[Grand Theft Auto VI Releases &amp; Shatters Records]]></itunes:summary>
+    <description><![CDATA[<p><strong>Guests:</strong> Mike Elgan, Denise Howell, Nicholas De Leon</p>
+<p>From Anthropic’s record-breaking IPO to the turbulent leadership drama at NVIDIA, Leo and the panel ask if visionary founders really are indispensable, or if their flaws can topple entire companies. Find out what can happen when the tech industry's biggest players stumble.</p><ul><li>Anthropic Debuts on Wall Street as a $2 Trillion Company</li><li>Anthropic mathematician claims to prove Riemann hypothesis, most famous problem in all of math</li><li><em>GTA VI</em> hijacks America</li><li>Mass Surveillance and <em>GTA</em></li><li>Kagi Watch</li><li>Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’</li><li>Jensen Huang agrees to face Congress over NVIDIA scandal</li><li>U.S. Commerce Department Rushed to Clear NVIDIA H200 Exports to China</li><li>Microsoft reveals that an old bug caused the massive outage that took its services offline</li><li>Microsoft CEO Satya Nadella explains why he asked 60K employees to quit</li><li>Waymo has stopped its robotaxis from driving on the freeway</li><li>NYC, LA and Chicago School Districts Weigh Breaking Up With Google Search Over A.I.</li><li>Muse privacy invasions are freaking out Meta staffers, internal chats show</li><li>Signal locks out Siri AI and Gemini, but says it cannot protect the Mac</li><li>Netflix, Fox and the $2bn bid for the 2030 World Cup that could reshape live sports</li><li>YouTube found a new way to inflate view counts</li><li>Pentagon CIO Kirsten Davies replaces Sean Cairncross as US cyber director</li><li>Trump FCC declares California isn't allowed to enforce phone service rules</li><li>CR's Black Friday coverage</li></ul>
+<h3>Links</h3>
+<ul>
+<li><a href="https://www.nytimes.com/2026/11/19/technology/anthropic-2-trillion.html" rel="nofollow" target="_blank">Anthropic Debuts on Wall Street as a $2 Trillion Company</a></li>
+<li><a href="https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/" rel="nofollow" target="_blank">Anthropic mathematician claims to prove Riemann hypothesis, most famous problem in all of math</a></li>
+<li><a href="https://www.axios.com/2026/11/20/gta-6-viral-moments-monoculture" rel="nofollow" target="_blank">GTA VI hijacks America</a></li>
+<li><a href="https://www.404media.co/mass-surveillance-and-gta" rel="nofollow" target="_blank">Mass Surveillance and GTA</a></li>
+<li><a href="https://kagi.com/watch" rel="nofollow" target="_blank">Kagi Watch</a></li>
+<li><a href="https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team" rel="nofollow" target="_blank">Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’</a></li>
+<li><a href="https://www.axios.com/2026/11/17/nvidia-jensen-huang-congress-testify-dates" rel="nofollow" target="_blank">Jensen Huang agrees to face Congress over Nvidia scandal</a></li>
+<li><a href="https://www.theinformation.com/articles/u-s-commerce-department-rushed-clear-nvidia-h200-exports-china" rel="nofollow" target="_blank">U.S. Commerce Department Rushed to Clear Nvidia H200 Exports to China</a></li>
+<li><a href="https://www.engadget.com/2318906/microsoft-reveals-that-an-old-bug-caused-the-massive-outage-that-took-its-services-offline" rel="nofollow" target="_blank">Microsoft reveals that an old bug caused the massive outage that took its services offline</a></li>
+<li><a href="https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit" rel="nofollow" target="_blank">Microsoft CEO Satya Nadella explains why he asked 60K employees to quit</a></li>
+<li><a href="https://arstechnica.com/cars/2026/11/waymo-suspends-freeway-driving-after-california-construction-zone-complaint/" rel="nofollow" target="_blank">Waymo has stopped its robotaxis from driving on the freeway—here’s why</a></li>
+<li><a href="https://www.nytimes.com/2026/11/18/technology/google-gemini-ai-search-schools-nyc-la-chicago.html" rel="nofollow" target="_blank">NYC, LA and Chicago School Districts Weigh Breaking Up With Google Search Over A.I.</a></li>
+<li><a href="https://arstechnica.com/tech-policy/2026/11/muse-privacy-invasions-are-freaking-out-meta-staffers-internal-chats-show" rel="nofollow" target="_blank">Muse privacy invasions are freaking out Meta staffers, internal chats show</a></li>
+<li><a href="https://thenextweb.com/news/signal-ai-agents-blocks-screenshots-siri-gemini-whittaker" rel="nofollow" target="_blank">Signal locks out Siri AI and Gemini, but says it cannot protect the Mac</a></li>
+<li><a href="https://www.theguardian.com/football/2026/nov/18/netflix-fox-2030-world-cup-television-rights" rel="nofollow" target="_blank">Netflix, Fox and the $2bn bid for the 2030 World Cup that could reshape live sports</a></li>
+<li><a href="https://www.theverge.com/streaming/1035683/youtube-co-views-count" rel="nofollow" target="_blank">YouTube found a new way to inflate view counts</a></li>
+<li><a href="https://thenextweb.com/news/national-cyber-director-kirsten-davies-replaces-sean-cairncross" rel="nofollow" target="_blank">Pentagon CIO Kirsten Davies replaces Sean Cairncross as US cyber director</a></li>
+<li><a href="https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att" rel="nofollow" target="_blank">Trump FCC declares California isn't allowed to enforce phone service rules</a></li>
+<li><a href="https://www.consumerreports.org/money/gift-giving/best-gifts-a9213403891/" rel="nofollow" target="_blank">CR's Black Friday coverage</a></li>
+</ul>]]></description>
+    <content:encoded><![CDATA[<p><strong>Guests:</strong> Mike Elgan, Denise Howell, Nicholas De Leon</p>
+<p>From Anthropic’s record-breaking IPO to the turbulent leadership drama at NVIDIA, Leo and the panel ask if visionary founders really are indispensable, or if their flaws can topple entire companies. Find out what can happen when the tech industry's biggest players stumble.</p><ul><li>Anthropic Debuts on Wall Street as a $2 Trillion Company</li><li>Anthropic mathematician claims to prove Riemann hypothesis, most famous problem in all of math</li><li><em>GTA VI</em> hijacks America</li><li>Mass Surveillance and <em>GTA</em></li><li>Kagi Watch</li><li>Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’</li><li>Jensen Huang agrees to face Congress over NVIDIA scandal</li><li>U.S. Commerce Department Rushed to Clear NVIDIA H200 Exports to China</li><li>Microsoft reveals that an old bug caused the massive outage that took its services offline</li><li>Microsoft CEO Satya Nadella explains why he asked 60K employees to quit</li><li>Waymo has stopped its robotaxis from driving on the freeway</li><li>NYC, LA and Chicago School Districts Weigh Breaking Up With Google Search Over A.I.</li><li>Muse privacy invasions are freaking out Meta staffers, internal chats show</li><li>Signal locks out Siri AI and Gemini, but says it cannot protect the Mac</li><li>Netflix, Fox and the $2bn bid for the 2030 World Cup that could reshape live sports</li><li>YouTube found a new way to inflate view counts</li><li>Pentagon CIO Kirsten Davies replaces Sean Cairncross as US cyber director</li><li>Trump FCC declares California isn't allowed to enforce phone service rules</li><li>CR's Black Friday coverage</li></ul>
+<h3>Links</h3>
+<ul>
+<li><a href="https://www.nytimes.com/2026/11/19/technology/anthropic-2-trillion.html" rel="nofollow" target="_blank">Anthropic Debuts on Wall Street as a $2 Trillion Company</a></li>
+<li><a href="https://www.scientificamerican.com/article/anthropic-mathematician-claims-to-prove-riemann-hypothesis-most-famous-problem-in-all-of-math/" rel="nofollow" target="_blank">Anthropic mathematician claims to prove Riemann hypothesis, most famous problem in all of math</a></li>
+<li><a href="https://www.axios.com/2026/11/20/gta-6-viral-moments-monoculture" rel="nofollow" target="_blank">GTA VI hijacks America</a></li>
+<li><a href="https://www.404media.co/mass-surveillance-and-gta" rel="nofollow" target="_blank">Mass Surveillance and GTA</a></li>
+<li><a href="https://kagi.com/watch" rel="nofollow" target="_blank">Kagi Watch</a></li>
+<li><a href="https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team" rel="nofollow" target="_blank">Elon Musk says ousting Jensen Huang is like ‘kicking Michael Jordan off your team’</a></li>
+<li><a href="https://www.axios.com/2026/11/17/nvidia-jensen-huang-congress-testify-dates" rel="nofollow" target="_blank">Jensen Huang agrees to face Congress over Nvidia scandal</a></li>
+<li><a href="https://www.theinformation.com/articles/u-s-commerce-department-rushed-clear-nvidia-h200-exports-china" rel="nofollow" target="_blank">U.S. Commerce Department Rushed to Clear Nvidia H200 Exports to China</a></li>
+<li><a href="https://www.engadget.com/2318906/microsoft-reveals-that-an-old-bug-caused-the-massive-outage-that-took-its-services-offline" rel="nofollow" target="_blank">Microsoft reveals that an old bug caused the massive outage that took its services offline</a></li>
+<li><a href="https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit" rel="nofollow" target="_blank">Microsoft CEO Satya Nadella explains why he asked 60K employees to quit</a></li>
+<li><a href="https://arstechnica.com/cars/2026/11/waymo-suspends-freeway-driving-after-california-construction-zone-complaint/" rel="nofollow" target="_blank">Waymo has stopped its robotaxis from driving on the freeway—here’s why</a></li>
+<li><a href="https://www.nytimes.com/2026/11/18/technology/google-gemini-ai-search-schools-nyc-la-chicago.html" rel="nofollow" target="_blank">NYC, LA and Chicago School Districts Weigh Breaking Up With Google Search Over A.I.</a></li>
+<li><a href="https://arstechnica.com/tech-policy/2026/11/muse-privacy-invasions-are-freaking-out-meta-staffers-internal-chats-show" rel="nofollow" target="_blank">Muse privacy invasions are freaking out Meta staffers, internal chats show</a></li>
+<li><a href="https://thenextweb.com/news/signal-ai-agents-blocks-screenshots-siri-gemini-whittaker" rel="nofollow" target="_blank">Signal locks out Siri AI and Gemini, but says it cannot protect the Mac</a></li>
+<li><a href="https://www.theguardian.com/football/2026/nov/18/netflix-fox-2030-world-cup-television-rights" rel="nofollow" target="_blank">Netflix, Fox and the $2bn bid for the 2030 World Cup that could reshape live sports</a></li>
+<li><a href="https://www.theverge.com/streaming/1035683/youtube-co-views-count" rel="nofollow" target="_blank">YouTube found a new way to inflate view counts</a></li>
+<li><a href="https://thenextweb.com/news/national-cyber-director-kirsten-davies-replaces-sean-cairncross" rel="nofollow" target="_blank">Pentagon CIO Kirsten Davies replaces Sean Cairncross as US cyber director</a></li>
+<li><a href="https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att" rel="nofollow" target="_blank">Trump FCC declares California isn't allowed to enforce phone service rules</a></li>
+<li><a href="https://www.consumerreports.org/money/gift-giving/best-gifts-a9213403891/" rel="nofollow" target="_blank">CR's Black Friday coverage</a></li>
+</ul>]]></content:encoded>
+  </item>
   <item>
     <title>1110: High-End Electronic Drumkits</title>
     <itunes:title>High-End Electronic Drumkits</itunes:title>
@@ -30,7 +94,7 @@
     <guid isPermaLink="false">twit-archive-ep-1110</guid>
     <link>https://twit.tv/shows/this-week-in-tech/episodes/1110</link>
     <pubDate>Mon, 16 Nov 2026 02:22:07 +0000</pubDate>
-    <enclosure url="https://cdn.twit.tv/cap/twit_1110/04b03f4d-296d-4181-b174-7b2572ad04e5.mp3" length="163026231" type="audio/mpeg"/>
+    <enclosure url="https://cdn.twit.tv/cap/twit_1110/04b03f4d-296d-4181-b174-7b2572ad04e5.mp3" length="166436355" type="audio/mpeg"/>
     <itunes:duration>2:47:18</itunes:duration>
     <itunes:image href="https://elroy.twit.tv/sites/default/files/images/episodes/2026/11/863756/hero/TWIT1110_thumbnail.jpg"/>
     <itunes:author>Leo Laporte</itunes:author>
@@ -88,7 +152,7 @@
     <guid isPermaLink="false">twit-archive-ep-1109</guid>
     <link>https://twit.tv/shows/this-week-in-tech/episodes/1109</link>
     <pubDate>Mon, 09 Nov 2026 04:31:08 +0000</pubDate>
-    <enclosure url="https://cdn.twit.tv/cap/twit_1109/f791a2ee-dbac-48db-86f2-bfa67b37bfed.mp3" length="200646738" type="audio/mpeg"/>
+    <enclosure url="https://cdn.twit.tv/cap/twit_1109/f791a2ee-dbac-48db-86f2-bfa67b37bfed.mp3" length="202116282" type="audio/mpeg"/>
     <itunes:duration>3:28:30</itunes:duration>
     <itunes:image href="https://elroy.twit.tv/sites/default/files/images/episodes/2026/11/863669/hero/TWIT1109_thumbnail.jpg"/>
     <itunes:author>Leo Laporte</itunes:author>
@@ -138,7 +202,7 @@
     <guid isPermaLink="false">twit-archive-ep-1108</guid>
     <link>https://twit.tv/shows/this-week-in-tech/episodes/1108</link>
     <pubDate>Mon, 02 Nov 2026 03:23:52 +0000</pubDate>
-    <enclosure url="https://cdn.twit.tv/cap/twit_1108/c27552c3-e7b7-44d7-8370-f95d5f735f2a.mp3" length="158033709" type="audio/mpeg"/>
+    <enclosure url="https://cdn.twit.tv/cap/twit_1108/c27552c3-e7b7-44d7-8370-f95d5f735f2a.mp3" length="161414996" type="audio/mpeg"/>
     <itunes:duration>2:44:06</itunes:duration>
     <itunes:image href="https://elroy.twit.tv/sites/default/files/images/episodes/2026/11/863590/hero/TWIT1108_thumbnail.jpg"/>
     <itunes:author>Leo Laporte</itunes:author>
@@ -188,7 +252,7 @@
     <guid isPermaLink="false">twit-archive-ep-1107</guid>
     <link>https://twit.tv/shows/this-week-in-tech/episodes/1107</link>
     <pubDate>Sun, 25 Oct 2026 23:36:03 +0000</pubDate>
-    <enclosure url="https://cdn.twit.tv/cap/twit_1107/4f9eb121-7d4b-49b0-b2f6-b4a07e248418.mp3" length="158001946" type="audio/mpeg"/>
+    <enclosure url="https://cdn.twit.tv/cap/twit_1107/4f9eb121-7d4b-49b0-b2f6-b4a07e248418.mp3" length="158488450" type="audio/mpeg"/>
     <itunes:duration>2:44:04</itunes:duration>
     <itunes:image href="https://elroy.twit.tv/sites/default/files/images/episodes/2026/10/863507/hero/TWIT1107_thumbnail.jpg"/>
     <itunes:author>Leo Laporte</itunes:author>
